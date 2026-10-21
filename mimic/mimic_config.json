@@ -1,0 +1,55 @@
+{
+ "_doc": "Mimic game config, reloaded on every join. spawn: player spawn point. synthetic: extra world objects by def name (decoder/names.json) placed anywhere. hazards: contact damage by name substring. damage_zones: circles that hurt. Values are R&D knobs, not real server values unless noted in README.",
+ "spawn": {
+  "x": 11350,
+  "y": 12750
+ },
+ "name": "mimic",
+ "no_boards": false,
+ "speed": 46,
+ "swing_ms": 500,
+ "reach": 110,
+ "regen_delay_ms": 3000,
+ "regen_per_s": 5,
+ "spawn_shield_ms": 5000,
+ "hazards": [
+  {
+   "match": "spike",
+   "dps": 20
+  },
+  {
+   "match": "cactus",
+   "dps": 10
+  }
+ ],
+ "damage_zones": [
+  {
+   "x": 11770,
+   "y": 12750,
+   "r": 120,
+   "dps": 25
+  }
+ ],
+ "synthetic": [
+  {
+   "name": "snow-stone2",
+   "x": 11550,
+   "y": 12550
+  },
+  {
+   "name": "snow-seeds-plant",
+   "x": 11150,
+   "y": 12550
+  },
+  {
+   "name": "snow-golden-flower-bush",
+   "x": 11150,
+   "y": 12950
+  },
+  {
+   "name": "cactus0",
+   "x": 11770,
+   "y": 12750
+  }
+ ]
+}

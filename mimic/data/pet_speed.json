@@ -1,0 +1,3448 @@
+{
+ "note": "pet movement per species from tools/scan/pet_speed.py over 514 decoded captures; u/s",
+ "0": {
+  "walk": 71,
+  "run": 268,
+  "dash": 652,
+  "dash_ms": 188,
+  "samples": 38755,
+  "pets": 637,
+  "dash_samples": 45,
+  "name": "Wolf",
+  "stages": {
+   "0": {
+    "walk": 71,
+    "run": 262,
+    "dash": 650,
+    "dash_ms": 188,
+    "samples": 35786,
+    "pets": 558,
+    "dash_samples": 46
+   },
+   "1": {
+    "walk": 74,
+    "run": 337,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 1873,
+    "pets": 49,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 102,
+    "run": 299,
+    "dash": 650,
+    "dash_ms": 188,
+    "samples": 1096,
+    "pets": 30,
+    "dash_samples": 2
+   }
+  }
+ },
+ "1": {
+  "walk": 73,
+  "run": 341,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 852,
+  "pets": 18,
+  "dash_samples": 0,
+  "name": "Rabbit",
+  "stages": {
+   "0": {
+    "walk": 72,
+    "run": 350,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 521,
+    "pets": 6,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 108,
+    "run": 340,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 300,
+    "pets": 11,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 34,
+    "run": 270,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 31,
+    "pets": 1,
+    "dash_samples": 0
+   }
+  }
+ },
+ "2": {
+  "walk": 142,
+  "run": 305,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 2497,
+  "pets": 43,
+  "dash_samples": 0,
+  "name": "Bear",
+  "stages": {
+   "0": {
+    "walk": 76,
+    "run": 279,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 1355,
+    "pets": 20,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 212,
+    "run": 345,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 635,
+    "pets": 13,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 175,
+    "run": 286,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 507,
+    "pets": 10,
+    "dash_samples": 0
+   }
+  }
+ },
+ "3": {
+  "walk": 71,
+  "run": 331,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 436,
+  "pets": 10,
+  "dash_samples": 0,
+  "name": "Fox",
+  "stages": {
+   "0": {
+    "walk": 254,
+    "run": 344,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 176,
+    "pets": 4,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 65,
+    "run": 85,
+    "dash": 258,
+    "dash_ms": 188,
+    "samples": 247,
+    "pets": 4,
+    "dash_samples": 3
+   },
+   "2": {
+    "walk": 338,
+    "run": 368,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 13,
+    "pets": 2,
+    "dash_samples": 0
+   }
+  }
+ },
+ "7": {
+  "walk": 196,
+  "run": 342,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 203,
+  "pets": 7,
+  "dash_samples": 0,
+  "name": "Cow",
+  "stages": {
+   "1": {
+    "walk": 114,
+    "run": 352,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 110,
+    "pets": 3,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 244,
+    "run": 328,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 93,
+    "pets": 4,
+    "dash_samples": 0
+   }
+  }
+ },
+ "8": {
+  "walk": 310,
+  "run": 505,
+  "dash": 1133,
+  "dash_ms": 470,
+  "samples": 2236,
+  "pets": 46,
+  "dash_samples": 6,
+  "name": "Horse",
+  "stages": {
+   "0": {
+    "walk": 296,
+    "run": 480,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 115,
+    "pets": 2,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 290,
+    "run": 435,
+    "dash": 828,
+    "dash_ms": 188,
+    "samples": 1050,
+    "pets": 19,
+    "dash_samples": 1
+   },
+   "2": {
+    "walk": 344,
+    "run": 550,
+    "dash": 1135,
+    "dash_ms": 470,
+    "samples": 1071,
+    "pets": 25,
+    "dash_samples": 4
+   }
+  }
+ },
+ "9": {
+  "walk": 269,
+  "run": 305,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 152,
+  "pets": 3,
+  "dash_samples": 0,
+  "name": "Snow Wolf",
+  "stages": {
+   "1": {
+    "walk": 109,
+    "run": 140,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 15,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 273,
+    "run": 311,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 137,
+    "pets": 2,
+    "dash_samples": 0
+   }
+  }
+ },
+ "10": {
+  "walk": 237,
+  "run": 1038,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 186,
+  "pets": 3,
+  "dash_samples": 0,
+  "name": "Snow Rabbit",
+  "stages": {
+   "2": {
+    "walk": 237,
+    "run": 1038,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 186,
+    "pets": 3,
+    "dash_samples": 0
+   }
+  }
+ },
+ "11": {
+  "walk": 75,
+  "run": 286,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 83,
+  "pets": 2,
+  "dash_samples": 0,
+  "name": "Polar Bear",
+  "stages": {
+   "0": {
+    "walk": 72,
+    "run": 284,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 71,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 179,
+    "run": 398,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 12,
+    "pets": 1,
+    "dash_samples": 0
+   }
+  }
+ },
+ "12": {
+  "walk": 253,
+  "run": 302,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 88,
+  "pets": 4,
+  "dash_samples": 0,
+  "name": "Snow Fox",
+  "stages": {
+   "1": {
+    "walk": 253,
+    "run": 302,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 88,
+    "pets": 4,
+    "dash_samples": 0
+   }
+  }
+ },
+ "13": {
+  "walk": 185,
+  "run": 431,
+  "dash": 1384,
+  "dash_ms": 188,
+  "samples": 1356,
+  "pets": 28,
+  "dash_samples": 4,
+  "name": "Reindeer",
+  "stages": {
+   "0": {
+    "walk": 58,
+    "run": 269,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 77,
+    "pets": 2,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 155,
+    "run": 375,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 909,
+    "pets": 14,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 298,
+    "run": 595,
+    "dash": 1799,
+    "dash_ms": 282,
+    "samples": 370,
+    "pets": 12,
+    "dash_samples": 2
+   }
+  }
+ },
+ "14": {
+  "walk": 124,
+  "run": 324,
+  "dash": 1112,
+  "dash_ms": 376,
+  "samples": 2186,
+  "pets": 45,
+  "dash_samples": 1,
+  "name": "Lynx",
+  "stages": {
+   "0": {
+    "walk": 104,
+    "run": 232,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 347,
+    "pets": 6,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 124,
+    "run": 334,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 1425,
+    "pets": 25,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 184,
+    "run": 309,
+    "dash": 1112,
+    "dash_ms": 376,
+    "samples": 414,
+    "pets": 14,
+    "dash_samples": 1
+   }
+  }
+ },
+ "16": {
+  "walk": 130,
+  "run": 432,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 118,
+  "pets": 4,
+  "dash_samples": 0,
+  "name": "Boar",
+  "stages": {
+   "0": {
+    "walk": 227,
+    "run": 381,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 11,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 77,
+    "run": 308,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 25,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 159,
+    "run": 436,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 82,
+    "pets": 2,
+    "dash_samples": 0
+   }
+  }
+ },
+ "17": {
+  "walk": 154,
+  "run": 427,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 230,
+  "pets": 8,
+  "dash_samples": 0,
+  "name": "Water Fairy",
+  "stages": {
+   "2": {
+    "walk": 154,
+    "run": 427,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 230,
+    "pets": 8,
+    "dash_samples": 0
+   }
+  }
+ },
+ "18": {
+  "walk": 106,
+  "run": 378,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 46,
+  "pets": 2,
+  "dash_samples": 0,
+  "name": "Fire Fairy",
+  "stages": {
+   "1": {
+    "walk": 180,
+    "run": 746,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 9,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 104,
+    "run": 280,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 37,
+    "pets": 1,
+    "dash_samples": 0
+   }
+  }
+ },
+ "19": {
+  "walk": 372,
+  "run": 574,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 336,
+  "pets": 10,
+  "dash_samples": 0,
+  "name": "Plant Fairy",
+  "stages": {
+   "0": {
+    "walk": 389,
+    "run": 674,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 6,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 372,
+    "run": 574,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 330,
+    "pets": 9,
+    "dash_samples": 0
+   }
+  }
+ },
+ "20": {
+  "walk": 192,
+  "run": 372,
+  "dash": 728,
+  "dash_ms": 188,
+  "samples": 1840,
+  "pets": 51,
+  "dash_samples": 1,
+  "name": "Dragon",
+  "stages": {
+   "0": {
+    "walk": 197,
+    "run": 313,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 465,
+    "pets": 9,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 187,
+    "run": 333,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 803,
+    "pets": 22,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 178,
+    "run": 405,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 572,
+    "pets": 20,
+    "dash_samples": 0
+   }
+  }
+ },
+ "21": {
+  "walk": 102,
+  "run": 239,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 23,
+  "pets": 3,
+  "dash_samples": 0,
+  "name": "Ice Golem",
+  "stages": {
+   "1": {
+    "walk": 238,
+    "run": 486,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 9,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 71,
+    "run": 143,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 14,
+    "pets": 2,
+    "dash_samples": 0
+   }
+  }
+ },
+ "22": {
+  "walk": 62,
+  "run": 293,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 239,
+  "pets": 8,
+  "dash_samples": 0,
+  "name": "Iceberg",
+  "stages": {
+   "0": {
+    "walk": 53,
+    "run": 188,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 106,
+    "pets": 2,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 204,
+    "run": 316,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 8,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 106,
+    "run": 350,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 125,
+    "pets": 5,
+    "dash_samples": 0
+   }
+  }
+ },
+ "23": {
+  "walk": 247,
+  "run": 294,
+  "dash": 621,
+  "dash_ms": 188,
+  "samples": 190,
+  "pets": 5,
+  "dash_samples": 1,
+  "name": "Barn Owl",
+  "stages": {
+   "0": {
+    "walk": 145,
+    "run": 285,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 90,
+    "pets": 2,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 263,
+    "run": 302,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 100,
+    "pets": 3,
+    "dash_samples": 0
+   }
+  }
+ },
+ "24": {
+  "walk": 280,
+  "run": 346,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 58,
+  "pets": 1,
+  "dash_samples": 0,
+  "name": "Raven",
+  "stages": {
+   "2": {
+    "walk": 280,
+    "run": 346,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 58,
+    "pets": 1,
+    "dash_samples": 0
+   }
+  }
+ },
+ "25": {
+  "walk": 275,
+  "run": 388,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 516,
+  "pets": 11,
+  "dash_samples": 0,
+  "name": "Bat",
+  "stages": {
+   "0": {
+    "walk": 262,
+    "run": 388,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 150,
+    "pets": 4,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 352,
+    "run": 402,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 215,
+    "pets": 4,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 142,
+    "run": 256,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 151,
+    "pets": 3,
+    "dash_samples": 0
+   }
+  }
+ },
+ "29": {
+  "walk": 204,
+  "run": 342,
+  "dash": 690,
+  "dash_ms": 188,
+  "samples": 305,
+  "pets": 2,
+  "dash_samples": 1,
+  "name": "Rabbid",
+  "stages": {
+   "1": {
+    "walk": 216,
+    "run": 274,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 78,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 200,
+    "run": 349,
+    "dash": 690,
+    "dash_ms": 188,
+    "samples": 227,
+    "pets": 1,
+    "dash_samples": 1
+   }
+  }
+ },
+ "30": {
+  "walk": 221,
+  "run": 298,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 85,
+  "pets": 5,
+  "dash_samples": 0,
+  "name": "White Spider",
+  "stages": {
+   "1": {
+    "walk": 83,
+    "run": 250,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 21,
+    "pets": 3,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 274,
+    "run": 298,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 64,
+    "pets": 2,
+    "dash_samples": 0
+   }
+  }
+ },
+ "31": {
+  "walk": 265,
+  "run": 411,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 126,
+  "pets": 4,
+  "dash_samples": 0,
+  "name": "Black Spider",
+  "stages": {
+   "1": {
+    "walk": 259,
+    "run": 284,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 57,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 270,
+    "run": 421,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 69,
+    "pets": 3,
+    "dash_samples": 0
+   }
+  }
+ },
+ "32": {
+  "walk": 70,
+  "run": 293,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 385,
+  "pets": 11,
+  "dash_samples": 0,
+  "name": "Living Mushroom",
+  "stages": {
+   "0": {
+    "walk": 282,
+    "run": 361,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 73,
+    "pets": 2,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 66,
+    "run": 154,
+    "dash": 418,
+    "dash_ms": 282,
+    "samples": 312,
+    "pets": 9,
+    "dash_samples": 3
+   }
+  }
+ },
+ "33": {
+  "walk": 232,
+  "run": 279,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 77,
+  "pets": 5,
+  "dash_samples": 0,
+  "name": "Sheep",
+  "stages": {
+   "1": {
+    "walk": 242,
+    "run": 273,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 48,
+    "pets": 2,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 75,
+    "run": 318,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 29,
+    "pets": 3,
+    "dash_samples": 0
+   }
+  }
+ },
+ "34": {
+  "walk": 335,
+  "run": 565,
+  "dash": 1620,
+  "dash_ms": 188,
+  "samples": 820,
+  "pets": 24,
+  "dash_samples": 4,
+  "name": "Unicorn",
+  "stages": {
+   "0": {
+    "walk": 275,
+    "run": 452,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 102,
+    "pets": 3,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 322,
+    "run": 600,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 283,
+    "pets": 6,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 365,
+    "run": 603,
+    "dash": 1620,
+    "dash_ms": 188,
+    "samples": 435,
+    "pets": 15,
+    "dash_samples": 4
+   }
+  }
+ },
+ "35": {
+  "walk": 299,
+  "run": 350,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 87,
+  "pets": 1,
+  "dash_samples": 0,
+  "name": "Spectrum",
+  "stages": {
+   "0": {
+    "walk": 299,
+    "run": 350,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 87,
+    "pets": 1,
+    "dash_samples": 0
+   }
+  }
+ },
+ "36": {
+  "walk": 223,
+  "run": 552,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 57,
+  "pets": 1,
+  "dash_samples": 0,
+  "name": "Combat Fairy",
+  "stages": {
+   "2": {
+    "walk": 223,
+    "run": 552,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 57,
+    "pets": 1,
+    "dash_samples": 0
+   }
+  }
+ },
+ "37": {
+  "walk": 110,
+  "run": 427,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 523,
+  "pets": 14,
+  "dash_samples": 0,
+  "name": "Ice Fairy",
+  "stages": {
+   "0": {
+    "walk": 67,
+    "run": 71,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 6,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 136,
+    "run": 383,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 287,
+    "pets": 7,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 104,
+    "run": 501,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 230,
+    "pets": 6,
+    "dash_samples": 0
+   }
+  }
+ },
+ "39": {
+  "walk": 266,
+  "run": 481,
+  "dash": 2271,
+  "dash_ms": 376,
+  "samples": 539,
+  "pets": 16,
+  "dash_samples": 2,
+  "name": "Rat",
+  "stages": {
+   "0": {
+    "walk": 125,
+    "run": 338,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 81,
+    "pets": 2,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 314,
+    "run": 535,
+    "dash": 2271,
+    "dash_ms": 282,
+    "samples": 407,
+    "pets": 11,
+    "dash_samples": 2
+   },
+   "2": {
+    "walk": 159,
+    "run": 330,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 51,
+    "pets": 3,
+    "dash_samples": 0
+   }
+  }
+ },
+ "41": {
+  "walk": 212,
+  "run": 257,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 121,
+  "pets": 3,
+  "dash_samples": 0,
+  "name": "Mammoth",
+  "stages": {
+   "0": {
+    "walk": 216,
+    "run": 226,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 55,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 208,
+    "run": 273,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 44,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 45,
+    "run": 87,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 22,
+    "pets": 1,
+    "dash_samples": 0
+   }
+  }
+ },
+ "42": {
+  "walk": 211,
+  "run": 394,
+  "dash": 1254,
+  "dash_ms": 188,
+  "samples": 2111,
+  "pets": 53,
+  "dash_samples": 3,
+  "name": "Fennec Fox",
+  "stages": {
+   "0": {
+    "walk": 206,
+    "run": 261,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 120,
+    "pets": 4,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 203,
+    "run": 318,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 591,
+    "pets": 21,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 218,
+    "run": 410,
+    "dash": 1254,
+    "dash_ms": 188,
+    "samples": 1400,
+    "pets": 28,
+    "dash_samples": 3
+   }
+  }
+ },
+ "43": {
+  "walk": 77,
+  "run": 335,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 452,
+  "pets": 10,
+  "dash_samples": 0,
+  "name": "Armadillo",
+  "stages": {
+   "1": {
+    "walk": 52,
+    "run": 168,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 25,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 81,
+    "run": 338,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 427,
+    "pets": 9,
+    "dash_samples": 0
+   }
+  }
+ },
+ "44": {
+  "walk": 166,
+  "run": 354,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 254,
+  "pets": 9,
+  "dash_samples": 0,
+  "name": "Yellow Scorpion",
+  "stages": {
+   "0": {
+    "walk": 142,
+    "run": 324,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 64,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 187,
+    "run": 367,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 190,
+    "pets": 8,
+    "dash_samples": 0
+   }
+  }
+ },
+ "45": {
+  "walk": 53,
+  "run": 181,
+  "dash": 508,
+  "dash_ms": 564,
+  "samples": 200,
+  "pets": 7,
+  "dash_samples": 1,
+  "name": "Rock Fairy",
+  "stages": {
+   "1": {
+    "walk": 49,
+    "run": 145,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 153,
+    "pets": 5,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 72,
+    "run": 412,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 47,
+    "pets": 2,
+    "dash_samples": 0
+   }
+  }
+ },
+ "46": {
+  "walk": 231,
+  "run": 402,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 384,
+  "pets": 7,
+  "dash_samples": 0,
+  "name": "Dragon Fairy",
+  "stages": {
+   "0": {
+    "walk": 273,
+    "run": 323,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 109,
+    "pets": 2,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 179,
+    "run": 395,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 257,
+    "pets": 4,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 444,
+    "run": 534,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 18,
+    "pets": 1,
+    "dash_samples": 0
+   }
+  }
+ },
+ "47": {
+  "walk": 111,
+  "run": 262,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 45,
+  "pets": 4,
+  "dash_samples": 0,
+  "name": "Camel",
+  "stages": {
+   "0": {
+    "walk": 204,
+    "run": 262,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 24,
+    "pets": 2,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 89,
+    "run": 138,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 16,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 240,
+    "run": 523,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 5,
+    "pets": 1,
+    "dash_samples": 0
+   }
+  }
+ },
+ "48": {
+  "walk": 206,
+  "run": 375,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 311,
+  "pets": 8,
+  "dash_samples": 0,
+  "name": "Black Cat",
+  "stages": {
+   "0": {
+    "walk": 220,
+    "run": 258,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 82,
+    "pets": 3,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 252,
+    "run": 394,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 146,
+    "pets": 2,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 78,
+    "run": 334,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 83,
+    "pets": 3,
+    "dash_samples": 0
+   }
+  }
+ },
+ "49": {
+  "walk": 216,
+  "run": 273,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 61,
+  "pets": 2,
+  "dash_samples": 0,
+  "name": "Vulture",
+  "stages": {
+   "0": {
+    "walk": 215,
+    "run": 254,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 54,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 360,
+    "run": 2010,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 7,
+    "pets": 1,
+    "dash_samples": 0
+   }
+  }
+ },
+ "50": {
+  "walk": 85,
+  "run": 380,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 228,
+  "pets": 5,
+  "dash_samples": 0,
+  "name": "Electric Fairy",
+  "stages": {
+   "0": {
+    "walk": 74,
+    "run": 241,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 64,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 68,
+    "run": 177,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 56,
+    "pets": 2,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 208,
+    "run": 479,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 108,
+    "pets": 2,
+    "dash_samples": 0
+   }
+  }
+ },
+ "51": {
+  "walk": 303,
+  "run": 454,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 195,
+  "pets": 5,
+  "dash_samples": 0,
+  "name": "Poison Fairy",
+  "stages": {
+   "1": {
+    "walk": 334,
+    "run": 455,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 180,
+    "pets": 3,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 272,
+    "run": 385,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 15,
+    "pets": 2,
+    "dash_samples": 0
+   }
+  }
+ },
+ "52": {
+  "walk": 53,
+  "run": 237,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 52,
+  "pets": 2,
+  "dash_samples": 0,
+  "name": "Spectrum Fairy",
+  "stages": {
+   "1": {
+    "walk": 53,
+    "run": 287,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 39,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 66,
+    "run": 76,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 13,
+    "pets": 1,
+    "dash_samples": 0
+   }
+  }
+ },
+ "53": {
+  "walk": 316,
+  "run": 630,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 370,
+  "pets": 14,
+  "dash_samples": 0,
+  "name": "Ostrich",
+  "stages": {
+   "1": {
+    "walk": 76,
+    "run": 314,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 95,
+    "pets": 3,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 347,
+    "run": 757,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 275,
+    "pets": 11,
+    "dash_samples": 0
+   }
+  }
+ },
+ "55": {
+  "walk": 111,
+  "run": 389,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 94,
+  "pets": 3,
+  "dash_samples": 0,
+  "name": "Insect Fairy",
+  "stages": {
+   "1": {
+    "walk": 53,
+    "run": 351,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 9,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 118,
+    "run": 397,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 85,
+    "pets": 2,
+    "dash_samples": 0
+   }
+  }
+ },
+ "56": {
+  "walk": 84,
+  "run": 307,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 751,
+  "pets": 15,
+  "dash_samples": 0,
+  "name": "Giant Mantis",
+  "stages": {
+   "0": {
+    "walk": 58,
+    "run": 222,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 63,
+    "pets": 2,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 76,
+    "run": 284,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 529,
+    "pets": 6,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 152,
+    "run": 424,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 159,
+    "pets": 7,
+    "dash_samples": 0
+   }
+  }
+ },
+ "57": {
+  "walk": 192,
+  "run": 254,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 14,
+  "pets": 1,
+  "dash_samples": 0,
+  "name": "Giant Bee",
+  "stages": {
+   "2": {
+    "walk": 192,
+    "run": 254,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 14,
+    "pets": 1,
+    "dash_samples": 0
+   }
+  }
+ },
+ "58": {
+  "walk": 76,
+  "run": 331,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 52,
+  "pets": 1,
+  "dash_samples": 0,
+  "name": "Giant Moth",
+  "stages": {
+   "0": {
+    "walk": 76,
+    "run": 331,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 52,
+    "pets": 1,
+    "dash_samples": 0
+   }
+  }
+ },
+ "59": {
+  "walk": 84,
+  "run": 368,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 2125,
+  "pets": 54,
+  "dash_samples": 0,
+  "name": "Oryx",
+  "stages": {
+   "0": {
+    "walk": 83,
+    "run": 311,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 571,
+    "pets": 9,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 74,
+    "run": 365,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 817,
+    "pets": 27,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 111,
+    "run": 440,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 737,
+    "pets": 18,
+    "dash_samples": 0
+   }
+  }
+ },
+ "60": {
+  "walk": 380,
+  "run": 405,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 26,
+  "pets": 1,
+  "dash_samples": 0,
+  "name": "Rabblow",
+  "stages": {
+   "2": {
+    "walk": 380,
+    "run": 405,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 26,
+    "pets": 1,
+    "dash_samples": 0
+   }
+  }
+ },
+ "62": {
+  "walk": 176,
+  "run": 311,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 213,
+  "pets": 6,
+  "dash_samples": 0,
+  "name": "Stone Golem",
+  "stages": {
+   "0": {
+    "walk": 198,
+    "run": 298,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 18,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 175,
+    "run": 312,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 190,
+    "pets": 4,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 252,
+    "run": 487,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 5,
+    "pets": 1,
+    "dash_samples": 0
+   }
+  }
+ },
+ "64": {
+  "walk": 268,
+  "run": 452,
+  "dash": 1242,
+  "dash_ms": 282,
+  "samples": 1169,
+  "pets": 40,
+  "dash_samples": 7,
+  "name": "Warg",
+  "stages": {
+   "0": {
+    "walk": 109,
+    "run": 257,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 131,
+    "pets": 7,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 140,
+    "run": 392,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 199,
+    "pets": 6,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 311,
+    "run": 496,
+    "dash": 1242,
+    "dash_ms": 282,
+    "samples": 839,
+    "pets": 27,
+    "dash_samples": 5
+   }
+  }
+ },
+ "65": {
+  "walk": 197,
+  "run": 463,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 938,
+  "pets": 24,
+  "dash_samples": 0,
+  "name": "Reaper",
+  "stages": {
+   "0": {
+    "walk": 70,
+    "run": 359,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 86,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 78,
+    "run": 325,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 257,
+    "pets": 6,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 275,
+    "run": 525,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 595,
+    "pets": 17,
+    "dash_samples": 0
+   }
+  }
+ },
+ "66": {
+  "walk": 75,
+  "run": 371,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 774,
+  "pets": 16,
+  "dash_samples": 0,
+  "name": "Kangaroo",
+  "stages": {
+   "0": {
+    "walk": 70,
+    "run": 155,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 70,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 69,
+    "run": 378,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 499,
+    "pets": 7,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 178,
+    "run": 325,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 205,
+    "pets": 8,
+    "dash_samples": 0
+   }
+  }
+ },
+ "67": {
+  "walk": 215,
+  "run": 376,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 1101,
+  "pets": 24,
+  "dash_samples": 0,
+  "name": "Toad",
+  "stages": {
+   "0": {
+    "walk": 196,
+    "run": 257,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 60,
+    "pets": 2,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 224,
+    "run": 376,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 1026,
+    "pets": 21,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 211,
+    "run": 434,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 15,
+    "pets": 1,
+    "dash_samples": 0
+   }
+  }
+ },
+ "68": {
+  "walk": 67,
+  "run": 78,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 50,
+  "pets": 1,
+  "dash_samples": 0,
+  "name": "Flying Squirrel",
+  "stages": {
+   "1": {
+    "walk": 67,
+    "run": 78,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 50,
+    "pets": 1,
+    "dash_samples": 0
+   }
+  }
+ },
+ "69": {
+  "walk": 343,
+  "run": 423,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 49,
+  "pets": 1,
+  "dash_samples": 0,
+  "name": "Turkey",
+  "stages": {
+   "2": {
+    "walk": 343,
+    "run": 423,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 49,
+    "pets": 1,
+    "dash_samples": 0
+   }
+  }
+ },
+ "71": {
+  "walk": 61,
+  "run": 72,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 53,
+  "pets": 2,
+  "dash_samples": 0,
+  "name": "Rock Mask",
+  "stages": {
+   "0": {
+    "walk": 36,
+    "run": 66,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 31,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 71,
+    "run": 77,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 22,
+    "pets": 1,
+    "dash_samples": 0
+   }
+  }
+ },
+ "72": {
+  "walk": 90,
+  "run": 166,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 6,
+  "pets": 1,
+  "dash_samples": 0,
+  "name": "Water Mask",
+  "stages": {
+   "2": {
+    "walk": 90,
+    "run": 166,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 6,
+    "pets": 1,
+    "dash_samples": 0
+   }
+  }
+ },
+ "75": {
+  "walk": 47,
+  "run": 58,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 12,
+  "pets": 1,
+  "dash_samples": 0,
+  "name": "Hedgehog",
+  "stages": {
+   "2": {
+    "walk": 47,
+    "run": 58,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 12,
+    "pets": 1,
+    "dash_samples": 0
+   }
+  }
+ },
+ "76": {
+  "walk": 161,
+  "run": 300,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 132,
+  "pets": 6,
+  "dash_samples": 0,
+  "name": "Ice Dragon",
+  "stages": {
+   "1": {
+    "walk": 136,
+    "run": 318,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 52,
+    "pets": 2,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 166,
+    "run": 258,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 80,
+    "pets": 4,
+    "dash_samples": 0
+   }
+  }
+ },
+ "77": {
+  "walk": 153,
+  "run": 291,
+  "dash": 1429,
+  "dash_ms": 470,
+  "samples": 401,
+  "pets": 11,
+  "dash_samples": 1,
+  "name": "Sea Crab",
+  "stages": {
+   "0": {
+    "walk": 101,
+    "run": 228,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 46,
+    "pets": 2,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 95,
+    "run": 272,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 224,
+    "pets": 6,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 238,
+    "run": 328,
+    "dash": 1429,
+    "dash_ms": 470,
+    "samples": 131,
+    "pets": 3,
+    "dash_samples": 1
+   }
+  }
+ },
+ "78": {
+  "walk": 85,
+  "run": 281,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 685,
+  "pets": 7,
+  "dash_samples": 0,
+  "name": "Squid",
+  "stages": {
+   "0": {
+    "walk": 202,
+    "run": 285,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 153,
+    "pets": 3,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 59,
+    "run": 280,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 532,
+    "pets": 4,
+    "dash_samples": 0
+   }
+  }
+ },
+ "79": {
+  "walk": 69,
+  "run": 347,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 212,
+  "pets": 5,
+  "dash_samples": 0,
+  "name": "Seahorse",
+  "stages": {
+   "0": {
+    "walk": 76,
+    "run": 347,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 96,
+    "pets": 2,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 54,
+    "run": 266,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 105,
+    "pets": 2,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 409,
+    "run": 430,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 11,
+    "pets": 1,
+    "dash_samples": 0
+   }
+  }
+ },
+ "80": {
+  "walk": 60,
+  "run": 305,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 680,
+  "pets": 11,
+  "dash_samples": 0,
+  "name": "Mauve",
+  "stages": {
+   "1": {
+    "walk": 280,
+    "run": 334,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 117,
+    "pets": 4,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 56,
+    "run": 234,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 563,
+    "pets": 7,
+    "dash_samples": 0
+   }
+  }
+ },
+ "81": {
+  "walk": 409,
+  "run": 909,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 77,
+  "pets": 4,
+  "dash_samples": 0,
+  "name": "Rabbyss",
+  "stages": {
+   "1": {
+    "walk": 198,
+    "run": 253,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 21,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 534,
+    "run": 927,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 56,
+    "pets": 3,
+    "dash_samples": 0
+   }
+  }
+ },
+ "82": {
+  "walk": 68,
+  "run": 155,
+  "dash": 606,
+  "dash_ms": 376,
+  "samples": 127,
+  "pets": 7,
+  "dash_samples": 1,
+  "name": "Stingray",
+  "stages": {
+   "0": {
+    "walk": 50,
+    "run": 60,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 9,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 53,
+    "run": 398,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 18,
+    "pets": 2,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 74,
+    "run": 144,
+    "dash": 269,
+    "dash_ms": 188,
+    "samples": 100,
+    "pets": 4,
+    "dash_samples": 1
+   }
+  }
+ },
+ "83": {
+  "walk": 78,
+  "run": 301,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 63,
+  "pets": 3,
+  "dash_samples": 0,
+  "name": "Axolotl",
+  "stages": {
+   "0": {
+    "walk": 50,
+    "run": 60,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 11,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 150,
+    "run": 301,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 52,
+    "pets": 2,
+    "dash_samples": 0
+   }
+  }
+ },
+ "84": {
+  "walk": 279,
+  "run": 376,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 979,
+  "pets": 22,
+  "dash_samples": 0,
+  "name": "Shark",
+  "stages": {
+   "0": {
+    "walk": 252,
+    "run": 337,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 243,
+    "pets": 4,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 296,
+    "run": 378,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 663,
+    "pets": 14,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 167,
+    "run": 463,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 73,
+    "pets": 4,
+    "dash_samples": 0
+   }
+  }
+ },
+ "85": {
+  "walk": 308,
+  "run": 389,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 326,
+  "pets": 8,
+  "dash_samples": 0,
+  "name": "Octopus",
+  "stages": {
+   "0": {
+    "walk": 314,
+    "run": 369,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 109,
+    "pets": 3,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 313,
+    "run": 394,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 203,
+    "pets": 4,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 185,
+    "run": 234,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 14,
+    "pets": 1,
+    "dash_samples": 0
+   }
+  }
+ },
+ "86": {
+  "walk": 166,
+  "run": 410,
+  "dash": 1503,
+  "dash_ms": 282,
+  "samples": 1667,
+  "pets": 54,
+  "dash_samples": 2,
+  "name": "Genie",
+  "stages": {
+   "0": {
+    "walk": 68,
+    "run": 281,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 194,
+    "pets": 6,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 88,
+    "run": 375,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 677,
+    "pets": 20,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 250,
+    "run": 489,
+    "dash": 1503,
+    "dash_ms": 282,
+    "samples": 796,
+    "pets": 28,
+    "dash_samples": 1
+   }
+  }
+ },
+ "88": {
+  "walk": 182,
+  "run": 324,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 1190,
+  "pets": 41,
+  "dash_samples": 0,
+  "name": "Plant Statue",
+  "stages": {
+   "1": {
+    "walk": 175,
+    "run": 262,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 594,
+    "pets": 16,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 216,
+    "run": 394,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 596,
+    "pets": 25,
+    "dash_samples": 0
+   }
+  }
+ },
+ "89": {
+  "walk": 86,
+  "run": 318,
+  "dash": 1271,
+  "dash_ms": 940,
+  "samples": 4284,
+  "pets": 80,
+  "dash_samples": 2,
+  "name": "Fire Statue",
+  "stages": {
+   "0": {
+    "walk": 76,
+    "run": 295,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 218,
+    "pets": 5,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 80,
+    "run": 294,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 2229,
+    "pets": 42,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 100,
+    "run": 382,
+    "dash": 976,
+    "dash_ms": 564,
+    "samples": 1837,
+    "pets": 33,
+    "dash_samples": 1
+   }
+  }
+ },
+ "90": {
+  "walk": 193,
+  "run": 339,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 1746,
+  "pets": 55,
+  "dash_samples": 0,
+  "name": "Water Statue",
+  "stages": {
+   "0": {
+    "walk": 269,
+    "run": 329,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 43,
+    "pets": 2,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 196,
+    "run": 333,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 623,
+    "pets": 27,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 172,
+    "run": 342,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 1080,
+    "pets": 26,
+    "dash_samples": 0
+   }
+  }
+ },
+ "91": {
+  "walk": 172,
+  "run": 434,
+  "dash": 1274,
+  "dash_ms": 188,
+  "samples": 470,
+  "pets": 11,
+  "dash_samples": 1,
+  "name": "Dog",
+  "stages": {
+   "0": {
+    "walk": 107,
+    "run": 393,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 119,
+    "pets": 2,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 118,
+    "run": 406,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 136,
+    "pets": 3,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 182,
+    "run": 512,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 215,
+    "pets": 6,
+    "dash_samples": 0
+   }
+  }
+ },
+ "92": {
+  "walk": 272,
+  "run": 631,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 1155,
+  "pets": 33,
+  "dash_samples": 0,
+  "name": "Acidog",
+  "stages": {
+   "1": {
+    "walk": 184,
+    "run": 553,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 318,
+    "pets": 8,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 297,
+    "run": 696,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 837,
+    "pets": 25,
+    "dash_samples": 0
+   }
+  }
+ },
+ "93": {
+  "walk": 390,
+  "run": 586,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 260,
+  "pets": 8,
+  "dash_samples": 0,
+  "name": "Coldog",
+  "stages": {
+   "0": {
+    "walk": 395,
+    "run": 642,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 60,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 390,
+    "run": 558,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 120,
+    "pets": 2,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 334,
+    "run": 579,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 80,
+    "pets": 5,
+    "dash_samples": 0
+   }
+  }
+ },
+ "94": {
+  "walk": 310,
+  "run": 331,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 115,
+  "pets": 3,
+  "dash_samples": 0,
+  "name": "Bugdog",
+  "stages": {
+   "1": {
+    "walk": 316,
+    "run": 334,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 73,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 146,
+    "run": 309,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 42,
+    "pets": 2,
+    "dash_samples": 0
+   }
+  }
+ },
+ "95": {
+  "walk": 72,
+  "run": 362,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 211,
+  "pets": 6,
+  "dash_samples": 0,
+  "name": "Scrappy Shadow",
+  "stages": {
+   "1": {
+    "walk": 71,
+    "run": 307,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 168,
+    "pets": 4,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 100,
+    "run": 482,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 43,
+    "pets": 2,
+    "dash_samples": 0
+   }
+  }
+ },
+ "96": {
+  "walk": 272,
+  "run": 412,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 153,
+  "pets": 4,
+  "dash_samples": 0,
+  "name": "Digger Shadow",
+  "stages": {
+   "0": {
+    "walk": 256,
+    "run": 340,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 52,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 395,
+    "run": 431,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 25,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 273,
+    "run": 403,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 76,
+    "pets": 2,
+    "dash_samples": 0
+   }
+  }
+ },
+ "100": {
+  "walk": 46,
+  "run": 116,
+  "dash": 421,
+  "dash_ms": 282,
+  "samples": 58,
+  "pets": 3,
+  "dash_samples": 1,
+  "name": "Savant Shadow",
+  "stages": {
+   "2": {
+    "walk": 46,
+    "run": 116,
+    "dash": 421,
+    "dash_ms": 282,
+    "samples": 58,
+    "pets": 3,
+    "dash_samples": 1
+   }
+  }
+ },
+ "102": {
+  "walk": 265,
+  "run": 290,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 105,
+  "pets": 3,
+  "dash_samples": 0,
+  "name": "Penguin",
+  "stages": {
+   "1": {
+    "walk": 265,
+    "run": 290,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 105,
+    "pets": 3,
+    "dash_samples": 0
+   }
+  }
+ },
+ "103": {
+  "walk": 38,
+  "run": 68,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 44,
+  "pets": 1,
+  "dash_samples": 0,
+  "name": "Yeti",
+  "stages": {
+   "2": {
+    "walk": 38,
+    "run": 68,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 44,
+    "pets": 1,
+    "dash_samples": 0
+   }
+  }
+ },
+ "105": {
+  "walk": 103,
+  "run": 366,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 2026,
+  "pets": 63,
+  "dash_samples": 0,
+  "name": "Infesting Gaze",
+  "stages": {
+   "0": {
+    "walk": 95,
+    "run": 154,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 145,
+    "pets": 3,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 105,
+    "run": 175,
+    "dash": 365,
+    "dash_ms": 188,
+    "samples": 709,
+    "pets": 13,
+    "dash_samples": 1
+   },
+   "2": {
+    "walk": 85,
+    "run": 420,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 1172,
+    "pets": 47,
+    "dash_samples": 0
+   }
+  }
+ },
+ "107": {
+  "walk": 68,
+  "run": 137,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 116,
+  "pets": 4,
+  "dash_samples": 0,
+  "name": "Glacial Gaze",
+  "stages": {
+   "1": {
+    "walk": 68,
+    "run": 137,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 116,
+    "pets": 4,
+    "dash_samples": 0
+   }
+  }
+ },
+ "109": {
+  "walk": 196,
+  "run": 404,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 638,
+  "pets": 19,
+  "dash_samples": 0,
+  "name": "Draconic Gaze",
+  "stages": {
+   "0": {
+    "walk": 50,
+    "run": 190,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 103,
+    "pets": 2,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 97,
+    "run": 144,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 80,
+    "pets": 3,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 270,
+    "run": 419,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 455,
+    "pets": 14,
+    "dash_samples": 0
+   }
+  }
+ },
+ "111": {
+  "walk": 68,
+  "run": 264,
+  "dash": 645,
+  "dash_ms": 188,
+  "samples": 522,
+  "pets": 15,
+  "dash_samples": 1,
+  "name": "Hellhound",
+  "stages": {
+   "0": {
+    "walk": 177,
+    "run": 328,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 161,
+    "pets": 5,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 68,
+    "run": 182,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 158,
+    "pets": 5,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 54,
+    "run": 214,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 203,
+    "pets": 5,
+    "dash_samples": 0
+   }
+  }
+ },
+ "112": {
+  "walk": 144,
+  "run": 380,
+  "dash": 2223,
+  "dash_ms": 376,
+  "samples": 3403,
+  "pets": 93,
+  "dash_samples": 2,
+  "name": "Salamander",
+  "stages": {
+   "0": {
+    "walk": 133,
+    "run": 325,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 281,
+    "pets": 7,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 97,
+    "run": 370,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 2022,
+    "pets": 53,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 236,
+    "run": 442,
+    "dash": 2223,
+    "dash_ms": 376,
+    "samples": 1100,
+    "pets": 33,
+    "dash_samples": 2
+   }
+  }
+ },
+ "113": {
+  "walk": 248,
+  "run": 370,
+  "dash": 1110,
+  "dash_ms": 282,
+  "samples": 1204,
+  "pets": 21,
+  "dash_samples": 2,
+  "name": "Lizardman",
+  "stages": {
+   "0": {
+    "walk": 227,
+    "run": 360,
+    "dash": 1110,
+    "dash_ms": 282,
+    "samples": 268,
+    "pets": 6,
+    "dash_samples": 1
+   },
+   "1": {
+    "walk": 252,
+    "run": 373,
+    "dash": 936,
+    "dash_ms": 188,
+    "samples": 579,
+    "pets": 10,
+    "dash_samples": 1
+   },
+   "2": {
+    "walk": 261,
+    "run": 363,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 357,
+    "pets": 5,
+    "dash_samples": 0
+   }
+  }
+ },
+ "114": {
+  "walk": 196,
+  "run": 503,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 197,
+  "pets": 2,
+  "dash_samples": 0,
+  "name": "Dark Wisp",
+  "stages": {
+   "2": {
+    "walk": 196,
+    "run": 503,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 197,
+    "pets": 2,
+    "dash_samples": 0
+   }
+  }
+ },
+ "115": {
+  "walk": 280,
+  "run": 342,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 165,
+  "pets": 3,
+  "dash_samples": 0,
+  "name": "Fire Wisp",
+  "stages": {
+   "1": {
+    "walk": 187,
+    "run": 342,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 109,
+    "pets": 2,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 285,
+    "run": 430,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 56,
+    "pets": 1,
+    "dash_samples": 0
+   }
+  }
+ },
+ "116": {
+  "walk": 141,
+  "run": 324,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 646,
+  "pets": 20,
+  "dash_samples": 0,
+  "name": "Cratodon",
+  "stages": {
+   "1": {
+    "walk": 60,
+    "run": 242,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 336,
+    "pets": 8,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 278,
+    "run": 368,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 310,
+    "pets": 12,
+    "dash_samples": 0
+   }
+  }
+ },
+ "117": {
+  "walk": 117,
+  "run": 457,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 201,
+  "pets": 7,
+  "dash_samples": 0,
+  "name": "Floodog",
+  "stages": {
+   "1": {
+    "walk": 75,
+    "run": 426,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 172,
+    "pets": 3,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 440,
+    "run": 723,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 29,
+    "pets": 4,
+    "dash_samples": 0
+   }
+  }
+ },
+ "118": {
+  "walk": 221,
+  "run": 474,
+  "dash": 983,
+  "dash_ms": 188,
+  "samples": 1022,
+  "pets": 27,
+  "dash_samples": 1,
+  "name": "Rexdog",
+  "stages": {
+   "0": {
+    "walk": 361,
+    "run": 415,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 113,
+    "pets": 3,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 108,
+    "run": 403,
+    "dash": 983,
+    "dash_ms": 282,
+    "samples": 606,
+    "pets": 11,
+    "dash_samples": 2
+   },
+   "2": {
+    "walk": 382,
+    "run": 514,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 303,
+    "pets": 13,
+    "dash_samples": 0
+   }
+  }
+ },
+ "119": {
+  "walk": 127,
+  "run": 276,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 104,
+  "pets": 2,
+  "dash_samples": 0,
+  "name": "Rabburn",
+  "stages": {
+   "0": {
+    "walk": 93,
+    "run": 246,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 46,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 154,
+    "run": 284,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 58,
+    "pets": 1,
+    "dash_samples": 0
+   }
+  }
+ },
+ "120": {
+  "walk": 56,
+  "run": 250,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 64,
+  "pets": 1,
+  "dash_samples": 0,
+  "name": "Seal",
+  "stages": {
+   "1": {
+    "walk": 56,
+    "run": 250,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 64,
+    "pets": 1,
+    "dash_samples": 0
+   }
+  }
+ },
+ "121": {
+  "walk": 233,
+  "run": 302,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 307,
+  "pets": 8,
+  "dash_samples": 0,
+  "name": "Volcanic Golem",
+  "stages": {
+   "1": {
+    "walk": 233,
+    "run": 302,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 307,
+    "pets": 8,
+    "dash_samples": 0
+   }
+  }
+ },
+ "122": {
+  "walk": 45,
+  "run": 82,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 39,
+  "pets": 2,
+  "dash_samples": 0,
+  "name": "Mantle",
+  "stages": {
+   "1": {
+    "walk": 79,
+    "run": 128,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 7,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 41,
+    "run": 60,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 32,
+    "pets": 1,
+    "dash_samples": 0
+   }
+  }
+ },
+ "124": {
+  "walk": 247,
+  "run": 570,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 7,
+  "pets": 1,
+  "dash_samples": 0,
+  "name": "Slime",
+  "stages": {
+   "2": {
+    "walk": 247,
+    "run": 570,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 7,
+    "pets": 1,
+    "dash_samples": 0
+   }
+  }
+ },
+ "125": {
+  "walk": 74,
+  "run": 1547,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 6,
+  "pets": 1,
+  "dash_samples": 0,
+  "name": "Snowman",
+  "stages": {
+   "0": {
+    "walk": 74,
+    "run": 1547,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 6,
+    "pets": 1,
+    "dash_samples": 0
+   }
+  }
+ },
+ "126": {
+  "walk": 294,
+  "run": 333,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 294,
+  "pets": 4,
+  "dash_samples": 0,
+  "name": "Snowball",
+  "stages": {
+   "0": {
+    "walk": 198,
+    "run": 306,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 137,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 332,
+    "run": 342,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 61,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 296,
+    "run": 310,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 96,
+    "pets": 2,
+    "dash_samples": 0
+   }
+  }
+ },
+ "141": {
+  "walk": 161,
+  "run": 358,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 488,
+  "pets": 12,
+  "dash_samples": 0,
+  "name": "Fire Dragon",
+  "stages": {
+   "0": {
+    "walk": 105,
+    "run": 285,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 99,
+    "pets": 2,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 79,
+    "run": 316,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 214,
+    "pets": 4,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 279,
+    "run": 406,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 175,
+    "pets": 6,
+    "dash_samples": 0
+   }
+  }
+ },
+ "147": {
+  "walk": 134,
+  "run": 217,
+  "dash": 1065,
+  "dash_ms": 376,
+  "samples": 190,
+  "pets": 4,
+  "dash_samples": 1,
+  "name": "Richen",
+  "stages": {
+   "0": {
+    "walk": 88,
+    "run": 192,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 61,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 144,
+    "run": 211,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 124,
+    "pets": 2,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 414,
+    "run": 1065,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 5,
+    "pets": 1,
+    "dash_samples": 0
+   }
+  }
+ },
+ "148": {
+  "walk": 230,
+  "run": 568,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 151,
+  "pets": 5,
+  "dash_samples": 0,
+  "name": "Voltdog",
+  "stages": {
+   "1": {
+    "walk": 230,
+    "run": 568,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 151,
+    "pets": 5,
+    "dash_samples": 0
+   }
+  }
+ },
+ "151": {
+  "walk": 211,
+  "run": 307,
+  "dash": 733,
+  "dash_ms": 188,
+  "samples": 116,
+  "pets": 2,
+  "dash_samples": 1,
+  "name": "Mimipot",
+  "stages": {
+   "1": {
+    "walk": 222,
+    "run": 315,
+    "dash": 733,
+    "dash_ms": 188,
+    "samples": 89,
+    "pets": 1,
+    "dash_samples": 1
+   },
+   "2": {
+    "walk": 45,
+    "run": 252,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 27,
+    "pets": 1,
+    "dash_samples": 0
+   }
+  }
+ },
+ "152": {
+  "walk": 63,
+  "run": 333,
+  "dash": null,
+  "dash_ms": null,
+  "samples": 274,
+  "pets": 8,
+  "dash_samples": 0,
+  "name": "Foliroar",
+  "stages": {
+   "0": {
+    "walk": 232,
+    "run": 265,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 7,
+    "pets": 1,
+    "dash_samples": 0
+   },
+   "1": {
+    "walk": 139,
+    "run": 441,
+    "dash": null,
+    "dash_ms": null,
+    "samples": 118,
+    "pets": 4,
+    "dash_samples": 0
+   },
+   "2": {
+    "walk": 59,
+    "run": 84,
+    "dash": 239,
+    "dash_ms": 188,
+    "samples": 149,
+    "pets": 3,
+    "dash_samples": 1
+   }
+  }
+ },
+ "all": {
+  "walk": 94,
+  "run": 355,
+  "dash": 977,
+  "dash_ms": 282,
+  "samples": 95161,
+  "pets": 2062,
+  "dash_samples": 117,
+  "name": "all species"
+ }
+}

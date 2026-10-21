@@ -1,0 +1,399 @@
+{
+ "A": {
+  "animals": [
+   "Ice Mask",
+   "Normal Mask",
+   "Plant Mask",
+   "Poison Mask",
+   "Richen",
+   "Rock Mask",
+   "Spectrum Mask",
+   "Water Mask"
+  ],
+  "bosses": []
+ },
+ "Agebound Call Elixir": {
+  "animals": [
+   "Ancient Boostling"
+  ],
+  "bosses": []
+ },
+ "Anchor Call Elixir": {
+  "animals": [
+   "Normal Boostling"
+  ],
+  "bosses": []
+ },
+ "Any": {
+  "animals": [],
+  "bosses": [
+   "Chest Mimic",
+   "Reaper (Server Restart)"
+  ]
+ },
+ "Basalt Call Elixir": {
+  "animals": [
+   "Rock Boostling"
+  ],
+  "bosses": []
+ },
+ "Bloom Rock Brew or Guardians' Call Elixir": {
+  "animals": [
+   "Plant Statue"
+  ],
+  "bosses": []
+ },
+ "Calmtide Call Elixir": {
+  "animals": [
+   "Water Boostling"
+  ],
+  "bosses": []
+ },
+ "Captured Aquen • Golden Egg": {
+  "animals": [
+   "Aquen"
+  ],
+  "bosses": []
+ },
+ "Captured Chicken • Golden Egg": {
+  "animals": [
+   "Chicken"
+  ],
+  "bosses": []
+ },
+ "Captured Floren • Golden Egg": {
+  "animals": [
+   "Floren"
+  ],
+  "bosses": []
+ },
+ "Captured Giant Fly": {
+  "animals": [
+   "Giant Fly"
+  ],
+  "bosses": []
+ },
+ "Captured Pyren • Golden Egg": {
+  "animals": [
+   "Pyren"
+  ],
+  "bosses": []
+ },
+ "Captured Silkworm": {
+  "animals": [
+   "Silkworm"
+  ],
+  "bosses": []
+ },
+ "Captured Slime": {
+  "animals": [
+   "Slime"
+  ],
+  "bosses": []
+ },
+ "Captured Sparken • Golden Egg": {
+  "animals": [
+   "Sparken"
+  ],
+  "bosses": []
+ },
+ "Cleanstrike Call Elixir": {
+  "animals": [
+   "Combat Boostling"
+  ],
+  "bosses": []
+ },
+ "Cryostasis Call Elixir": {
+  "animals": [
+   "Ice Boostling"
+  ],
+  "bosses": []
+ },
+ "Dark Forest": {
+  "animals": [
+   "Adoring Shadow",
+   "Barn Owl",
+   "Bat",
+   "Black Cat",
+   "Black Spider",
+   "Digger Shadow",
+   "Electric Fairy",
+   "Giant Moth",
+   "Guardian Shadow",
+   "Krampus",
+   "Living Mushroom",
+   "Poison Fairy",
+   "Pudgy Shadow",
+   "Rabbat",
+   "Rat",
+   "Raven",
+   "Savant Shadow",
+   "Scrappy Shadow",
+   "Spectrum",
+   "Spectrum Fairy",
+   "Toad",
+   "Unicorn",
+   "Voltdog",
+   "Warg",
+   "White Spider"
+  ],
+  "bosses": [
+   "Haunted Tree",
+   "Hive Creep",
+   "Mushroom Boss",
+   "Spectrum Boss"
+  ]
+ },
+ "Desert": {
+  "animals": [
+   "Armadillo",
+   "Bugdog",
+   "Camel",
+   "Caracal",
+   "Dragon Fairy",
+   "Fennec Fox",
+   "Genie",
+   "Insect Fairy",
+   "Kangaroo",
+   "Menhir",
+   "Oryx",
+   "Ostrich",
+   "Rabblow",
+   "Rock Fairy",
+   "Stone Golem",
+   "Vulture",
+   "Yellow Scorpion"
+  ],
+  "bosses": [
+   "Cactus Boss",
+   "Rock Golem"
+  ]
+ },
+ "Drakeblood Call Elixir": {
+  "animals": [
+   "Dragon Boostling"
+  ],
+  "bosses": []
+ },
+ "Emberheart Call Elixir": {
+  "animals": [
+   "Fire Boostling"
+  ],
+  "bosses": []
+ },
+ "Forest": {
+  "animals": [
+   "Acidog",
+   "Bear",
+   "Boar",
+   "Bull",
+   "Cow",
+   "Dog",
+   "Dragon",
+   "Easter Bunny",
+   "Fire Fairy",
+   "Foliroar",
+   "Fox",
+   "Giant Bee",
+   "Giant Mantis",
+   "Hedgehog",
+   "Horse",
+   "Mimipot",
+   "Plant Fairy",
+   "Polecat",
+   "Rabbit",
+   "Sheep",
+   "Skunk",
+   "Tambidi",
+   "Turkey",
+   "Water Fairy",
+   "Wolf"
+  ],
+  "bosses": [
+   "Dragon Egg",
+   "Gold Golem Boss",
+   "Tree Boss",
+   "Turkey Egg"
+  ]
+ },
+ "ForestDesertOceanVolcano": {
+  "animals": [],
+  "bosses": [
+   "Giant Gaze"
+  ]
+ },
+ "Giant Gaze": {
+  "animals": [
+   "Draconic Gaze",
+   "Enchanting Gaze",
+   "Glacial Gaze",
+   "Inferno Gaze",
+   "Infesting Gaze",
+   "Punchy Gaze",
+   "Spectral Gaze"
+  ],
+  "bosses": []
+ },
+ "Gold Golem's potion": {
+  "animals": [
+   "Gold Golem"
+  ],
+  "bosses": []
+ },
+ "Grim Reaper's Potion": {
+  "animals": [
+   "Reaper"
+  ],
+  "bosses": []
+ },
+ "Guardians' Call Elixir": {
+  "animals": [
+   "Fire Statue"
+  ],
+  "bosses": []
+ },
+ "Hiveheart Call Elixir": {
+  "animals": [
+   "Insect Boostling"
+  ],
+  "bosses": []
+ },
+ "Inferno Rock Brew": {
+  "animals": [
+   "Fire Statue"
+  ],
+  "bosses": []
+ },
+ "Mauve Calling Potion": {
+  "animals": [
+   "Mauve"
+  ],
+  "bosses": []
+ },
+ "Mend Rock Brew or Guardians' Call Elixir": {
+  "animals": [
+   "Water Statue"
+  ],
+  "bosses": []
+ },
+ "Moondust Call Elixir": {
+  "animals": [
+   "Fairy Boostling"
+  ],
+  "bosses": []
+ },
+ "N": {
+  "animals": [
+   "Ice Mask",
+   "Normal Mask",
+   "Plant Mask",
+   "Poison Mask",
+   "Richen",
+   "Rock Mask",
+   "Spectrum Mask",
+   "Water Mask"
+  ],
+  "bosses": []
+ },
+ "Ocean": {
+  "animals": [
+   "Axolotl",
+   "Floodog",
+   "Goldfish",
+   "Octopus",
+   "Rabbyss",
+   "Sea Crab",
+   "Seahorse",
+   "Shark",
+   "Siren",
+   "Squid",
+   "Stingray"
+  ],
+  "bosses": [
+   "Ocean Sanctuary",
+   "Octopus Boss"
+  ],
+  "minutes": {
+   "page": "Biomes",
+   "rev": 38593,
+   "source": "wiki",
+   "value": 8
+  }
+ },
+ "Spectral Call Elixir": {
+  "animals": [
+   "Spectrum Boostling"
+  ],
+  "bosses": []
+ },
+ "Sproutseed Call Elixir": {
+  "animals": [
+   "Plant Boostling"
+  ],
+  "bosses": []
+ },
+ "Surgeflash Call Elixir": {
+  "animals": [
+   "Electric Boostling"
+  ],
+  "bosses": []
+ },
+ "Sweetvenom Call Elixir": {
+  "animals": [
+   "Poison Boostling"
+  ],
+  "bosses": []
+ },
+ "Volcano": {
+  "animals": [
+   "Cratodon",
+   "Dark Wisp",
+   "Fire Dragon",
+   "Fire Wisp",
+   "Hellhound",
+   "Lava Golem",
+   "Lizardman",
+   "Mantle",
+   "Rabburn",
+   "Rexdog",
+   "Salamander",
+   "Volcanic Golem"
+  ],
+  "bosses": [
+   "Fire Dragon Boss",
+   "Volcanic Golem Boss"
+  ]
+ },
+ "Winter": {
+  "animals": [
+   "Coldog",
+   "Combat Fairy",
+   "Deer",
+   "Flying Squirrel",
+   "Ibex",
+   "Ice Dragon",
+   "Ice Fairy",
+   "Ice Golem",
+   "Iceberg",
+   "Lynx",
+   "Mammoth",
+   "Normal Fairy",
+   "Penguin",
+   "Polar Bear",
+   "Rabbid",
+   "Reindeer",
+   "Seal",
+   "Snow Fox",
+   "Snow Rabbit",
+   "Snow Wolf",
+   "Snowball",
+   "Snowman",
+   "Yeti"
+  ],
+  "bosses": [
+   "Ice Dragon Boss",
+   "Ice Golem Boss",
+   "Snow Tree Boss"
+  ]
+ }
+}

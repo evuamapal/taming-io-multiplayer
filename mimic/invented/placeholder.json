@@ -1,0 +1,21 @@
+{
+ "map": {
+  "/img/h/018d299f0161d38111ed4823.png": "invented/png/placeholder-mushroom.png",
+  "/img/h/10fcea5bc579500de90734a7.png": "invented/png/placeholder-mushroom.png",
+  "/img/h/1dc7e6574ba59e9163ff90c3.png": "invented/png/placeholder-mushroom.png",
+  "/img/h/3373e40c81a22986db4c4918.png": "invented/png/placeholder-mushroom.png",
+  "/img/h/3e33edc44ebfa35e667bc4d0.png": "invented/png/placeholder-mushroom.png",
+  "/img/h/86507cf9f19834379addc5dd.png": "invented/png/placeholder-mushroom.png",
+  "/img/h/8ffbb36a77cc4638a22401f6.png": "invented/png/placeholder-mushroom.png",
+  "/img/h/a2ebf931f2759caf33d4e815.png": "invented/png/placeholder-mushroom.png",
+  "/img/h/a308709161c324cf4d24bb4d.png": "invented/png/placeholder-mushroom.png",
+  "/img/h/a605fdfedc4bd2dc1d5cff62.png": "invented/png/placeholder-mushroom.png",
+  "/img/h/bb6d8158c6e44f826230c03c.png": "invented/png/placeholder-mushroom.png",
+  "/img/h/d16fecc1195e852f009fb19d.png": "invented/png/placeholder-mushroom.png",
+  "/img/h/f2908c5d90c9114bb84c38c9.png": "invented/png/placeholder-mushroom.png",
+  "/img/h/f79592d90b92ff63480ba2bd.png": "invented/png/placeholder-mushroom.png",
+  "/img/h/fcbc69b15e89668310a8e265.png": "invented/png/placeholder-mushroom.png",
+  "/img/h/ffd66e7e6104079013c2e732.png": "invented/png/placeholder-mushroom.png"
+ },
+ "note": "source=placeholder: served only while the mirror lacks the file (tools/invented/make_placeholders.py)"
+}

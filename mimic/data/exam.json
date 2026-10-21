@@ -1,0 +1,25 @@
+{
+ "note": "Tamers exam (startExam / endExam in mimic/hosted/account.js; the menu's Reveal all answers button in profile.js SEED). [question, [4 answers], index of the right answer]",
+ "questions": [
+  ["Which pet can every tamer pick from the start?", ["Wolf", "Dragon", "Phoenix", "Kraken"], 0],
+  ["How many tames of a species unlock it in the pet picker?", ["10", "25", "50", "100"], 2],
+  ["What do you spend in the shop and the chests?", ["Diamonds", "Golden apples", "Stars", "Coins"], 1],
+  ["What do you press next to a sleeping animal to tame it?", ["The paw button", "Space", "The chat key", "Escape"], 0],
+  ["At which level can you unlock the bug net?", ["Level 1", "Level 5", "Level 10", "Level 20"], 1],
+  ["What do you need to place buildings?", ["Wood and/or stone", "Golden apples", "Potions", "Insects"], 0],
+  ["Which chest gives pet cards?", ["Wooden chest", "Pet chest", "Stone chest", "Gift chest"], 1],
+  ["What does the alchemy chest give?", ["A skin", "A pet", "An ingredient", "Golden apples"], 2],
+  ["Where do you cook potions?", ["The cauldron in the profile", "The leaderboard", "The settings", "The map"], 0],
+  ["How many members can a clan have?", ["10", "50", "100", "500"], 2],
+  ["What do clans fight for on the map?", ["Totems", "Castles", "Flags", "Crowns"], 0],
+  ["What do you need to see your rank with a pet?", ["Pick that pet", "Join a clan", "Buy VIP", "Change name"], 0],
+  ["Which animals sleep and can be tamed?", ["Only bosses", "Wild animals", "Only birds", "None"], 1],
+  ["What does a VIP pass add to the challenges?", ["Nothing", "Extra daily challenges", "A new map", "More pets"], 1],
+  ["Where do the challenges' stars go?", ["The adventure zone", "The shop", "The clan", "The tamodex"], 0],
+  ["What fills the insectarium?", ["Pets", "Bugs you catch", "Skins", "Potions"], 1],
+  ["Which window lists every pet you unlocked?", ["Tamodex", "Settings", "Merchant", "Calendar"], 0],
+  ["What does the merchant sell?", ["Pets", "Potions and ingredients", "Clans", "Houses"], 1],
+  ["What raises your badge?", ["Your ranking score", "Your kills only", "Your deaths", "Your chat messages"], 0],
+  ["Who is the #1 tamer of this server?", ["Offline", "Sky", "Zed", "Nobody"], 0]
+ ]
+}

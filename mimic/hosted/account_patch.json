@@ -1,0 +1,17 @@
+{
+ "note": "owner: the golden apples never drain; the client's apple setter keeps the larger value (profile.js refills on login); the house world skips its furniture-table version check (the clone's house reply cannot know the count)",
+ "patches": [
+  {
+   "find": "ﾠ︈︈(ﾠ︃︊){ᅠᅠ‌.ﾠᅟ︎[\"\\x61\\x70\\x70\\x6c\\x65\"]=ﾠ︃︊;",
+   "replace": "ﾠ︈︈(ﾠ︃︊){ﾠ︃︊=Math.max(ﾠ︃︊,ᅠᅠ‌.ﾠᅟ︎[\"\\x61\\x70\\x70\\x6c\\x65\"]||0);ᅠᅠ‌.ﾠᅟ︎[\"\\x61\\x70\\x70\\x6c\\x65\"]=ﾠ︃︊;"
+  },
+  {
+   "find": "[\"\\x61\\x70\\x70\\x6c\\x65\"]-=",
+   "replace": "[\"\\x61\\x70\\x70\\x6c\\x65\"]-=0*"
+  },
+  {
+   "find": "if(ᅠ︈︅.ᅟ︊ᅟ︅︀!==ㅤ︁ᅟ︍︍){",
+   "replace": "if(0&&ᅠ︈︅.ᅟ︊ᅟ︅︀!==ㅤ︁ᅟ︍︍){"
+  }
+ ]
+}

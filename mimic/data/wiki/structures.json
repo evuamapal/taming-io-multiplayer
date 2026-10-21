@@ -1,0 +1,5784 @@
+{
+ "Amethyst Big Spike": {
+  "damage": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": 4
+  },
+  "durability": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": 900
+  },
+  "maximum": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": 12
+  },
+  "name": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": "Amethyst Big Spike"
+  },
+  "recipe": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": {
+    "gold": 70,
+    "stone": 30,
+    "wood": 20
+   }
+  },
+  "reload_s": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": 0.1
+  },
+  "section": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": "Amethyst"
+  }
+ },
+ "Amethyst Door": {
+  "durability": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": 600
+  },
+  "maximum": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": 6
+  },
+  "name": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": "Amethyst Door"
+  },
+  "recipe": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": {
+    "gold": 40,
+    "stone": 30,
+    "wood": 10
+   }
+  },
+  "section": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": "Amethyst"
+  }
+ },
+ "Amethyst Electric Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 560
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Amethyst Electric Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 200,
+    "stone": 60,
+    "wood": 110
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 8
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Electric Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Amethyst"
+  }
+ },
+ "Amethyst Fire Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 560
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Amethyst Fire Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 200,
+    "stone": 60,
+    "wood": 110
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 7
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Fire Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Amethyst"
+  }
+ },
+ "Amethyst Ice Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 280
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Amethyst Ice Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 200,
+    "stone": 60,
+    "wood": 110
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 9
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Ice Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Amethyst"
+  }
+ },
+ "Amethyst Plant Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 320
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Amethyst Plant Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 150,
+    "stone": 50,
+    "wood": 90
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 10
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Plant Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Amethyst"
+  }
+ },
+ "Amethyst Repair Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 690
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Amethyst Repair Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 200,
+    "stone": 60,
+    "wood": 110
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 8
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Repair Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Amethyst"
+  }
+ },
+ "Amethyst Rock Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 560
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Amethyst Rock Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 200,
+    "stone": 60,
+    "wood": 110
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 11
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Rock Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Amethyst"
+  }
+ },
+ "Amethyst Spectrum Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 560
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Amethyst Spectrum Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 200,
+    "stone": 60,
+    "wood": 110
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 12
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Spectrum Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Amethyst"
+  }
+ },
+ "Amethyst Spike": {
+  "damage": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": 6
+  },
+  "durability": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": 300
+  },
+  "maximum": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": 15
+  },
+  "name": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": "Amethyst Spike"
+  },
+  "recipe": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": {
+    "gold": 45,
+    "stone": 20,
+    "wood": 10
+   }
+  },
+  "reload_s": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": 0.1
+  },
+  "section": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": "Amethyst"
+  }
+ },
+ "Amethyst Spike Shield": {
+  "building_damage": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": 1
+  },
+  "damage": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": 4
+  },
+  "knockback": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": 145
+  },
+  "name": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": "Amethyst Spike Shield"
+  },
+  "player_damage": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": 4
+  },
+  "protection": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": 44
+  },
+  "range": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": 30
+  },
+  "reload_s": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": 0.5
+  },
+  "section": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": 65
+  },
+  "tier": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": "Amethyst"
+  }
+ },
+ "Amethyst Turret": {
+  "damage": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": 21
+  },
+  "durability": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": 280
+  },
+  "maximum": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": 2
+  },
+  "name": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": "Amethyst Turret"
+  },
+  "recipe": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": {
+    "gold": 200,
+    "stone": 60,
+    "wood": 90
+   }
+  },
+  "reload_s": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": 1.5
+  },
+  "section": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": "Amethyst"
+  }
+ },
+ "Amethyst Wall": {
+  "durability": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": 1200
+  },
+  "maximum": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": 50
+  },
+  "name": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": "Amethyst Wall"
+  },
+  "recipe": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": {
+    "gold": 20,
+    "stone": 15,
+    "wood": 5
+   }
+  },
+  "section": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": "Amethyst"
+  }
+ },
+ "Amethyst Water Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 320
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Amethyst Water Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 200,
+    "stone": 60,
+    "wood": 110
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 8
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Water Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Amethyst"
+  }
+ },
+ "Amethyst Windmill": {
+  "durability": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": 600
+  },
+  "gold_harvest": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": 30
+  },
+  "maximum": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": 5
+  },
+  "name": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": "Amethyst Windmill"
+  },
+  "recipe": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": {
+    "gold": 70,
+    "stone": 30,
+    "wood": 50
+   }
+  },
+  "reload_s": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": 5
+  },
+  "section": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": "Amethyst"
+  }
+ },
+ "Bear Trap": {
+  "durability": {
+   "page": "Bear Traps",
+   "rev": 38808,
+   "source": "wiki",
+   "value": 160
+  },
+  "maximum": {
+   "page": "Bear Traps",
+   "rev": 38808,
+   "source": "wiki",
+   "value": 4
+  },
+  "name": {
+   "page": "Bear Traps",
+   "rev": 38808,
+   "source": "wiki",
+   "value": "Bear Trap"
+  },
+  "recipe": {
+   "page": "Bear Traps",
+   "rev": 38808,
+   "source": "wiki",
+   "value": {
+    "gold": 50,
+    "stone": 40,
+    "wood": 20
+   }
+  },
+  "section": {
+   "page": "Bear Traps",
+   "rev": 38808,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Bear Traps",
+   "rev": 38808,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Bear Traps",
+   "rev": 38808,
+   "source": "wiki",
+   "value": "Bear Trap"
+  }
+ },
+ "Big Bear Trap": {
+  "durability": {
+   "page": "Bear Traps",
+   "rev": 38808,
+   "source": "wiki",
+   "value": 360
+  },
+  "maximum": {
+   "page": "Bear Traps",
+   "rev": 38808,
+   "source": "wiki",
+   "value": 3
+  },
+  "name": {
+   "page": "Bear Traps",
+   "rev": 38808,
+   "source": "wiki",
+   "value": "Big Bear Trap"
+  },
+  "recipe": {
+   "page": "Bear Traps",
+   "rev": 38808,
+   "source": "wiki",
+   "value": {
+    "gold": 100,
+    "stone": 40,
+    "wood": 20
+   }
+  },
+  "section": {
+   "page": "Bear Traps",
+   "rev": 38808,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Bear Traps",
+   "rev": 38808,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Bear Traps",
+   "rev": 38808,
+   "source": "wiki",
+   "value": "Big Bear Trap"
+  }
+ },
+ "Big Boost Pad": {
+  "durability": {
+   "page": "Boost Pads",
+   "rev": 37853,
+   "source": "wiki",
+   "value": 1000
+  },
+  "maximum": {
+   "page": "Boost Pads",
+   "rev": 37853,
+   "source": "wiki",
+   "value": 10
+  },
+  "name": {
+   "page": "Boost Pads",
+   "rev": 37853,
+   "source": "wiki",
+   "value": "Big Boost Pad"
+  },
+  "recipe": {
+   "page": "Boost Pads",
+   "rev": 37853,
+   "source": "wiki",
+   "value": {
+    "gold": 200,
+    "stone": 40,
+    "wood": 40
+   }
+  },
+  "section": {
+   "page": "Boost Pads",
+   "rev": 37853,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Boost Pads",
+   "rev": 37853,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Boost Pads",
+   "rev": 37853,
+   "source": "wiki",
+   "value": "Big Boost Pad"
+  }
+ },
+ "Big Grow Pad": {
+  "durability": {
+   "page": "Grow pad",
+   "rev": 38870,
+   "source": "wiki",
+   "value": 1000
+  },
+  "maximum": {
+   "page": "Grow pad",
+   "rev": 38870,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Grow pad",
+   "rev": 38870,
+   "source": "wiki",
+   "value": "Big Grow Pad"
+  },
+  "recipe": {
+   "page": "Grow pad",
+   "rev": 38870,
+   "source": "wiki",
+   "value": {
+    "gold": 900,
+    "stone": 100,
+    "wood": 100
+   }
+  },
+  "section": {
+   "page": "Grow pad",
+   "rev": 38870,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Grow pad",
+   "rev": 38870,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Grow pad",
+   "rev": 38870,
+   "source": "wiki",
+   "value": "Big Grow Pad"
+  }
+ },
+ "Big Heal Pad": {
+  "durability": {
+   "page": "Heal Pads",
+   "rev": 38812,
+   "source": "wiki",
+   "value": 1000
+  },
+  "maximum": {
+   "page": "Heal Pads",
+   "rev": 38812,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Heal Pads",
+   "rev": 38812,
+   "source": "wiki",
+   "value": "Big Heal Pad"
+  },
+  "recipe": {
+   "page": "Heal Pads",
+   "rev": 38812,
+   "source": "wiki",
+   "value": {
+    "gold": 450,
+    "stone": 80,
+    "wood": 80
+   }
+  },
+  "section": {
+   "page": "Heal Pads",
+   "rev": 38812,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Heal Pads",
+   "rev": 38812,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Heal Pads",
+   "rev": 38812,
+   "source": "wiki",
+   "value": "Big Heal Pad"
+  }
+ },
+ "Boost Pad": {
+  "durability": {
+   "page": "Boost Pads",
+   "rev": 37853,
+   "source": "wiki",
+   "value": 100
+  },
+  "maximum": {
+   "page": "Boost Pads",
+   "rev": 37853,
+   "source": "wiki",
+   "value": 10
+  },
+  "name": {
+   "page": "Boost Pads",
+   "rev": 37853,
+   "source": "wiki",
+   "value": "Boost Pad"
+  },
+  "recipe": {
+   "page": "Boost Pads",
+   "rev": 37853,
+   "source": "wiki",
+   "value": {
+    "gold": 100,
+    "stone": 30,
+    "wood": 30
+   }
+  },
+  "section": {
+   "page": "Boost Pads",
+   "rev": 37853,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Boost Pads",
+   "rev": 37853,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Boost Pads",
+   "rev": 37853,
+   "source": "wiki",
+   "value": "Boost Pad"
+  }
+ },
+ "Cosmetics Big Spike": {
+  "damage": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": 5
+  },
+  "durability": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": 1400
+  },
+  "maximum": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": 15
+  },
+  "name": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": "Cosmetics Big Spike"
+  },
+  "recipe": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": {
+    "gold": 100,
+    "stone": 45,
+    "wood": 30
+   }
+  },
+  "reload_s": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": 0.1
+  },
+  "section": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": "Cosmetics"
+  }
+ },
+ "Cosmetics Door": {
+  "durability": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": 800
+  },
+  "maximum": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": 6
+  },
+  "name": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": "Cosmetics Door"
+  },
+  "recipe": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": {
+    "gold": 60,
+    "stone": 50,
+    "wood": 10
+   }
+  },
+  "section": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": "Cosmetics"
+  }
+ },
+ "Cosmetics Electric Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 720
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Cosmetics Electric Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 250,
+    "stone": 70,
+    "wood": 120
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 7
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Electric Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Cosmetics"
+  }
+ },
+ "Cosmetics Fire Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 720
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Cosmetics Fire Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 250,
+    "stone": 70,
+    "wood": 120
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 6
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Fire Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Cosmetics"
+  }
+ },
+ "Cosmetics Ice Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 360
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Cosmetics Ice Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 250,
+    "stone": 70,
+    "wood": 120
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 8
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Ice Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Cosmetics"
+  }
+ },
+ "Cosmetics Plant Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 400
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Cosmetics Plant Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 200,
+    "stone": 50,
+    "wood": 100
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 12
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Plant Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Cosmetics"
+  }
+ },
+ "Cosmetics Repair Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 900
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Cosmetics Repair Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 250,
+    "stone": 70,
+    "wood": 120
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 8
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Repair Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Cosmetics"
+  }
+ },
+ "Cosmetics Rock Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 720
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Cosmetics Rock Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 250,
+    "stone": 70,
+    "wood": 120
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 125
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Rock Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Cosmetics"
+  }
+ },
+ "Cosmetics Spectrum Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 720
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Cosmetics Spectrum Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 250,
+    "stone": 70,
+    "wood": 120
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 11.5
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Spectrum Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Cosmetics"
+  }
+ },
+ "Cosmetics Spike": {
+  "damage": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": 7
+  },
+  "durability": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": 350
+  },
+  "maximum": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": 15
+  },
+  "name": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": "Cosmetics Spike"
+  },
+  "recipe": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": {
+    "gold": 60,
+    "stone": 30,
+    "wood": 15
+   }
+  },
+  "reload_s": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": 0.1
+  },
+  "section": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": "Cosmetics"
+  }
+ },
+ "Cosmetics Turret": {
+  "damage": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": 25
+  },
+  "durability": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": 360
+  },
+  "maximum": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": 2
+  },
+  "name": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": "Cosmetics Turret"
+  },
+  "recipe": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": {
+    "gold": 250,
+    "stone": 70,
+    "wood": 90
+   }
+  },
+  "reload_s": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": 1.5
+  },
+  "section": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": "Cosmetics"
+  }
+ },
+ "Cosmetics Wall": {
+  "durability": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": 1600
+  },
+  "maximum": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": 50
+  },
+  "name": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": "Cosmetics Wall"
+  },
+  "recipe": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": {
+    "gold": 30,
+    "stone": 25,
+    "wood": 5
+   }
+  },
+  "section": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": "Cosmetics"
+  }
+ },
+ "Cosmetics Water Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 400
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Cosmetics Water Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 250,
+    "stone": 70,
+    "wood": 120
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 13.5
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Water Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Cosmetics"
+  }
+ },
+ "Cosmetics Windmill": {
+  "durability": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": 800
+  },
+  "gold_harvest": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": 40
+  },
+  "maximum": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": 5
+  },
+  "name": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": "Cosmetics Windmill"
+  },
+  "recipe": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": {
+    "gold": 80,
+    "stone": 50,
+    "wood": 50
+   }
+  },
+  "reload_s": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": 2.5
+  },
+  "section": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": "Cosmetics"
+  }
+ },
+ "Golden Big Spike": {
+  "damage": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": 2
+  },
+  "durability": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": 700
+  },
+  "maximum": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": 12
+  },
+  "name": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": "Golden Big Spike"
+  },
+  "recipe": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": {
+    "gold": 40,
+    "wood": 20
+   }
+  },
+  "reload_s": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": 0.1
+  },
+  "section": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": "Golden"
+  }
+ },
+ "Golden Door": {
+  "durability": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": 400
+  },
+  "maximum": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": 6
+  },
+  "name": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": "Golden Door"
+  },
+  "recipe": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": {
+    "gold": 20,
+    "stone": 0,
+    "wood": 20
+   }
+  },
+  "section": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": "Golden"
+  }
+ },
+ "Golden Electric Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 400
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Golden Electric Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 100,
+    "stone": 40,
+    "wood": 90
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 8
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Electric Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Golden"
+  }
+ },
+ "Golden Fire Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 400
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Golden Fire Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 100,
+    "stone": 40,
+    "wood": 90
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 7
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Fire Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Golden"
+  }
+ },
+ "Golden Ice Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 200
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Golden Ice Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 100,
+    "stone": 40,
+    "wood": 90
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 9
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Ice Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Golden"
+  }
+ },
+ "Golden Plant Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 240
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Golden Plant Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 80,
+    "stone": 30,
+    "wood": 70
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 12
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Plant Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Golden"
+  }
+ },
+ "Golden Repair Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 570
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Golden Repair Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 100,
+    "stone": 40,
+    "wood": 90
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 8
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Repair Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Golden"
+  }
+ },
+ "Golden Rock Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 400
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Golden Rock Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 100,
+    "stone": 40,
+    "wood": 90
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 11
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Rock Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Golden"
+  }
+ },
+ "Golden Spectrum Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 400
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Golden Spectrum Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 100,
+    "stone": 40,
+    "wood": 90
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 12
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Spectrum Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Golden"
+  }
+ },
+ "Golden Spike": {
+  "damage": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": 4
+  },
+  "durability": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": 250
+  },
+  "maximum": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": 15
+  },
+  "name": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": "Golden Spike"
+  },
+  "recipe": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": {
+    "gold": 30,
+    "stone": 0,
+    "wood": 10
+   }
+  },
+  "reload_s": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": 0.1
+  },
+  "section": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": "Golden"
+  }
+ },
+ "Golden Spike Shield": {
+  "building_damage": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": 1
+  },
+  "damage": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": 2
+  },
+  "knockback": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": 140
+  },
+  "name": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": "Golden Spike Shield"
+  },
+  "player_damage": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": 2
+  },
+  "protection": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": 25
+  },
+  "range": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": 30
+  },
+  "reload_s": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": 0.5
+  },
+  "section": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": 70
+  },
+  "tier": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": "Golden"
+  }
+ },
+ "Golden Turret": {
+  "damage": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": 15
+  },
+  "durability": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": 200
+  },
+  "maximum": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": 2
+  },
+  "name": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": "Golden Turret"
+  },
+  "recipe": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": {
+    "gold": 150,
+    "stone": 40,
+    "wood": 90
+   }
+  },
+  "reload_s": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": 1.5
+  },
+  "section": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": "Golden"
+  }
+ },
+ "Golden Wall": {
+  "durability": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": 800
+  },
+  "maximum": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": 50
+  },
+  "name": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": "Golden Wall"
+  },
+  "recipe": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": {
+    "gold": 10,
+    "stone": 0,
+    "wood": 10
+   }
+  },
+  "section": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": "Golden"
+  }
+ },
+ "Golden Water Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 240
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Golden Water Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 100,
+    "stone": 40,
+    "wood": 90
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 8
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Water Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Golden"
+  }
+ },
+ "Golden Windmill": {
+  "durability": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": 400
+  },
+  "gold_harvest": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": 20
+  },
+  "maximum": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": 5
+  },
+  "name": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": "Golden Windmill"
+  },
+  "recipe": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": {
+    "gold": 50,
+    "wood": 50
+   }
+  },
+  "reload_s": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": 7.5
+  },
+  "section": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": "Golden"
+  }
+ },
+ "Grow Pad": {
+  "durability": {
+   "page": "Grow pad",
+   "rev": 38870,
+   "source": "wiki",
+   "value": 100
+  },
+  "maximum": {
+   "page": "Grow pad",
+   "rev": 38870,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Grow pad",
+   "rev": 38870,
+   "source": "wiki",
+   "value": "Grow Pad"
+  },
+  "recipe": {
+   "page": "Grow pad",
+   "rev": 38870,
+   "source": "wiki",
+   "value": {
+    "gold": 400,
+    "stone": 80,
+    "wood": 80
+   }
+  },
+  "section": {
+   "page": "Grow pad",
+   "rev": 38870,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Grow pad",
+   "rev": 38870,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Grow pad",
+   "rev": 38870,
+   "source": "wiki",
+   "value": "Grow Pad"
+  }
+ },
+ "Heal Pad": {
+  "durability": {
+   "page": "Heal Pads",
+   "rev": 38812,
+   "source": "wiki",
+   "value": 500
+  },
+  "maximum": {
+   "page": "Heal Pads",
+   "rev": 38812,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Heal Pads",
+   "rev": 38812,
+   "source": "wiki",
+   "value": "Heal Pad"
+  },
+  "recipe": {
+   "page": "Heal Pads",
+   "rev": 38812,
+   "source": "wiki",
+   "value": {
+    "gold": 300,
+    "stone": 60,
+    "wood": 60
+   }
+  },
+  "section": {
+   "page": "Heal Pads",
+   "rev": 38812,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Heal Pads",
+   "rev": 38812,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Heal Pads",
+   "rev": 38812,
+   "source": "wiki",
+   "value": "Heal Pad"
+  }
+ },
+ "Mega Bear Trap": {
+  "durability": {
+   "page": "Bear Traps",
+   "rev": 38808,
+   "source": "wiki",
+   "value": 160
+  },
+  "maximum": {
+   "page": "Bear Traps",
+   "rev": 38808,
+   "source": "wiki",
+   "value": 4
+  },
+  "name": {
+   "page": "Bear Traps",
+   "rev": 38808,
+   "source": "wiki",
+   "value": "Mega Bear Trap"
+  },
+  "recipe": {
+   "page": "Bear Traps",
+   "rev": 38808,
+   "source": "wiki",
+   "value": {
+    "gold": 150,
+    "stone": 50,
+    "wood": 30
+   }
+  },
+  "section": {
+   "page": "Bear Traps",
+   "rev": 38808,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Bear Traps",
+   "rev": 38808,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Bear Traps",
+   "rev": 38808,
+   "source": "wiki",
+   "value": "Mega Bear Trap"
+  }
+ },
+ "Mega Boost Pad": {
+  "durability": {
+   "page": "Boost Pads",
+   "rev": 37853,
+   "source": "wiki",
+   "value": 100
+  },
+  "maximum": {
+   "page": "Boost Pads",
+   "rev": 37853,
+   "source": "wiki",
+   "value": 10
+  },
+  "name": {
+   "page": "Boost Pads",
+   "rev": 37853,
+   "source": "wiki",
+   "value": "Mega Boost Pad"
+  },
+  "recipe": {
+   "page": "Boost Pads",
+   "rev": 37853,
+   "source": "wiki",
+   "value": {
+    "gold": 150,
+    "stone": 30,
+    "wood": 30
+   }
+  },
+  "section": {
+   "page": "Boost Pads",
+   "rev": 37853,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Boost Pads",
+   "rev": 37853,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Boost Pads",
+   "rev": 37853,
+   "source": "wiki",
+   "value": "Mega Boost Pad"
+  }
+ },
+ "Mega Grow Pad": {
+  "durability": {
+   "page": "Grow pad",
+   "rev": 38870,
+   "source": "wiki",
+   "value": 100
+  },
+  "maximum": {
+   "page": "Grow pad",
+   "rev": 38870,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Grow pad",
+   "rev": 38870,
+   "source": "wiki",
+   "value": "Mega Grow Pad"
+  },
+  "recipe": {
+   "page": "Grow pad",
+   "rev": 38870,
+   "source": "wiki",
+   "value": {
+    "gold": 600,
+    "stone": 160,
+    "wood": 160
+   }
+  },
+  "section": {
+   "page": "Grow pad",
+   "rev": 38870,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Grow pad",
+   "rev": 38870,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Grow pad",
+   "rev": 38870,
+   "source": "wiki",
+   "value": "Mega Grow Pad"
+  }
+ },
+ "Mega Heal Pad": {
+  "durability": {
+   "page": "Heal Pads",
+   "rev": 38812,
+   "source": "wiki",
+   "value": 750
+  },
+  "maximum": {
+   "page": "Heal Pads",
+   "rev": 38812,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Heal Pads",
+   "rev": 38812,
+   "source": "wiki",
+   "value": "Mega Heal Pad"
+  },
+  "recipe": {
+   "page": "Heal Pads",
+   "rev": 38812,
+   "source": "wiki",
+   "value": {
+    "gold": 600,
+    "stone": 120,
+    "wood": 120
+   }
+  },
+  "section": {
+   "page": "Heal Pads",
+   "rev": 38812,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Heal Pads",
+   "rev": 38812,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Heal Pads",
+   "rev": 38812,
+   "source": "wiki",
+   "value": "Mega Heal Pad"
+  }
+ },
+ "Ruby Big Spike": {
+  "damage": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": 3
+  },
+  "durability": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": 800
+  },
+  "maximum": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": 12
+  },
+  "name": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": "Ruby Big Spike"
+  },
+  "recipe": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": {
+    "gold": 50,
+    "stone": 20,
+    "wood": 10
+   }
+  },
+  "reload_s": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": 0.1
+  },
+  "section": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": "Ruby"
+  }
+ },
+ "Ruby Door": {
+  "durability": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": 500
+  },
+  "maximum": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": 6
+  },
+  "name": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": "Ruby Door"
+  },
+  "recipe": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": {
+    "gold": 20,
+    "stone": 20,
+    "wood": 20
+   }
+  },
+  "section": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": "Ruby"
+  }
+ },
+ "Ruby Electric Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 480
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Ruby Electric Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 150,
+    "stone": 50,
+    "wood": 100
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 6
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Electric Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Ruby"
+  }
+ },
+ "Ruby Fire Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 480
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Ruby Fire Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 150,
+    "stone": 50,
+    "wood": 100
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 5
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Fire Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Ruby"
+  }
+ },
+ "Ruby Ice Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 240
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Ruby Ice Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 150,
+    "stone": 50,
+    "wood": 100
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 7
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Ice Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Ruby"
+  }
+ },
+ "Ruby Plant Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 280
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Ruby Plant Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 100,
+    "stone": 40,
+    "wood": 80
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 10
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Plant Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Ruby"
+  }
+ },
+ "Ruby Repair Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 630
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Ruby Repair Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 150,
+    "stone": 50,
+    "wood": 100
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 6
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Repair Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Ruby"
+  }
+ },
+ "Ruby Rock Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 480
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Ruby Rock Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 150,
+    "stone": 50,
+    "wood": 100
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 9
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Rock Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Ruby"
+  }
+ },
+ "Ruby Spectrum Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 480
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Ruby Spectrum Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 150,
+    "stone": 50,
+    "wood": 100
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 10
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Spectrum Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Ruby"
+  }
+ },
+ "Ruby Spike": {
+  "damage": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": 5
+  },
+  "durability": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": 275
+  },
+  "maximum": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": 15
+  },
+  "name": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": "Ruby Spike"
+  },
+  "recipe": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": {
+    "gold": 35,
+    "stone": 10,
+    "wood": 5
+   }
+  },
+  "reload_s": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": 0.1
+  },
+  "section": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": "Ruby"
+  }
+ },
+ "Ruby Spike Shield": {
+  "building_damage": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": 1
+  },
+  "damage": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": 3
+  },
+  "knockback": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": 140
+  },
+  "name": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": "Ruby Spike Shield"
+  },
+  "player_damage": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": 3
+  },
+  "protection": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": 35
+  },
+  "range": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": 30
+  },
+  "reload_s": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": 0.5
+  },
+  "section": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": 65
+  },
+  "tier": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": "Ruby"
+  }
+ },
+ "Ruby Turret": {
+  "damage": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": 18
+  },
+  "durability": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": 240
+  },
+  "maximum": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": 2
+  },
+  "name": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": "Ruby Turret"
+  },
+  "recipe": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": {
+    "gold": 180,
+    "stone": 50,
+    "wood": 90
+   }
+  },
+  "reload_s": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": 1.5
+  },
+  "section": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": "Ruby"
+  }
+ },
+ "Ruby Wall": {
+  "durability": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": 1000
+  },
+  "maximum": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": 50
+  },
+  "name": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": "Ruby Wall"
+  },
+  "recipe": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": {
+    "gold": 10,
+    "stone": 10,
+    "wood": 10
+   }
+  },
+  "section": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": "Ruby"
+  }
+ },
+ "Ruby Water Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 260
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Ruby Water Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 150,
+    "stone": 50,
+    "wood": 100
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 6
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Water Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Ruby"
+  }
+ },
+ "Ruby Windmill": {
+  "durability": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": 500
+  },
+  "gold_harvest": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": 20
+  },
+  "maximum": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": 5
+  },
+  "name": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": "Ruby Windmill"
+  },
+  "recipe": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": {
+    "gold": 60,
+    "stone": 20,
+    "wood": 50
+   }
+  },
+  "reload_s": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": 5
+  },
+  "section": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": "Ruby"
+  }
+ },
+ "Sapphire Big Spike": {
+  "damage": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": 5
+  },
+  "durability": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": 1000
+  },
+  "maximum": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": 15
+  },
+  "name": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": "Sapphire Big Spike"
+  },
+  "recipe": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": {
+    "gold": 100,
+    "stone": 45,
+    "wood": 30
+   }
+  },
+  "reload_s": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": 0.1
+  },
+  "section": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": "Sapphire"
+  }
+ },
+ "Sapphire Door": {
+  "durability": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": 800
+  },
+  "maximum": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": 6
+  },
+  "name": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": "Sapphire Door"
+  },
+  "recipe": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": {
+    "gold": 60,
+    "stone": 50,
+    "wood": 10
+   }
+  },
+  "section": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": "Sapphire"
+  }
+ },
+ "Sapphire Electric Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 640
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Sapphire Electric Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 250,
+    "stone": 70,
+    "wood": 120
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 6
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Electric Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Sapphire"
+  }
+ },
+ "Sapphire Fire Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 640
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Sapphire Fire Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 250,
+    "stone": 70,
+    "wood": 120
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 7
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Fire Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Sapphire"
+  }
+ },
+ "Sapphire Ice Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 320
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Sapphire Ice Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 250,
+    "stone": 70,
+    "wood": 120
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 7
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Ice Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Sapphire"
+  }
+ },
+ "Sapphire Plant Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 360
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Sapphire Plant Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 200,
+    "stone": 50,
+    "wood": 100
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 10
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Plant Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Sapphire"
+  }
+ },
+ "Sapphire Repair Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 750
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Sapphire Repair Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 250,
+    "stone": 70,
+    "wood": 120
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 6
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Repair Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Sapphire"
+  }
+ },
+ "Sapphire Rock Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 640
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Sapphire Rock Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 250,
+    "stone": 70,
+    "wood": 120
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 11
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Rock Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Sapphire"
+  }
+ },
+ "Sapphire Spectrum Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 640
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Sapphire Spectrum Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 250,
+    "stone": 70,
+    "wood": 120
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 10
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Spectrum Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Sapphire"
+  }
+ },
+ "Sapphire Spike": {
+  "damage": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": 7
+  },
+  "durability": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": 325
+  },
+  "maximum": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": 15
+  },
+  "name": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": "Sapphire Spike"
+  },
+  "recipe": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": {
+    "gold": 60,
+    "stone": 30,
+    "wood": 15
+   }
+  },
+  "reload_s": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": 0.1
+  },
+  "section": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": "Sapphire"
+  }
+ },
+ "Sapphire Spike Shield": {
+  "building_damage": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": 1
+  },
+  "damage": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": 5
+  },
+  "knockback": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": 145
+  },
+  "name": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": "Sapphire Spike Shield"
+  },
+  "player_damage": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": 5
+  },
+  "protection": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": 55
+  },
+  "range": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": 30
+  },
+  "reload_s": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": 0.5
+  },
+  "section": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Spike Shields",
+   "rev": 35479,
+   "source": "wiki",
+   "value": "Sapphire"
+  }
+ },
+ "Sapphire Turret": {
+  "damage": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": 25
+  },
+  "durability": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": 320
+  },
+  "maximum": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": 2
+  },
+  "name": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": "Sapphire Turret"
+  },
+  "recipe": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": {
+    "gold": 250,
+    "stone": 70,
+    "wood": 90
+   }
+  },
+  "reload_s": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": 1.5
+  },
+  "section": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": "Sapphire"
+  }
+ },
+ "Sapphire Wall": {
+  "durability": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": 1400
+  },
+  "maximum": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": 50
+  },
+  "name": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": "Sapphire Wall"
+  },
+  "recipe": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": {
+    "gold": 30,
+    "stone": 25,
+    "wood": 5
+   }
+  },
+  "section": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": "Sapphire"
+  }
+ },
+ "Sapphire Water Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 360
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Sapphire Water Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 250,
+    "stone": 70,
+    "wood": 120
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 6
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Water Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Sapphire"
+  }
+ },
+ "Sapphire Windmill": {
+  "durability": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": 700
+  },
+  "gold_harvest": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": 35
+  },
+  "maximum": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": 5
+  },
+  "name": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": "Sapphire Windmill"
+  },
+  "recipe": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": {
+    "gold": 80,
+    "stone": 50,
+    "wood": 50
+   }
+  },
+  "reload_s": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": 2.5
+  },
+  "section": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": "Sapphire"
+  }
+ },
+ "Stone Big Spike": {
+  "damage": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": 2
+  },
+  "durability": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": 600
+  },
+  "maximum": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": 12
+  },
+  "name": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": "Stone Big Spike"
+  },
+  "recipe": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": {
+    "stone": 25
+   }
+  },
+  "reload_s": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": 0.1
+  },
+  "section": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Big Spikes",
+   "rev": 37851,
+   "source": "wiki",
+   "value": "Stone"
+  }
+ },
+ "Stone Door": {
+  "durability": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": 300
+  },
+  "maximum": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": 6
+  },
+  "name": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": "Stone Door"
+  },
+  "recipe": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": {
+    "gold": 0,
+    "stone": 20,
+    "wood": 0
+   }
+  },
+  "section": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": "Stone"
+  }
+ },
+ "Stone Electric Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 320
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Stone Electric Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 50,
+    "stone": 30,
+    "wood": 80
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 6
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Electric Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Stone"
+  }
+ },
+ "Stone Fire Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 320
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Stone Fire Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 50,
+    "stone": 30,
+    "wood": 80
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 5
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Fire Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Stone"
+  }
+ },
+ "Stone Ice Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 160
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Stone Ice Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 50,
+    "stone": 30,
+    "wood": 80
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 7
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Ice Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Stone"
+  }
+ },
+ "Stone Plant Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 200
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Stone Plant Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 60,
+    "stone": 30,
+    "wood": 60
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 10
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Plant Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Stone"
+  }
+ },
+ "Stone Repair Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 510
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Stone Repair Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 50,
+    "stone": 30,
+    "wood": 60
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 6
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Repair Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Stone"
+  }
+ },
+ "Stone Rock Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 320
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Stone Rock Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 50,
+    "stone": 30,
+    "wood": 80
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 9
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Rock Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Stone"
+  }
+ },
+ "Stone Spectrum Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 320
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Stone Spectrum Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 50,
+    "stone": 30,
+    "wood": 80
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 10
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Spectrum Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Stone"
+  }
+ },
+ "Stone Spike": {
+  "damage": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": 3
+  },
+  "durability": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": 225
+  },
+  "maximum": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": 15
+  },
+  "name": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": "Stone Spike"
+  },
+  "recipe": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": {
+    "gold": 0,
+    "stone": 25,
+    "wood": 0
+   }
+  },
+  "reload_s": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": 0.1
+  },
+  "section": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": "Stone"
+  }
+ },
+ "Stone Turret": {
+  "damage": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": 12
+  },
+  "durability": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": 160
+  },
+  "maximum": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": 2
+  },
+  "name": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": "Stone Turret"
+  },
+  "recipe": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": {
+    "gold": 0,
+    "stone": 30,
+    "wood": 80
+   }
+  },
+  "reload_s": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": 1.5
+  },
+  "section": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": "Stone"
+  }
+ },
+ "Stone Wall": {
+  "durability": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": 600
+  },
+  "maximum": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": 50
+  },
+  "name": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": "Stone Wall"
+  },
+  "recipe": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": {
+    "gold": 0,
+    "stone": 10,
+    "wood": 0
+   }
+  },
+  "section": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": "Stone"
+  }
+ },
+ "Stone Water Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 200
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Stone Water Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 50,
+    "stone": 30,
+    "wood": 80
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 6
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Water Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Stone"
+  }
+ },
+ "Stone Windmill": {
+  "durability": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": 300
+  },
+  "gold_harvest": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": 10
+  },
+  "maximum": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": 5
+  },
+  "name": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": "Stone Windmill"
+  },
+  "recipe": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": {
+    "gold": 0,
+    "stone": 20,
+    "wood": 50
+   }
+  },
+  "reload_s": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": 7.5
+  },
+  "section": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": "Stone"
+  }
+ },
+ "Wooden Door": {
+  "durability": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": 200
+  },
+  "maximum": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": 6
+  },
+  "name": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": "Wooden Door"
+  },
+  "recipe": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": {
+    "gold": 0,
+    "stone": 0,
+    "wood": 20
+   }
+  },
+  "section": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Doors",
+   "rev": 32700,
+   "source": "wiki",
+   "value": "Wooden"
+  }
+ },
+ "Wooden Magic Tower": {
+  "durability": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 140
+  },
+  "maximum": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 1
+  },
+  "name": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Wooden Magic Tower"
+  },
+  "recipe": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": {
+    "gold": 0,
+    "stone": 20,
+    "wood": 70
+   }
+  },
+  "reload_s": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 8
+  },
+  "section": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Magic Tower"
+  },
+  "speed": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Towers",
+   "rev": 38034,
+   "source": "wiki",
+   "value": "Wooden"
+  }
+ },
+ "Wooden Spike": {
+  "damage": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": 2
+  },
+  "durability": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": 200
+  },
+  "maximum": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": 15
+  },
+  "name": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": "Wooden Spike"
+  },
+  "recipe": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": {
+    "gold": 0,
+    "stone": 10,
+    "wood": 20
+   }
+  },
+  "reload_s": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": 0.1
+  },
+  "section": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Spikes",
+   "rev": 34670,
+   "source": "wiki",
+   "value": "Wooden"
+  }
+ },
+ "Wooden Turret": {
+  "damage": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": 10
+  },
+  "durability": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": 120
+  },
+  "maximum": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": 2
+  },
+  "name": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": "Wooden Turret"
+  },
+  "recipe": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": {
+    "gold": 0,
+    "stone": 20,
+    "wood": 70
+   }
+  },
+  "reload_s": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": 1
+  },
+  "section": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Turrets",
+   "rev": 38784,
+   "source": "wiki",
+   "value": "Wooden"
+  }
+ },
+ "Wooden Wall": {
+  "durability": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": 400
+  },
+  "maximum": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": 50
+  },
+  "name": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": "Wooden Wall"
+  },
+  "recipe": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": {
+    "gold": 0,
+    "stone": 0,
+    "wood": 10
+   }
+  },
+  "section": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Walls",
+   "rev": 33073,
+   "source": "wiki",
+   "value": "Wooden"
+  }
+ },
+ "Wooden Windmill": {
+  "durability": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": 200
+  },
+  "gold_harvest": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": 10
+  },
+  "maximum": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": 5
+  },
+  "name": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": "Wooden Windmill"
+  },
+  "recipe": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": {
+    "gold": 0,
+    "stone": 10,
+    "wood": 50
+   }
+  },
+  "reload_s": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": 10
+  },
+  "section": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Windmills",
+   "rev": 38559,
+   "source": "wiki",
+   "value": "Wooden"
+  }
+ }
+}

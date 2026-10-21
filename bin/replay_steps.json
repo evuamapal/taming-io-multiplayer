@@ -1,0 +1,1 @@
+{"hook": "", "steps": [["sleep", 7], ["shot", "01_menu"], ["type", "#name", "replay"], ["play"], ["sleep", 3], ["shot", "02_joined"], ["sleep", 12], ["shot", "03_world_15s"], ["sleep", 15], ["shot", "04_world_30s"]]}

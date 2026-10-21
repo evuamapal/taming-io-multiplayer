@@ -1,0 +1,6516 @@
+{
+"0": {
+"id": 0,
+"name": "Hand",
+"icon": "hand",
+"level": [
+0
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 500
+},
+"1": {
+"id": 1,
+"name": "Stone Gloves",
+"icon": "stone-punch",
+"level": [
+1
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 500
+},
+"2": {
+"id": 2,
+"name": "Golden Gloves",
+"icon": "gold-punch",
+"level": [
+6
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 500
+},
+"3": {
+"id": 3,
+"name": "Ruby Gloves",
+"icon": "ruby-punch",
+"level": [
+11
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 500
+},
+"4": {
+"id": 4,
+"name": "Amethyst Gloves",
+"icon": "amethyst-punch",
+"level": [
+15
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 500
+},
+"5": {
+"id": 5,
+"name": "Sapphire Gloves",
+"icon": "sapphire-punch",
+"level": [
+19
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 500
+},
+"6": {
+"id": 6,
+"name": "Diamond Gloves",
+"icon": "diamond-punch",
+"level": [
+22
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 500
+},
+"7": {
+"id": 7,
+"name": "Emerald Gloves",
+"icon": "emerald-punch",
+"level": [
+22
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 500
+},
+"8": {
+"id": 8,
+"name": "Amber Gloves",
+"icon": "amber-punch",
+"level": [
+22
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 500
+},
+"9": {
+"id": 9,
+"name": "Stone Spear",
+"icon": "stone-spear",
+"level": [
+1
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 700
+},
+"10": {
+"id": 10,
+"name": "Golden Spear",
+"icon": "golden-spear",
+"level": [
+6
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 700
+},
+"11": {
+"id": 11,
+"name": "Ruby Spear",
+"icon": "ruby-spear",
+"level": [
+11
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 700
+},
+"12": {
+"id": 12,
+"name": "Amethyst Spear",
+"icon": "amethyst-spear",
+"level": [
+15
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 700
+},
+"13": {
+"id": 13,
+"name": "Sapphire Spear",
+"icon": "sapphire-spear",
+"level": [
+19
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 700
+},
+"14": {
+"id": 14,
+"name": "Diamond Spear",
+"icon": "diamond-spear",
+"level": [
+22
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 700
+},
+"15": {
+"id": 15,
+"name": "Emerald Spear",
+"icon": "emerald-spear",
+"level": [
+22
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 700
+},
+"16": {
+"id": 16,
+"name": "Amber Spear",
+"icon": "amber-spear",
+"level": [
+22
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 700
+},
+"17": {
+"id": 17,
+"name": "Air Blast Gun",
+"icon": "enchanted-spear0",
+"level": [
+28
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 900
+},
+"18": {
+"id": 18,
+"name": "Enchanted Spear Level 2",
+"icon": "enchanted-spear1",
+"level": [],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 700
+},
+"19": {
+"id": 19,
+"name": "Enchanted Spear Level 3",
+"icon": "enchanted-spear2",
+"level": [],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 700
+},
+"20": {
+"id": 20,
+"name": "Golden Naginata",
+"icon": "golden-naginata",
+"level": [
+6
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 900
+},
+"21": {
+"id": 21,
+"name": "Ruby Naginata",
+"icon": "ruby-naginata",
+"level": [
+11
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 900
+},
+"22": {
+"id": 22,
+"name": "Amethyst Naginata",
+"icon": "amethyst-naginata",
+"level": [
+15
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 900
+},
+"23": {
+"id": 23,
+"name": "Sapphire Naginata",
+"icon": "sapphire-naginata",
+"level": [
+19
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 900
+},
+"24": {
+"id": 24,
+"name": "Diamond Naginata",
+"icon": "diamond-naginata",
+"level": [
+22
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 900
+},
+"25": {
+"id": 25,
+"name": "Emerald Naginata",
+"icon": "emerald-naginata",
+"level": [
+22
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 900
+},
+"26": {
+"id": 26,
+"name": "Amber Naginata",
+"icon": "amber-naginata",
+"level": [
+22
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 900
+},
+"27": {
+"id": 27,
+"name": "Stone Sword",
+"icon": "stone-sword",
+"level": [
+1
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 400
+},
+"28": {
+"id": 28,
+"name": "Golden Sword",
+"icon": "golden-sword",
+"level": [
+6
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 400
+},
+"29": {
+"id": 29,
+"name": "Ruby Sword",
+"icon": "ruby-sword",
+"level": [
+11
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 450
+},
+"30": {
+"id": 30,
+"name": "Amethyst Sword",
+"icon": "amethyst-sword",
+"level": [
+15
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 450
+},
+"31": {
+"id": 31,
+"name": "Sapphire Sword",
+"icon": "sapphire-sword",
+"level": [
+19
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 500
+},
+"32": {
+"id": 32,
+"name": "Diamond Sword",
+"icon": "diamond-sword",
+"level": [
+22
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 500
+},
+"33": {
+"id": 33,
+"name": "Emerald Sword",
+"icon": "emerald-sword",
+"level": [
+22
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 500
+},
+"34": {
+"id": 34,
+"name": "Amber Sword",
+"icon": "amber-sword",
+"level": [
+22
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 500
+},
+"35": {
+"id": 35,
+"name": "Golden Katana",
+"icon": "golden-katana",
+"level": [
+6
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 650
+},
+"36": {
+"id": 36,
+"name": "Ruby Katana",
+"icon": "ruby-katana",
+"level": [
+11
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 650
+},
+"37": {
+"id": 37,
+"name": "Amethyst Katana",
+"icon": "amethyst-katana",
+"level": [
+15
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 650
+},
+"38": {
+"id": 38,
+"name": "Sapphire Katana",
+"icon": "sapphire-katana",
+"level": [
+19
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 650
+},
+"39": {
+"id": 39,
+"name": "Diamond Katana",
+"icon": "diamond-katana",
+"level": [
+22
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 650
+},
+"40": {
+"id": 40,
+"name": "Emerald Katana",
+"icon": "emerald-katana",
+"level": [
+22
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 650
+},
+"41": {
+"id": 41,
+"name": "Amber Katana",
+"icon": "amber-katana",
+"level": [
+22
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 650
+},
+"42": {
+"id": 42,
+"name": "Stone Daggers",
+"icon": "stone-dagger",
+"level": [
+1
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 300
+},
+"43": {
+"id": 43,
+"name": "Golden Daggers",
+"icon": "golden-dagger",
+"level": [
+6
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 300
+},
+"44": {
+"id": 44,
+"name": "Ruby Daggers",
+"icon": "ruby-dagger",
+"level": [
+11
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 300
+},
+"45": {
+"id": 45,
+"name": "Amethyst Daggers",
+"icon": "amethyst-dagger",
+"level": [
+15
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 300
+},
+"46": {
+"id": 46,
+"name": "Sapphire Daggers",
+"icon": "sapphire-dagger",
+"level": [
+19
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 300
+},
+"47": {
+"id": 47,
+"name": "Diamond Daggers",
+"icon": "diamond-dagger",
+"level": [
+22
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 300
+},
+"48": {
+"id": 48,
+"name": "Emerald Daggers",
+"icon": "emerald-dagger",
+"level": [
+22
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 300
+},
+"49": {
+"id": 49,
+"name": "Amber Daggers",
+"icon": "amber-dagger",
+"level": [
+22
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 300
+},
+"50": {
+"id": 50,
+"name": "Golden Cleavers",
+"icon": "golden-cleaver",
+"level": [
+6
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 400
+},
+"51": {
+"id": 51,
+"name": "Ruby Cleavers",
+"icon": "ruby-cleaver",
+"level": [
+11
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 400
+},
+"52": {
+"id": 52,
+"name": "Amethyst Cleavers",
+"icon": "amethyst-cleaver",
+"level": [
+15
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 400
+},
+"53": {
+"id": 53,
+"name": "Sapphire Cleavers",
+"icon": "sapphire-cleaver",
+"level": [
+19
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 400
+},
+"54": {
+"id": 54,
+"name": "Diamond Cleavers",
+"icon": "diamond-cleaver",
+"level": [
+22
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 400
+},
+"55": {
+"id": 55,
+"name": "Emerald Cleavers",
+"icon": "emerald-cleaver",
+"level": [
+22
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 400
+},
+"56": {
+"id": 56,
+"name": "Amber Cleavers",
+"icon": "amber-cleaver",
+"level": [
+22
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 400
+},
+"57": {
+"id": 57,
+"name": "Stone Hammer",
+"icon": "stone-hammer",
+"level": [
+1
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 400
+},
+"58": {
+"id": 58,
+"name": "Golden Hammer",
+"icon": "golden-hammer",
+"level": [
+6
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 400
+},
+"59": {
+"id": 59,
+"name": "Ruby Hammer",
+"icon": "ruby-hammer",
+"level": [
+11
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 450
+},
+"60": {
+"id": 60,
+"name": "Amethyst Hammer",
+"icon": "amethyst-hammer",
+"level": [
+15
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 450
+},
+"61": {
+"id": 61,
+"name": "Sapphire Hammer",
+"icon": "sapphire-hammer",
+"level": [
+19
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 500
+},
+"62": {
+"id": 62,
+"name": "Diamond Hammer",
+"icon": "diamond-hammer",
+"level": [
+22
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 500
+},
+"63": {
+"id": 63,
+"name": "Emerald Hammer",
+"icon": "emerald-hammer",
+"level": [
+22
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 500
+},
+"64": {
+"id": 64,
+"name": "Amber Hammer",
+"icon": "amber-hammer",
+"level": [
+22
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 500
+},
+"65": {
+"id": 65,
+"name": "Golden Pickaxe",
+"icon": "golden-pickaxe",
+"level": [
+6
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 650
+},
+"66": {
+"id": 66,
+"name": "Ruby Pickaxe",
+"icon": "ruby-pickaxe",
+"level": [
+11
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 700
+},
+"67": {
+"id": 67,
+"name": "Amethyst Pickaxe",
+"icon": "amethyst-pickaxe",
+"level": [
+15
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 700
+},
+"68": {
+"id": 68,
+"name": "Sapphire Pickaxe",
+"icon": "sapphire-pickaxe",
+"level": [
+19
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 750
+},
+"69": {
+"id": 69,
+"name": "Diamond Pickaxe",
+"icon": "diamond-pickaxe",
+"level": [
+22
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 750
+},
+"70": {
+"id": 70,
+"name": "Emerald Pickaxe",
+"icon": "emerald-pickaxe",
+"level": [
+22
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 750
+},
+"71": {
+"id": 71,
+"name": "Amber Pickaxe",
+"icon": "amber-pickaxe",
+"level": [
+22
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 750
+},
+"72": {
+"id": 72,
+"name": "Stone Axe",
+"icon": "stone-axe",
+"level": [
+1
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 700
+},
+"73": {
+"id": 73,
+"name": "Golden Axe",
+"icon": "golden-axe",
+"level": [
+6
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 740
+},
+"74": {
+"id": 74,
+"name": "Ruby Axe",
+"icon": "ruby-axe",
+"level": [
+11
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 780
+},
+"75": {
+"id": 75,
+"name": "Amethyst Axe",
+"icon": "amethyst-axe",
+"level": [
+15
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 820
+},
+"76": {
+"id": 76,
+"name": "Sapphire Axe",
+"icon": "sapphire-axe",
+"level": [
+19
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 860
+},
+"77": {
+"id": 77,
+"name": "Diamond Axe",
+"icon": "diamond-axe",
+"level": [
+22
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 860
+},
+"78": {
+"id": 78,
+"name": "Emerald Axe",
+"icon": "emerald-axe",
+"level": [
+22
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 860
+},
+"79": {
+"id": 79,
+"name": "Amber Axe",
+"icon": "amber-axe",
+"level": [
+22
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 860
+},
+"80": {
+"id": 80,
+"name": "Golden Labrys",
+"icon": "golden-battle-axe",
+"level": [
+6
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 850
+},
+"81": {
+"id": 81,
+"name": "Ruby Labrys",
+"icon": "ruby-battle-axe",
+"level": [
+11
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 875
+},
+"82": {
+"id": 82,
+"name": "Amethyst Labrys",
+"icon": "amethyst-battle-axe",
+"level": [
+15
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 875
+},
+"83": {
+"id": 83,
+"name": "Sapphire Labrys",
+"icon": "sapphire-battle-axe",
+"level": [
+19
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 900
+},
+"84": {
+"id": 84,
+"name": "Diamond Labrys",
+"icon": "diamond-battle-axe",
+"level": [
+22
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 900
+},
+"85": {
+"id": 85,
+"name": "Emerald Labrys",
+"icon": "emerald-battle-axe",
+"level": [
+22
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 900
+},
+"86": {
+"id": 86,
+"name": "Amber Labrys",
+"icon": "amber-battle-axe",
+"level": [
+22
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 900
+},
+"87": {
+"id": 87,
+"name": "Stone Wrench",
+"icon": "stone-wrench",
+"level": [
+4
+],
+"cost": [
+0,
+0,
+4,
+0,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 700
+},
+"88": {
+"id": 88,
+"name": "Golden Wrench",
+"icon": "golden-wrench",
+"level": [
+10
+],
+"cost": [
+0,
+0,
+5,
+0,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 700
+},
+"89": {
+"id": 89,
+"name": "Ruby Wrench",
+"icon": "ruby-wrench",
+"level": [
+14
+],
+"cost": [
+0,
+0,
+6,
+0,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 700
+},
+"90": {
+"id": 90,
+"name": "Amethyst Wrench",
+"icon": "amethyst-wrench",
+"level": [
+18
+],
+"cost": [
+0,
+0,
+7,
+1,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 700
+},
+"91": {
+"id": 91,
+"name": "Sapphire Wrench",
+"icon": "sapphire-wrench",
+"level": [
+21
+],
+"cost": [
+0,
+0,
+8,
+4,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 700
+},
+"92": {
+"id": 92,
+"name": "Diamond Wrench",
+"icon": "diamond-wrench",
+"level": [
+24
+],
+"cost": [
+0,
+0,
+8,
+4,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 700
+},
+"93": {
+"id": 93,
+"name": "Emerald Wrench",
+"icon": "emerald-wrench",
+"level": [
+24
+],
+"cost": [
+0,
+0,
+8,
+4,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 700
+},
+"94": {
+"id": 94,
+"name": "Amber Wrench",
+"icon": "amber-wrench",
+"level": [
+24
+],
+"cost": [
+0,
+0,
+8,
+4,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 700
+},
+"95": {
+"id": 95,
+"name": "Stone Shield",
+"icon": "stone-shield",
+"level": [
+4
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 500
+},
+"96": {
+"id": 96,
+"name": "Golden Shield",
+"icon": "golden-shield",
+"level": [
+10
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 500
+},
+"97": {
+"id": 97,
+"name": "Ruby Shield",
+"icon": "ruby-shield",
+"level": [
+14
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 500
+},
+"98": {
+"id": 98,
+"name": "Amethyst Shield",
+"icon": "amethyst-shield",
+"level": [
+18
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 500
+},
+"99": {
+"id": 99,
+"name": "Sapphire Shield",
+"icon": "sapphire-shield",
+"level": [
+21
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 500
+},
+"100": {
+"id": 100,
+"name": "Diamond Shield",
+"icon": "diamond-shield",
+"level": [
+24
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 500
+},
+"101": {
+"id": 101,
+"name": "Emerald Shield",
+"icon": "emerald-shield",
+"level": [
+24
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 500
+},
+"102": {
+"id": 102,
+"name": "Amber Shield",
+"icon": "amber-shield",
+"level": [
+24
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 500
+},
+"103": {
+"id": 103,
+"name": "Golden Spike Shield",
+"icon": "golden-spike-shield",
+"level": [
+10
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 500
+},
+"104": {
+"id": 104,
+"name": "Ruby Spike Shield",
+"icon": "ruby-spike-shield",
+"level": [
+14
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 500
+},
+"105": {
+"id": 105,
+"name": "Amethyst Spike Shield",
+"icon": "amethyst-spike-shield",
+"level": [
+18
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 500
+},
+"106": {
+"id": 106,
+"name": "Sapphire Spike Shield",
+"icon": "sapphire-spike-shield",
+"level": [
+21
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 500
+},
+"107": {
+"id": 107,
+"name": "Diamond Spike Shield",
+"icon": "diamond-spike-shield",
+"level": [
+24
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 500
+},
+"108": {
+"id": 108,
+"name": "Emerald Spike Shield",
+"icon": "emerald-spike-shield",
+"level": [
+24
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 500
+},
+"109": {
+"id": 109,
+"name": "Amber Spike Shield",
+"icon": "amber-spike-shield",
+"level": [
+24
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 500
+},
+"110": {
+"id": 110,
+"name": "Golden Crystal Shield",
+"icon": "golden-crystal-shield",
+"level": [
+10
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 500
+},
+"111": {
+"id": 111,
+"name": "Ruby Crystal Shield",
+"icon": "ruby-crystal-shield",
+"level": [
+14
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 500
+},
+"112": {
+"id": 112,
+"name": "Amethyst Crystal Shield",
+"icon": "amethyst-crystal-shield",
+"level": [
+18
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 500
+},
+"113": {
+"id": 113,
+"name": "Sapphire Crystal Shield",
+"icon": "sapphire-crystal-shield",
+"level": [
+21
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 500
+},
+"114": {
+"id": 114,
+"name": "Diamond Crystal Shield",
+"icon": "diamond-crystal-shield",
+"level": [
+24
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 500
+},
+"115": {
+"id": 115,
+"name": "Emerald Crystal Shield",
+"icon": "emerald-crystal-shield",
+"level": [
+24
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 500
+},
+"116": {
+"id": 116,
+"name": "Amber Crystal Shield",
+"icon": "amber-crystal-shield",
+"level": [
+24
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 500
+},
+"117": {
+"id": 117,
+"name": "Stone Bow",
+"icon": "stone-bow",
+"level": [
+4
+],
+"cost": [
+0,
+5,
+0,
+0,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 1000
+},
+"118": {
+"id": 118,
+"name": "Golden Bow",
+"icon": "golden-bow",
+"level": [
+10
+],
+"cost": [
+0,
+6,
+0,
+0,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 1000
+},
+"119": {
+"id": 119,
+"name": "Ruby Bow",
+"icon": "ruby-bow",
+"level": [
+14
+],
+"cost": [
+0,
+7,
+0,
+0,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 900
+},
+"120": {
+"id": 120,
+"name": "Amethyst Bow",
+"icon": "amethyst-bow",
+"level": [
+18
+],
+"cost": [
+0,
+8,
+0,
+0,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 900
+},
+"121": {
+"id": 121,
+"name": "Sapphire Bow",
+"icon": "sapphire-bow",
+"level": [
+21
+],
+"cost": [
+0,
+10,
+0,
+0,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 800
+},
+"122": {
+"id": 122,
+"name": "Diamond Bow",
+"icon": "diamond-bow",
+"level": [
+24
+],
+"cost": [
+0,
+10,
+0,
+0,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 800
+},
+"123": {
+"id": 123,
+"name": "Emerald Bow",
+"icon": "emerald-bow",
+"level": [
+24
+],
+"cost": [
+0,
+10,
+0,
+0,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 800
+},
+"124": {
+"id": 124,
+"name": "Amber Bow",
+"icon": "amber-bow",
+"level": [
+24
+],
+"cost": [
+0,
+10,
+0,
+0,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 800
+},
+"125": {
+"id": 125,
+"name": "Golden Musket",
+"icon": "golden-musket",
+"level": [
+10
+],
+"cost": [
+0,
+0,
+10,
+4,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 900
+},
+"126": {
+"id": 126,
+"name": "Ruby Musket",
+"icon": "ruby-musket",
+"level": [
+14
+],
+"cost": [
+0,
+0,
+10,
+6,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 850
+},
+"127": {
+"id": 127,
+"name": "Amethyst Musket",
+"icon": "amethyst-musket",
+"level": [
+18
+],
+"cost": [
+0,
+0,
+12,
+8,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 800
+},
+"128": {
+"id": 128,
+"name": "Sapphire Musket",
+"icon": "sapphire-musket",
+"level": [
+21
+],
+"cost": [
+0,
+0,
+14,
+10,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 750
+},
+"129": {
+"id": 129,
+"name": "Diamond Musket",
+"icon": "diamond-musket",
+"level": [
+24
+],
+"cost": [
+0,
+0,
+14,
+10,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 700
+},
+"130": {
+"id": 130,
+"name": "Emerald Musket",
+"icon": "emerald-musket",
+"level": [
+24
+],
+"cost": [
+0,
+0,
+14,
+10,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 700
+},
+"131": {
+"id": 131,
+"name": "Amber Musket",
+"icon": "amber-musket",
+"level": [
+24
+],
+"cost": [
+0,
+0,
+14,
+10,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 700
+},
+"132": {
+"id": 132,
+"name": "Golden Minigun",
+"icon": "golden-minigun",
+"level": [
+10
+],
+"cost": [
+0,
+0,
+4,
+4,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 25
+},
+"133": {
+"id": 133,
+"name": "Ruby Minigun",
+"icon": "ruby-minigun",
+"level": [
+14
+],
+"cost": [
+0,
+0,
+4,
+6,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 25
+},
+"134": {
+"id": 134,
+"name": "Amethyst Minigun",
+"icon": "amethyst-minigun",
+"level": [
+18
+],
+"cost": [
+0,
+0,
+5,
+8,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 25
+},
+"135": {
+"id": 135,
+"name": "Sapphire Minigun",
+"icon": "sapphire-minigun",
+"level": [
+21
+],
+"cost": [
+0,
+0,
+6,
+10,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 25
+},
+"136": {
+"id": 136,
+"name": "Diamond Minigun",
+"icon": "diamond-minigun",
+"level": [
+24
+],
+"cost": [
+0,
+0,
+6,
+10,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 25
+},
+"137": {
+"id": 137,
+"name": "Emerald Minigun",
+"icon": "emerald-minigun",
+"level": [
+24
+],
+"cost": [
+0,
+0,
+6,
+10,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 25
+},
+"138": {
+"id": 138,
+"name": "Amber Minigun",
+"icon": "amber-minigun",
+"level": [
+24
+],
+"cost": [
+0,
+0,
+6,
+10,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 25
+},
+"139": {
+"id": 139,
+"name": "Golden Crossbow",
+"icon": "golden-crossbow",
+"level": [
+10
+],
+"cost": [
+0,
+10,
+0,
+0,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 1500
+},
+"140": {
+"id": 140,
+"name": "Ruby Crossbow",
+"icon": "ruby-crossbow",
+"level": [
+14
+],
+"cost": [
+0,
+12,
+0,
+0,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 1400
+},
+"141": {
+"id": 141,
+"name": "Amethyst Crossbow",
+"icon": "amethyst-crossbow",
+"level": [
+18
+],
+"cost": [
+0,
+14,
+0,
+0,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 1450
+},
+"142": {
+"id": 142,
+"name": "Sapphire Crossbow",
+"icon": "sapphire-crossbow",
+"level": [
+21
+],
+"cost": [
+0,
+16,
+0,
+0,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 1400
+},
+"143": {
+"id": 143,
+"name": "Diamond Crossbow",
+"icon": "diamond-crossbow",
+"level": [
+24
+],
+"cost": [
+0,
+16,
+0,
+0,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 1400
+},
+"144": {
+"id": 144,
+"name": "Emerald Crossbow",
+"icon": "emerald-crossbow",
+"level": [
+24
+],
+"cost": [
+0,
+16,
+0,
+0,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 1400
+},
+"145": {
+"id": 145,
+"name": "Amber Crossbow",
+"icon": "amber-crossbow",
+"level": [
+24
+],
+"cost": [
+0,
+16,
+0,
+0,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 1400
+},
+"146": {
+"id": 146,
+"name": "Stone Blowpipe",
+"icon": "stone-blowpipe",
+"level": [
+4
+],
+"cost": [
+4,
+8,
+0,
+0,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 1400
+},
+"147": {
+"id": 147,
+"name": "Golden Blowpipe",
+"icon": "golden-blowpipe",
+"level": [
+10
+],
+"cost": [
+5,
+10,
+0,
+0,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 1400
+},
+"148": {
+"id": 148,
+"name": "Ruby Blowpipe",
+"icon": "ruby-blowpipe",
+"level": [
+14
+],
+"cost": [
+6,
+12,
+0,
+0,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 1300
+},
+"149": {
+"id": 149,
+"name": "Amethyst Blowpipe",
+"icon": "amethyst-blowpipe",
+"level": [
+18
+],
+"cost": [
+7,
+14,
+0,
+0,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 1300
+},
+"150": {
+"id": 150,
+"name": "Sapphire Blowpipe",
+"icon": "sapphire-blowpipe",
+"level": [
+21
+],
+"cost": [
+8,
+16,
+0,
+0,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 1200
+},
+"151": {
+"id": 151,
+"name": "Diamond Blowpipe",
+"icon": "diamond-blowpipe",
+"level": [
+24
+],
+"cost": [
+8,
+16,
+0,
+0,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 1200
+},
+"152": {
+"id": 152,
+"name": "Emerald Blowpipe",
+"icon": "emerald-blowpipe",
+"level": [
+24
+],
+"cost": [
+8,
+16,
+0,
+0,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 1200
+},
+"153": {
+"id": 153,
+"name": "Amber Blowpipe",
+"icon": "amber-blowpipe",
+"level": [
+24
+],
+"cost": [
+8,
+16,
+0,
+0,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 1200
+},
+"154": {
+"id": 154,
+"name": "Bug Net",
+"icon": "bug-net",
+"level": [
+5
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 3,
+"place": null,
+"reload": 700
+},
+"155": {
+"id": 155,
+"name": "Appletor",
+"icon": "appletor",
+"level": [
+5
+],
+"cost": [
+5,
+0,
+0,
+0,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 3,
+"place": null,
+"reload": 700
+},
+"156": {
+"id": 156,
+"name": "Slingshot",
+"icon": "slingshot",
+"level": [
+5
+],
+"cost": [
+0,
+0,
+5,
+0,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 3,
+"place": null,
+"reload": 550
+},
+"157": {
+"id": 157,
+"name": "Golden Bug Net",
+"icon": "golden-bug-net",
+"level": [
+25
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 3,
+"place": null,
+"reload": 700
+},
+"158": {
+"id": 158,
+"name": "Golden Appletor",
+"icon": "golden-appletor",
+"level": [
+25
+],
+"cost": [
+10,
+0,
+0,
+25,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 3,
+"place": null,
+"reload": 700
+},
+"159": {
+"id": 159,
+"name": "Golden Slingshot",
+"icon": "golden-slingshot",
+"level": [
+25
+],
+"cost": [
+0,
+0,
+0,
+50,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 3,
+"place": null,
+"reload": 550
+},
+"160": {
+"id": 160,
+"name": "Saddle",
+"icon": "saddle",
+"level": [
+5
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 3,
+"place": 62,
+"reload": null
+},
+"161": {
+"id": 161,
+"name": "Battle Saddle",
+"icon": "battle-saddle",
+"level": [
+25
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 3,
+"place": 62,
+"reload": null
+},
+"162": {
+"id": 162,
+"name": "Racing Saddle",
+"icon": "racing-saddle",
+"level": [
+25
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 3,
+"place": 62,
+"reload": null
+},
+"163": {
+"id": 163,
+"name": "Honey Saddle",
+"icon": "honey-saddle",
+"level": [
+25
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 3,
+"place": 62,
+"reload": null
+},
+"164": {
+"id": 164,
+"name": "Turtle Saddle",
+"icon": "turtle-saddle",
+"level": [
+25
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 3,
+"place": 62,
+"reload": null
+},
+"165": {
+"id": 165,
+"name": "Crystal Saddle",
+"icon": "crystal-saddle",
+"level": [
+25
+],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 3,
+"place": 62,
+"reload": null
+},
+"166": {
+"id": 166,
+"name": "Apple",
+"icon": "apple",
+"level": [
+0
+],
+"cost": [
+5,
+0,
+0,
+0,
+0,
+null
+],
+"heal": 10,
+"limit": null,
+"cat": 4,
+"place": null,
+"reload": 350
+},
+"167": {
+"id": 167,
+"name": "Cookie",
+"icon": "cookie",
+"level": [
+2
+],
+"cost": [
+8,
+0,
+0,
+0,
+0,
+null
+],
+"heal": 12,
+"limit": null,
+"cat": 4,
+"place": null,
+"reload": 350
+},
+"168": {
+"id": 168,
+"name": "Sandwich",
+"icon": "sandwich",
+"level": [
+7
+],
+"cost": [
+12,
+0,
+0,
+0,
+0,
+null
+],
+"heal": 8,
+"limit": null,
+"cat": 4,
+"place": null,
+"reload": 350
+},
+"169": {
+"id": 169,
+"name": "Salad",
+"icon": "salad",
+"level": [
+12
+],
+"cost": [
+15,
+0,
+0,
+0,
+0,
+null
+],
+"heal": 10,
+"limit": null,
+"cat": 4,
+"place": null,
+"reload": 350
+},
+"170": {
+"id": 170,
+"name": "Mushroom Soup",
+"icon": "mushroom-soup",
+"level": [
+16
+],
+"cost": [
+18,
+0,
+0,
+0,
+0,
+null
+],
+"heal": 12,
+"limit": null,
+"cat": 4,
+"place": null,
+"reload": 350
+},
+"171": {
+"id": 171,
+"name": "Steak",
+"icon": "steak",
+"level": [
+7
+],
+"cost": [
+12,
+0,
+0,
+0,
+0,
+null
+],
+"heal": 12,
+"limit": null,
+"cat": 4,
+"place": null,
+"reload": 350
+},
+"172": {
+"id": 172,
+"name": "Eggs",
+"icon": "eggs",
+"level": [
+12
+],
+"cost": [
+14,
+0,
+0,
+0,
+0,
+null
+],
+"heal": 12,
+"limit": null,
+"cat": 4,
+"place": null,
+"reload": 350
+},
+"173": {
+"id": 173,
+"name": "Meatballs",
+"icon": "meatballs",
+"level": [
+16
+],
+"cost": [
+18,
+0,
+0,
+0,
+0,
+null
+],
+"heal": 15,
+"limit": null,
+"cat": 4,
+"place": null,
+"reload": 350
+},
+"174": {
+"id": 174,
+"name": "Croissant",
+"icon": "croissant",
+"level": [
+7
+],
+"cost": [
+10,
+0,
+0,
+0,
+0,
+null
+],
+"heal": 15,
+"limit": null,
+"cat": 4,
+"place": null,
+"reload": 350
+},
+"175": {
+"id": 175,
+"name": "Waffle",
+"icon": "waffle",
+"level": [
+12
+],
+"cost": [
+12,
+0,
+0,
+0,
+0,
+null
+],
+"heal": 18,
+"limit": null,
+"cat": 4,
+"place": null,
+"reload": 350
+},
+"176": {
+"id": 176,
+"name": "Cake",
+"icon": "cake",
+"level": [
+16
+],
+"cost": [
+15,
+0,
+0,
+0,
+0,
+null
+],
+"heal": 22,
+"limit": null,
+"cat": 4,
+"place": null,
+"reload": 350
+},
+"177": {
+"id": 177,
+"name": "Toffee Candy",
+"icon": "toffee-candy",
+"level": [
+7
+],
+"cost": [
+10,
+0,
+0,
+0,
+0,
+null
+],
+"heal": 12,
+"limit": null,
+"cat": 4,
+"place": null,
+"reload": 350
+},
+"178": {
+"id": 178,
+"name": "Biscuit",
+"icon": "red-biscuit",
+"level": [
+12
+],
+"cost": [
+12,
+0,
+0,
+0,
+0,
+null
+],
+"heal": 12,
+"limit": null,
+"cat": 4,
+"place": null,
+"reload": 350
+},
+"179": {
+"id": 179,
+"name": "Roll Cake",
+"icon": "cake-roulade",
+"level": [
+16
+],
+"cost": [
+16,
+0,
+0,
+0,
+0,
+null
+],
+"heal": 15,
+"limit": null,
+"cat": 4,
+"place": null,
+"reload": 350
+},
+"180": {
+"id": 180,
+"name": "Golden Cookie",
+"icon": "golden-cookie",
+"level": [
+2
+],
+"cost": [
+0,
+0,
+0,
+8,
+0,
+null
+],
+"heal": -12,
+"limit": null,
+"cat": 4,
+"place": null,
+"reload": 350
+},
+"181": {
+"id": 181,
+"name": "Golden Sandwich",
+"icon": "golden-sandwich",
+"level": [
+7
+],
+"cost": [
+0,
+0,
+0,
+10,
+0,
+null
+],
+"heal": -15,
+"limit": null,
+"cat": 4,
+"place": null,
+"reload": 350
+},
+"182": {
+"id": 182,
+"name": "Golden Salad",
+"icon": "golden-salad",
+"level": [
+12
+],
+"cost": [
+0,
+0,
+0,
+12,
+0,
+null
+],
+"heal": -18,
+"limit": null,
+"cat": 4,
+"place": null,
+"reload": 350
+},
+"183": {
+"id": 183,
+"name": "Golden Mushroom Soup",
+"icon": "golden-mushroom-soup",
+"level": [
+16
+],
+"cost": [
+0,
+0,
+0,
+16,
+0,
+null
+],
+"heal": -22,
+"limit": null,
+"cat": 4,
+"place": null,
+"reload": 350
+},
+"184": {
+"id": 184,
+"name": "Golden Steak",
+"icon": "golden-steak",
+"level": [
+7
+],
+"cost": [
+0,
+0,
+0,
+10,
+0,
+null
+],
+"heal": -15,
+"limit": null,
+"cat": 4,
+"place": null,
+"reload": 350
+},
+"185": {
+"id": 185,
+"name": "Golden Eggs",
+"icon": "golden-eggs",
+"level": [
+12
+],
+"cost": [
+0,
+0,
+0,
+12,
+0,
+null
+],
+"heal": -18,
+"limit": null,
+"cat": 4,
+"place": null,
+"reload": 350
+},
+"186": {
+"id": 186,
+"name": "Golden Meatballs",
+"icon": "golden-meatballs",
+"level": [
+16
+],
+"cost": [
+0,
+0,
+0,
+16,
+0,
+null
+],
+"heal": -22,
+"limit": null,
+"cat": 4,
+"place": null,
+"reload": 350
+},
+"187": {
+"id": 187,
+"name": "Golden Croissant",
+"icon": "golden-croissant",
+"level": [
+7
+],
+"cost": [
+0,
+0,
+0,
+10,
+0,
+null
+],
+"heal": -15,
+"limit": null,
+"cat": 4,
+"place": null,
+"reload": 350
+},
+"188": {
+"id": 188,
+"name": "Golden Waffle",
+"icon": "golden-waffle",
+"level": [
+12
+],
+"cost": [
+0,
+0,
+0,
+12,
+0,
+null
+],
+"heal": -18,
+"limit": null,
+"cat": 4,
+"place": null,
+"reload": 350
+},
+"189": {
+"id": 189,
+"name": "Golden Cake",
+"icon": "golden-cake",
+"level": [
+16
+],
+"cost": [
+0,
+0,
+0,
+16,
+0,
+null
+],
+"heal": -22,
+"limit": null,
+"cat": 4,
+"place": null,
+"reload": 350
+},
+"190": {
+"id": 190,
+"name": "Golden Toffee Candy",
+"icon": "golden-toffee-candy",
+"level": [
+7
+],
+"cost": [
+0,
+0,
+0,
+10,
+0,
+null
+],
+"heal": -15,
+"limit": null,
+"cat": 4,
+"place": null,
+"reload": 350
+},
+"191": {
+"id": 191,
+"name": "Golden Biscuit",
+"icon": "golden-red-biscuit",
+"level": [
+12
+],
+"cost": [
+0,
+0,
+0,
+12,
+0,
+null
+],
+"heal": -18,
+"limit": null,
+"cat": 4,
+"place": null,
+"reload": 350
+},
+"192": {
+"id": 192,
+"name": "Golden Roll Cake",
+"icon": "golden-cake-roulade",
+"level": [
+16
+],
+"cost": [
+0,
+0,
+0,
+16,
+0,
+null
+],
+"heal": -22,
+"limit": null,
+"cat": 4,
+"place": null,
+"reload": 350
+},
+"193": {
+"id": 193,
+"name": "Boost Pad",
+"icon": "boost-pad",
+"level": [
+8
+],
+"cost": [
+0,
+30,
+30,
+100,
+0,
+null
+],
+"heal": null,
+"limit": 10,
+"cat": 10,
+"place": 100,
+"reload": null
+},
+"194": {
+"id": 194,
+"name": "Mega Boost Pad",
+"icon": "mega-boost-pad",
+"level": [
+26
+],
+"cost": [
+0,
+30,
+30,
+150,
+0,
+null
+],
+"heal": null,
+"limit": 10,
+"cat": 10,
+"place": 100,
+"reload": null
+},
+"195": {
+"id": 195,
+"name": "Big Boost Pad",
+"icon": "big-boost-pad",
+"level": [
+26
+],
+"cost": [
+0,
+40,
+40,
+200,
+0,
+null
+],
+"heal": null,
+"limit": 7,
+"cat": 10,
+"place": 100,
+"reload": null
+},
+"196": {
+"id": 196,
+"name": "Bear Trap",
+"icon": "bear-trap",
+"level": [
+8
+],
+"cost": [
+0,
+20,
+40,
+50,
+0,
+null
+],
+"heal": null,
+"limit": 4,
+"cat": 10,
+"place": 61,
+"reload": null
+},
+"197": {
+"id": 197,
+"name": "Mega Bear Trap",
+"icon": "mega-bear-trap",
+"level": [
+26
+],
+"cost": [
+0,
+30,
+50,
+150,
+0,
+null
+],
+"heal": null,
+"limit": 4,
+"cat": 10,
+"place": 61,
+"reload": null
+},
+"198": {
+"id": 198,
+"name": "Big Bear Trap",
+"icon": "big-bear-trap",
+"level": [
+26
+],
+"cost": [
+0,
+20,
+40,
+100,
+0,
+null
+],
+"heal": null,
+"limit": 3,
+"cat": 10,
+"place": 61,
+"reload": null
+},
+"199": {
+"id": 199,
+"name": "Heal Pad",
+"icon": "resurrection-stone",
+"level": [
+8
+],
+"cost": [
+0,
+60,
+60,
+300,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 10,
+"place": 62,
+"reload": null
+},
+"200": {
+"id": 200,
+"name": "Mega Heal Pad",
+"icon": "mega-resurrection-stone",
+"level": [
+26
+],
+"cost": [
+0,
+120,
+120,
+600,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 10,
+"place": 62,
+"reload": null
+},
+"201": {
+"id": 201,
+"name": "Big Heal Pad",
+"icon": "big-resurrection-stone",
+"level": [
+26
+],
+"cost": [
+0,
+80,
+80,
+450,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 10,
+"place": 62,
+"reload": null
+},
+"202": {
+"id": 202,
+"name": "Totem",
+"icon": "totem",
+"level": [
+1
+],
+"cost": [
+0,
+0,
+0,
+50000,
+0,
+null
+],
+"heal": null,
+"limit": 0,
+"cat": 10,
+"place": 62,
+"reload": null
+},
+"203": {
+"id": 203,
+"name": "Grow Pad",
+"icon": "grow-pad",
+"level": [
+8
+],
+"cost": [
+0,
+80,
+80,
+400,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 10,
+"place": 62,
+"reload": null
+},
+"204": {
+"id": 204,
+"name": "Mega Grow Pad",
+"icon": "mega-grow-pad",
+"level": [
+26
+],
+"cost": [
+0,
+160,
+160,
+600,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 10,
+"place": 62,
+"reload": null
+},
+"205": {
+"id": 205,
+"name": "Big Grow Pad",
+"icon": "big-grow-pad",
+"level": [
+26
+],
+"cost": [
+0,
+100,
+100,
+900,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 10,
+"place": 62,
+"reload": null
+},
+"206": {
+"id": 206,
+"name": "Wooden Wall",
+"icon": "wooden-wall",
+"level": [
+0
+],
+"cost": [
+0,
+10,
+0,
+0,
+0,
+null
+],
+"heal": null,
+"limit": 50,
+"cat": 6,
+"place": 62,
+"reload": null
+},
+"207": {
+"id": 207,
+"name": "Stone Wall",
+"icon": "stone-wall",
+"level": [
+2
+],
+"cost": [
+0,
+0,
+10,
+0,
+0,
+null
+],
+"heal": null,
+"limit": 50,
+"cat": 6,
+"place": 62,
+"reload": null
+},
+"208": {
+"id": 208,
+"name": "Golden Wall",
+"icon": "golden-wall",
+"level": [
+7
+],
+"cost": [
+0,
+10,
+0,
+10,
+0,
+null
+],
+"heal": null,
+"limit": 50,
+"cat": 6,
+"place": 62,
+"reload": null
+},
+"209": {
+"id": 209,
+"name": "Ruby Wall",
+"icon": "ruby-wall",
+"level": [
+12
+],
+"cost": [
+0,
+10,
+10,
+10,
+0,
+null
+],
+"heal": null,
+"limit": 50,
+"cat": 6,
+"place": 62,
+"reload": null
+},
+"210": {
+"id": 210,
+"name": "Amethyst Wall",
+"icon": "amethyst-wall",
+"level": [
+16
+],
+"cost": [
+0,
+5,
+15,
+20,
+0,
+null
+],
+"heal": null,
+"limit": 50,
+"cat": 6,
+"place": 62,
+"reload": null
+},
+"211": {
+"id": 211,
+"name": "Sapphire Wall",
+"icon": "sapphire-wall",
+"level": [
+20
+],
+"cost": [
+0,
+5,
+25,
+30,
+0,
+null
+],
+"heal": null,
+"limit": 50,
+"cat": 6,
+"place": 62,
+"reload": null
+},
+"212": {
+"id": 212,
+"name": "Diamond Wall",
+"icon": "diamond-wall",
+"level": [
+23
+],
+"cost": [
+0,
+5,
+25,
+30,
+0,
+null
+],
+"heal": null,
+"limit": 50,
+"cat": 6,
+"place": 62,
+"reload": null
+},
+"213": {
+"id": 213,
+"name": "Emerald Wall",
+"icon": "emerald-wall",
+"level": [
+23
+],
+"cost": [
+0,
+5,
+25,
+30,
+0,
+null
+],
+"heal": null,
+"limit": 50,
+"cat": 6,
+"place": 62,
+"reload": null
+},
+"214": {
+"id": 214,
+"name": "Amber Wall",
+"icon": "amber-wall",
+"level": [
+23
+],
+"cost": [
+0,
+5,
+25,
+30,
+0,
+null
+],
+"heal": null,
+"limit": 50,
+"cat": 6,
+"place": 62,
+"reload": null
+},
+"215": {
+"id": 215,
+"name": "Magic Tower",
+"icon": "unfocused-tower",
+"level": [
+3
+],
+"cost": [
+0,
+70,
+20,
+0,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"216": {
+"id": 216,
+"name": "Stone Repair Tower",
+"icon": "stone-repair-tower",
+"level": [
+9
+],
+"cost": [
+0,
+80,
+30,
+50,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"217": {
+"id": 217,
+"name": "Golden Repair Tower",
+"icon": "golden-repair-tower",
+"level": [
+13
+],
+"cost": [
+0,
+90,
+40,
+100,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"218": {
+"id": 218,
+"name": "Ruby Repair Tower",
+"icon": "ruby-repair-tower",
+"level": [
+17
+],
+"cost": [
+0,
+100,
+50,
+150,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"219": {
+"id": 219,
+"name": "Amethyst Repair Tower",
+"icon": "amethyst-repair-tower",
+"level": [
+20
+],
+"cost": [
+0,
+110,
+60,
+200,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"220": {
+"id": 220,
+"name": "Sapphire Repair Tower",
+"icon": "sapphire-repair-tower",
+"level": [
+23
+],
+"cost": [
+0,
+120,
+70,
+250,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"221": {
+"id": 221,
+"name": "Diamond Repair Tower",
+"icon": "diamond-repair-tower",
+"level": [
+27
+],
+"cost": [
+0,
+120,
+70,
+250,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"222": {
+"id": 222,
+"name": "Emerald Repair Tower",
+"icon": "emerald-repair-tower",
+"level": [
+27
+],
+"cost": [
+0,
+120,
+70,
+250,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"223": {
+"id": 223,
+"name": "Amber Repair Tower",
+"icon": "amber-repair-tower",
+"level": [
+27
+],
+"cost": [
+0,
+120,
+70,
+250,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"224": {
+"id": 224,
+"name": "Stone Plant Tower",
+"icon": "stone-plant-tower",
+"level": [
+9
+],
+"cost": [
+0,
+60,
+30,
+60,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"225": {
+"id": 225,
+"name": "Golden Plant Tower",
+"icon": "golden-plant-tower",
+"level": [
+13
+],
+"cost": [
+0,
+70,
+30,
+80,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"226": {
+"id": 226,
+"name": "Ruby Plant Tower",
+"icon": "ruby-plant-tower",
+"level": [
+17
+],
+"cost": [
+0,
+80,
+40,
+100,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"227": {
+"id": 227,
+"name": "Amethyst Plant Tower",
+"icon": "amethyst-plant-tower",
+"level": [
+20
+],
+"cost": [
+0,
+90,
+50,
+150,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"228": {
+"id": 228,
+"name": "Sapphire Plant Tower",
+"icon": "sapphire-plant-tower",
+"level": [
+23
+],
+"cost": [
+0,
+100,
+50,
+200,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"229": {
+"id": 229,
+"name": "Diamond Plant Tower",
+"icon": "diamond-plant-tower",
+"level": [
+27
+],
+"cost": [
+0,
+100,
+50,
+200,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"230": {
+"id": 230,
+"name": "Emerald Plant Tower",
+"icon": "emerald-plant-tower",
+"level": [
+27
+],
+"cost": [
+0,
+100,
+50,
+200,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"231": {
+"id": 231,
+"name": "Amber Plant Tower",
+"icon": "amber-plant-tower",
+"level": [
+27
+],
+"cost": [
+0,
+100,
+50,
+200,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"232": {
+"id": 232,
+"name": "Wooden Turret",
+"icon": "wooden-turret",
+"level": [
+3
+],
+"cost": [
+0,
+70,
+20,
+0,
+0,
+null
+],
+"heal": null,
+"limit": 2,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"233": {
+"id": 233,
+"name": "Stone Turret",
+"icon": "stone-turret",
+"level": [
+9
+],
+"cost": [
+0,
+80,
+30,
+0,
+0,
+null
+],
+"heal": null,
+"limit": 2,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"234": {
+"id": 234,
+"name": "Golden Turret",
+"icon": "golden-turret",
+"level": [
+13
+],
+"cost": [
+0,
+90,
+40,
+150,
+0,
+null
+],
+"heal": null,
+"limit": 2,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"235": {
+"id": 235,
+"name": "Ruby Turret",
+"icon": "ruby-turret",
+"level": [
+17
+],
+"cost": [
+0,
+90,
+50,
+180,
+0,
+null
+],
+"heal": null,
+"limit": 2,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"236": {
+"id": 236,
+"name": "Amethyst Turret",
+"icon": "amethyst-turret",
+"level": [
+20
+],
+"cost": [
+0,
+90,
+60,
+200,
+0,
+null
+],
+"heal": null,
+"limit": 2,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"237": {
+"id": 237,
+"name": "Sapphire Turret",
+"icon": "sapphire-turret",
+"level": [
+23
+],
+"cost": [
+0,
+90,
+70,
+250,
+0,
+null
+],
+"heal": null,
+"limit": 2,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"238": {
+"id": 238,
+"name": "Diamond Turret",
+"icon": "diamond-turret",
+"level": [
+27
+],
+"cost": [
+0,
+90,
+70,
+250,
+0,
+null
+],
+"heal": null,
+"limit": 2,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"239": {
+"id": 239,
+"name": "Emerald Turret",
+"icon": "emerald-turret",
+"level": [
+27
+],
+"cost": [
+0,
+90,
+70,
+250,
+0,
+null
+],
+"heal": null,
+"limit": 2,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"240": {
+"id": 240,
+"name": "Amber Turret",
+"icon": "amber-turret",
+"level": [
+27
+],
+"cost": [
+0,
+90,
+70,
+250,
+0,
+null
+],
+"heal": null,
+"limit": 2,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"241": {
+"id": 241,
+"name": "Stone Fire Tower",
+"icon": "stone-fire-tower",
+"level": [
+9
+],
+"cost": [
+0,
+80,
+30,
+50,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"242": {
+"id": 242,
+"name": "Golden Fire Tower",
+"icon": "golden-fire-tower",
+"level": [
+13
+],
+"cost": [
+0,
+90,
+40,
+100,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"243": {
+"id": 243,
+"name": "Ruby Fire Tower",
+"icon": "ruby-fire-tower",
+"level": [
+17
+],
+"cost": [
+0,
+100,
+50,
+150,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"244": {
+"id": 244,
+"name": "Amethyst Fire Tower",
+"icon": "amethyst-fire-tower",
+"level": [
+20
+],
+"cost": [
+0,
+110,
+60,
+200,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"245": {
+"id": 245,
+"name": "Sapphire Fire Tower",
+"icon": "sapphire-fire-tower",
+"level": [
+23
+],
+"cost": [
+0,
+120,
+70,
+250,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"246": {
+"id": 246,
+"name": "Diamond Fire Tower",
+"icon": "diamond-fire-tower",
+"level": [
+27
+],
+"cost": [
+0,
+120,
+70,
+250,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"247": {
+"id": 247,
+"name": "Emerald Fire Tower",
+"icon": "emerald-fire-tower",
+"level": [
+27
+],
+"cost": [
+0,
+120,
+70,
+250,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"248": {
+"id": 248,
+"name": "Amber Fire Tower",
+"icon": "amber-fire-tower",
+"level": [
+27
+],
+"cost": [
+0,
+120,
+70,
+250,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"249": {
+"id": 249,
+"name": "Wooden Door",
+"icon": "wooden-door",
+"level": [
+0
+],
+"cost": [
+0,
+20,
+0,
+0,
+0,
+null
+],
+"heal": null,
+"limit": 8,
+"cat": 7,
+"place": 62,
+"reload": null
+},
+"250": {
+"id": 250,
+"name": "Stone Door",
+"icon": "stone-door",
+"level": [
+3
+],
+"cost": [
+0,
+0,
+20,
+0,
+0,
+null
+],
+"heal": null,
+"limit": 8,
+"cat": 7,
+"place": 62,
+"reload": null
+},
+"251": {
+"id": 251,
+"name": "Golden Door",
+"icon": "golden-door",
+"level": [
+9
+],
+"cost": [
+0,
+20,
+0,
+20,
+0,
+null
+],
+"heal": null,
+"limit": 8,
+"cat": 7,
+"place": 62,
+"reload": null
+},
+"252": {
+"id": 252,
+"name": "Ruby Door",
+"icon": "ruby-door",
+"level": [
+13
+],
+"cost": [
+0,
+20,
+20,
+20,
+0,
+null
+],
+"heal": null,
+"limit": 8,
+"cat": 7,
+"place": 62,
+"reload": null
+},
+"253": {
+"id": 253,
+"name": "Amethyst Door",
+"icon": "amethyst-door",
+"level": [
+17
+],
+"cost": [
+0,
+10,
+30,
+40,
+0,
+null
+],
+"heal": null,
+"limit": 8,
+"cat": 7,
+"place": 62,
+"reload": null
+},
+"254": {
+"id": 254,
+"name": "Sapphire Door",
+"icon": "sapphire-door",
+"level": [
+20
+],
+"cost": [
+0,
+10,
+50,
+60,
+0,
+null
+],
+"heal": null,
+"limit": 8,
+"cat": 7,
+"place": 62,
+"reload": null
+},
+"255": {
+"id": 255,
+"name": "Diamond Door",
+"icon": "diamond-door",
+"level": [
+23
+],
+"cost": [
+0,
+10,
+50,
+60,
+0,
+null
+],
+"heal": null,
+"limit": 8,
+"cat": 7,
+"place": 62,
+"reload": null
+},
+"256": {
+"id": 256,
+"name": "Emerald Door",
+"icon": "emerald-door",
+"level": [
+23
+],
+"cost": [
+0,
+10,
+50,
+60,
+0,
+null
+],
+"heal": null,
+"limit": 8,
+"cat": 7,
+"place": 62,
+"reload": null
+},
+"257": {
+"id": 257,
+"name": "Amber Door",
+"icon": "amber-door",
+"level": [
+23
+],
+"cost": [
+0,
+10,
+50,
+60,
+0,
+null
+],
+"heal": null,
+"limit": 8,
+"cat": 7,
+"place": 62,
+"reload": null
+},
+"258": {
+"id": 258,
+"name": "Stone Ice Tower",
+"icon": "stone-ice-tower",
+"level": [
+9
+],
+"cost": [
+0,
+80,
+30,
+50,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"259": {
+"id": 259,
+"name": "Golden Ice Tower",
+"icon": "golden-ice-tower",
+"level": [
+13
+],
+"cost": [
+0,
+90,
+40,
+100,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"260": {
+"id": 260,
+"name": "Ruby Ice Tower",
+"icon": "ruby-ice-tower",
+"level": [
+17
+],
+"cost": [
+0,
+100,
+50,
+150,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"261": {
+"id": 261,
+"name": "Amethyst Ice Tower",
+"icon": "amethyst-ice-tower",
+"level": [
+20
+],
+"cost": [
+0,
+110,
+60,
+200,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"262": {
+"id": 262,
+"name": "Sapphire Ice Tower",
+"icon": "sapphire-ice-tower",
+"level": [
+23
+],
+"cost": [
+0,
+120,
+70,
+250,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"263": {
+"id": 263,
+"name": "Diamond Ice Tower",
+"icon": "diamond-ice-tower",
+"level": [
+27
+],
+"cost": [
+0,
+120,
+70,
+250,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"264": {
+"id": 264,
+"name": "Emerald Ice Tower",
+"icon": "emerald-ice-tower",
+"level": [
+27
+],
+"cost": [
+0,
+120,
+70,
+250,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"265": {
+"id": 265,
+"name": "Amber Ice Tower",
+"icon": "amber-ice-tower",
+"level": [
+27
+],
+"cost": [
+0,
+120,
+70,
+250,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"266": {
+"id": 266,
+"name": "Wooden Spike",
+"icon": "wooden-spike",
+"level": [
+0
+],
+"cost": [
+0,
+20,
+10,
+0,
+0,
+null
+],
+"heal": null,
+"limit": 15,
+"cat": 5,
+"place": 62,
+"reload": null
+},
+"267": {
+"id": 267,
+"name": "Stone Spike",
+"icon": "stone-spike",
+"level": [
+3
+],
+"cost": [
+0,
+0,
+25,
+0,
+0,
+null
+],
+"heal": null,
+"limit": 15,
+"cat": 5,
+"place": 62,
+"reload": null
+},
+"268": {
+"id": 268,
+"name": "Golden Spike",
+"icon": "golden-spike",
+"level": [
+9
+],
+"cost": [
+0,
+10,
+0,
+30,
+0,
+null
+],
+"heal": null,
+"limit": 15,
+"cat": 5,
+"place": 62,
+"reload": null
+},
+"269": {
+"id": 269,
+"name": "Ruby Spike",
+"icon": "ruby-spike",
+"level": [
+13
+],
+"cost": [
+0,
+5,
+10,
+35,
+0,
+null
+],
+"heal": null,
+"limit": 15,
+"cat": 5,
+"place": 62,
+"reload": null
+},
+"270": {
+"id": 270,
+"name": "Amethyst Spike",
+"icon": "amethyst-spike",
+"level": [
+17
+],
+"cost": [
+0,
+10,
+20,
+45,
+0,
+null
+],
+"heal": null,
+"limit": 15,
+"cat": 5,
+"place": 62,
+"reload": null
+},
+"271": {
+"id": 271,
+"name": "Sapphire Spike",
+"icon": "sapphire-spike",
+"level": [
+20
+],
+"cost": [
+0,
+15,
+30,
+60,
+0,
+null
+],
+"heal": null,
+"limit": 15,
+"cat": 5,
+"place": 62,
+"reload": null
+},
+"272": {
+"id": 272,
+"name": "Diamond Spike",
+"icon": "diamond-spike",
+"level": [
+23
+],
+"cost": [
+0,
+15,
+30,
+60,
+0,
+null
+],
+"heal": null,
+"limit": 15,
+"cat": 5,
+"place": 62,
+"reload": null
+},
+"273": {
+"id": 273,
+"name": "Emerald Spike",
+"icon": "emerald-spike",
+"level": [
+23
+],
+"cost": [
+0,
+15,
+30,
+60,
+0,
+null
+],
+"heal": null,
+"limit": 15,
+"cat": 5,
+"place": 62,
+"reload": null
+},
+"274": {
+"id": 274,
+"name": "Amber Spike",
+"icon": "amber-spike",
+"level": [
+23
+],
+"cost": [
+0,
+15,
+30,
+60,
+0,
+null
+],
+"heal": null,
+"limit": 15,
+"cat": 5,
+"place": 62,
+"reload": null
+},
+"275": {
+"id": 275,
+"name": "Stone Electric Tower",
+"icon": "stone-electric-tower",
+"level": [
+9
+],
+"cost": [
+0,
+80,
+30,
+50,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"276": {
+"id": 276,
+"name": "Golden Electric Tower",
+"icon": "golden-electric-tower",
+"level": [
+13
+],
+"cost": [
+0,
+90,
+40,
+100,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"277": {
+"id": 277,
+"name": "Ruby Electric Tower",
+"icon": "ruby-electric-tower",
+"level": [
+17
+],
+"cost": [
+0,
+100,
+50,
+150,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"278": {
+"id": 278,
+"name": "Amethyst Electric Tower",
+"icon": "amethyst-electric-tower",
+"level": [
+20
+],
+"cost": [
+0,
+110,
+60,
+200,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"279": {
+"id": 279,
+"name": "Sapphire Electric Tower",
+"icon": "sapphire-electric-tower",
+"level": [
+23
+],
+"cost": [
+0,
+120,
+70,
+250,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"280": {
+"id": 280,
+"name": "Diamond Electric Tower",
+"icon": "diamond-electric-tower",
+"level": [
+27
+],
+"cost": [
+0,
+120,
+70,
+250,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"281": {
+"id": 281,
+"name": "Emerald Electric Tower",
+"icon": "emerald-electric-tower",
+"level": [
+27
+],
+"cost": [
+0,
+120,
+70,
+250,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"282": {
+"id": 282,
+"name": "Amber Electric Tower",
+"icon": "amber-electric-tower",
+"level": [
+27
+],
+"cost": [
+0,
+120,
+70,
+250,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"283": {
+"id": 283,
+"name": "Stone Water Tower",
+"icon": "stone-water-tower",
+"level": [
+9
+],
+"cost": [
+0,
+80,
+30,
+50,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"284": {
+"id": 284,
+"name": "Golden Water Tower",
+"icon": "golden-water-tower",
+"level": [
+13
+],
+"cost": [
+0,
+90,
+40,
+100,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"285": {
+"id": 285,
+"name": "Ruby Water Tower",
+"icon": "ruby-water-tower",
+"level": [
+17
+],
+"cost": [
+0,
+100,
+50,
+150,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"286": {
+"id": 286,
+"name": "Amethyst Water Tower",
+"icon": "amethyst-water-tower",
+"level": [
+20
+],
+"cost": [
+0,
+110,
+60,
+200,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"287": {
+"id": 287,
+"name": "Sapphire Water Tower",
+"icon": "sapphire-water-tower",
+"level": [
+23
+],
+"cost": [
+0,
+120,
+70,
+250,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"288": {
+"id": 288,
+"name": "Diamond Water Tower",
+"icon": "diamond-water-tower",
+"level": [
+27
+],
+"cost": [
+0,
+120,
+70,
+250,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"289": {
+"id": 289,
+"name": "Emerald Water Tower",
+"icon": "emerald-water-tower",
+"level": [
+27
+],
+"cost": [
+0,
+120,
+70,
+250,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"290": {
+"id": 290,
+"name": "Amber Water Tower",
+"icon": "amber-water-tower",
+"level": [
+27
+],
+"cost": [
+0,
+120,
+70,
+250,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"291": {
+"id": 291,
+"name": "Stone Rock Tower",
+"icon": "stone-rock-tower",
+"level": [
+9
+],
+"cost": [
+0,
+80,
+30,
+50,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"292": {
+"id": 292,
+"name": "Golden Rock Tower",
+"icon": "golden-rock-tower",
+"level": [
+13
+],
+"cost": [
+0,
+90,
+40,
+100,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"293": {
+"id": 293,
+"name": "Ruby Rock Tower",
+"icon": "ruby-rock-tower",
+"level": [
+17
+],
+"cost": [
+0,
+100,
+50,
+150,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"294": {
+"id": 294,
+"name": "Amethyst Rock Tower",
+"icon": "amethyst-rock-tower",
+"level": [
+20
+],
+"cost": [
+0,
+110,
+60,
+200,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"295": {
+"id": 295,
+"name": "Sapphire Rock Tower",
+"icon": "sapphire-rock-tower",
+"level": [
+23
+],
+"cost": [
+0,
+120,
+70,
+250,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"296": {
+"id": 296,
+"name": "Diamond Rock Tower",
+"icon": "diamond-rock-tower",
+"level": [
+27
+],
+"cost": [
+0,
+120,
+70,
+250,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"297": {
+"id": 297,
+"name": "Emerald Rock Tower",
+"icon": "emerald-rock-tower",
+"level": [
+27
+],
+"cost": [
+0,
+120,
+70,
+250,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"298": {
+"id": 298,
+"name": "Amber Rock Tower",
+"icon": "amber-rock-tower",
+"level": [
+27
+],
+"cost": [
+0,
+120,
+70,
+250,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"299": {
+"id": 299,
+"name": "Stone Spectrum Tower",
+"icon": "stone-spectrum-tower",
+"level": [
+9
+],
+"cost": [
+0,
+80,
+30,
+50,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"300": {
+"id": 300,
+"name": "Golden Spectrum Tower",
+"icon": "golden-spectrum-tower",
+"level": [
+13
+],
+"cost": [
+0,
+90,
+40,
+100,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"301": {
+"id": 301,
+"name": "Ruby Spectrum Tower",
+"icon": "ruby-spectrum-tower",
+"level": [
+17
+],
+"cost": [
+0,
+100,
+50,
+150,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"302": {
+"id": 302,
+"name": "Amethyst Spectrum Tower",
+"icon": "amethyst-spectrum-tower",
+"level": [
+20
+],
+"cost": [
+0,
+110,
+60,
+200,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"303": {
+"id": 303,
+"name": "Sapphire Spectrum Tower",
+"icon": "sapphire-spectrum-tower",
+"level": [
+23
+],
+"cost": [
+0,
+120,
+70,
+250,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"304": {
+"id": 304,
+"name": "Diamond Spectrum Tower",
+"icon": "diamond-spectrum-tower",
+"level": [
+27
+],
+"cost": [
+0,
+120,
+70,
+250,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"305": {
+"id": 305,
+"name": "Emerald Spectrum Tower",
+"icon": "emerald-spectrum-tower",
+"level": [
+27
+],
+"cost": [
+0,
+120,
+70,
+250,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"306": {
+"id": 306,
+"name": "Amber Spectrum Tower",
+"icon": "amber-spectrum-tower",
+"level": [
+27
+],
+"cost": [
+0,
+120,
+70,
+250,
+0,
+null
+],
+"heal": null,
+"limit": 1,
+"cat": 9,
+"place": 62,
+"reload": null
+},
+"307": {
+"id": 307,
+"name": "Wooden Windmill",
+"icon": "wooden-windmill",
+"level": [
+0
+],
+"cost": [
+0,
+50,
+10,
+0,
+0,
+null
+],
+"heal": null,
+"limit": 5,
+"cat": 8,
+"place": 62,
+"reload": null
+},
+"308": {
+"id": 308,
+"name": "Stone Windmill",
+"icon": "stone-windmill",
+"level": [
+3
+],
+"cost": [
+0,
+50,
+20,
+0,
+0,
+null
+],
+"heal": null,
+"limit": 5,
+"cat": 8,
+"place": 62,
+"reload": null
+},
+"309": {
+"id": 309,
+"name": "Golden Windmill",
+"icon": "golden-windmill",
+"level": [
+9
+],
+"cost": [
+0,
+50,
+0,
+50,
+0,
+null
+],
+"heal": null,
+"limit": 5,
+"cat": 8,
+"place": 62,
+"reload": null
+},
+"310": {
+"id": 310,
+"name": "Ruby Windmill",
+"icon": "ruby-windmill",
+"level": [
+13
+],
+"cost": [
+0,
+50,
+20,
+60,
+0,
+null
+],
+"heal": null,
+"limit": 5,
+"cat": 8,
+"place": 62,
+"reload": null
+},
+"311": {
+"id": 311,
+"name": "Amethyst Windmill",
+"icon": "amethyst-windmill",
+"level": [
+17
+],
+"cost": [
+0,
+50,
+30,
+70,
+0,
+null
+],
+"heal": null,
+"limit": 5,
+"cat": 8,
+"place": 62,
+"reload": null
+},
+"312": {
+"id": 312,
+"name": "Sapphire Windmill",
+"icon": "sapphire-windmill",
+"level": [
+20
+],
+"cost": [
+0,
+50,
+50,
+80,
+0,
+null
+],
+"heal": null,
+"limit": 5,
+"cat": 8,
+"place": 62,
+"reload": null
+},
+"313": {
+"id": 313,
+"name": "Diamond Windmill",
+"icon": "diamond-windmill",
+"level": [
+23
+],
+"cost": [
+0,
+50,
+50,
+80,
+0,
+null
+],
+"heal": null,
+"limit": 5,
+"cat": 8,
+"place": 62,
+"reload": null
+},
+"314": {
+"id": 314,
+"name": "Emerald Windmill",
+"icon": "emerald-windmill",
+"level": [
+23
+],
+"cost": [
+0,
+50,
+50,
+80,
+0,
+null
+],
+"heal": null,
+"limit": 5,
+"cat": 8,
+"place": 62,
+"reload": null
+},
+"315": {
+"id": 315,
+"name": "Amber Windmill",
+"icon": "amber-windmill",
+"level": [
+23
+],
+"cost": [
+0,
+50,
+50,
+80,
+0,
+null
+],
+"heal": null,
+"limit": 5,
+"cat": 8,
+"place": 62,
+"reload": null
+},
+"316": {
+"id": 316,
+"name": "Big Stone Spike",
+"icon": "big-stone-spike",
+"level": [
+3
+],
+"cost": [
+0,
+0,
+25,
+0,
+0,
+null
+],
+"heal": null,
+"limit": 15,
+"cat": 5,
+"place": 62,
+"reload": null
+},
+"317": {
+"id": 317,
+"name": "Big Golden Spike",
+"icon": "big-golden-spike",
+"level": [
+9
+],
+"cost": [
+0,
+20,
+0,
+40,
+0,
+null
+],
+"heal": null,
+"limit": 12,
+"cat": 5,
+"place": 62,
+"reload": null
+},
+"318": {
+"id": 318,
+"name": "Big Ruby Spike",
+"icon": "big-ruby-spike",
+"level": [
+13
+],
+"cost": [
+0,
+10,
+20,
+50,
+0,
+null
+],
+"heal": null,
+"limit": 12,
+"cat": 5,
+"place": 62,
+"reload": null
+},
+"319": {
+"id": 319,
+"name": "Big Amethyst Spike",
+"icon": "big-amethyst-spike",
+"level": [
+17
+],
+"cost": [
+0,
+20,
+30,
+70,
+0,
+null
+],
+"heal": null,
+"limit": 12,
+"cat": 5,
+"place": 62,
+"reload": null
+},
+"320": {
+"id": 320,
+"name": "Big Sapphire Spike",
+"icon": "big-sapphire-spike",
+"level": [
+20
+],
+"cost": [
+0,
+30,
+45,
+100,
+0,
+null
+],
+"heal": null,
+"limit": 12,
+"cat": 5,
+"place": 62,
+"reload": null
+},
+"321": {
+"id": 321,
+"name": "Big Diamond Spike",
+"icon": "big-diamond-spike",
+"level": [
+23
+],
+"cost": [
+0,
+30,
+45,
+100,
+0,
+null
+],
+"heal": null,
+"limit": 12,
+"cat": 5,
+"place": 62,
+"reload": null
+},
+"322": {
+"id": 322,
+"name": "Big Emerald Spike",
+"icon": "big-emerald-spike",
+"level": [
+23
+],
+"cost": [
+0,
+30,
+45,
+100,
+0,
+null
+],
+"heal": null,
+"limit": 12,
+"cat": 5,
+"place": 62,
+"reload": null
+},
+"323": {
+"id": 323,
+"name": "Big Amber Spike",
+"icon": "big-amber-spike",
+"level": [
+23
+],
+"cost": [
+0,
+30,
+45,
+100,
+0,
+null
+],
+"heal": null,
+"limit": 12,
+"cat": 5,
+"place": 62,
+"reload": null
+},
+"324": {
+"id": 324,
+"name": "Raptorial Daggers Level 1",
+"icon": "mantis-dagger0",
+"level": [],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 300
+},
+"325": {
+"id": 325,
+"name": "Raptorial Daggers Level 2",
+"icon": "mantis-dagger1",
+"level": [],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 300
+},
+"326": {
+"id": 326,
+"name": "Raptorial Daggers Level 3",
+"icon": "mantis-dagger2",
+"level": [],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 300
+},
+"327": {
+"id": 327,
+"name": "Dragonslayer 1",
+"icon": "dragonslayer0",
+"level": [],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 600
+},
+"328": {
+"id": 328,
+"name": "Dragonslayer 2",
+"icon": "dragonslayer1",
+"level": [],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 650
+},
+"329": {
+"id": 329,
+"name": "Dragonslayer 3",
+"icon": "dragonslayer2",
+"level": [],
+"cost": null,
+"heal": null,
+"limit": null,
+"cat": 1,
+"place": null,
+"reload": 700
+},
+"330": {
+"id": 330,
+"name": "Hazelnut Level 1",
+"icon": "hazelnut0",
+"level": [],
+"cost": [
+10,
+0,
+0,
+0,
+0,
+null
+],
+"heal": 20,
+"limit": null,
+"cat": 4,
+"place": null,
+"reload": 350
+},
+"331": {
+"id": 331,
+"name": "Hazelnut Level 2",
+"icon": "hazelnut1",
+"level": [],
+"cost": [
+10,
+0,
+0,
+0,
+0,
+null
+],
+"heal": 24,
+"limit": null,
+"cat": 4,
+"place": null,
+"reload": 350
+},
+"332": {
+"id": 332,
+"name": "Hazelnut Level 3",
+"icon": "hazelnut2",
+"level": [],
+"cost": [
+10,
+0,
+0,
+0,
+0,
+null
+],
+"heal": 28,
+"limit": null,
+"cat": 4,
+"place": null,
+"reload": 350
+},
+"333": {
+"id": 333,
+"name": "",
+"icon": "ice-tornado",
+"level": [],
+"cost": [
+0,
+0,
+0,
+0,
+0,
+null
+],
+"heal": null,
+"limit": 0,
+"cat": 6,
+"place": 0,
+"reload": null
+},
+"334": {
+"id": 334,
+"name": "",
+"icon": "poison-tornado",
+"level": [],
+"cost": [
+0,
+0,
+0,
+0,
+0,
+null
+],
+"heal": null,
+"limit": 0,
+"cat": 6,
+"place": 0,
+"reload": null
+},
+"335": {
+"id": 335,
+"name": "",
+"icon": "insect-tornado",
+"level": [],
+"cost": [
+0,
+0,
+0,
+0,
+0,
+null
+],
+"heal": null,
+"limit": 0,
+"cat": 6,
+"place": 0,
+"reload": null
+},
+"336": {
+"id": 336,
+"name": "",
+"icon": "ancient-tornado",
+"level": [],
+"cost": [
+0,
+0,
+0,
+0,
+0,
+null
+],
+"heal": null,
+"limit": 0,
+"cat": 6,
+"place": 0,
+"reload": null
+},
+"337": {
+"id": 337,
+"name": "",
+"icon": "water-tornado",
+"level": [],
+"cost": [
+0,
+0,
+0,
+0,
+0,
+null
+],
+"heal": null,
+"limit": 0,
+"cat": 6,
+"place": 0,
+"reload": null
+},
+"338": {
+"id": 338,
+"name": "",
+"icon": "electric-tornado",
+"level": [],
+"cost": [
+0,
+0,
+0,
+0,
+0,
+null
+],
+"heal": null,
+"limit": 0,
+"cat": 6,
+"place": 0,
+"reload": null
+},
+"339": {
+"id": 339,
+"name": "",
+"icon": "creep-hive",
+"level": [],
+"cost": [
+0,
+0,
+0,
+0,
+0,
+null
+],
+"heal": null,
+"limit": 0,
+"cat": 6,
+"place": 0,
+"reload": null
+},
+"340": {
+"id": 340,
+"name": "",
+"icon": "volcanic-meteorite",
+"level": [],
+"cost": [
+0,
+0,
+0,
+0,
+0,
+null
+],
+"heal": null,
+"limit": 0,
+"cat": 6,
+"place": 0,
+"reload": null
+},
+"341": {
+"id": 341,
+"name": "Fire Staff",
+"icon": "staff-fire",
+"level": [
+28
+],
+"cost": [
+0,
+0,
+8,
+4,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 1650
+},
+"342": {
+"id": 342,
+"name": "Water Staff",
+"icon": "staff-water",
+"level": [
+28
+],
+"cost": [
+0,
+0,
+8,
+4,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 1150
+},
+"343": {
+"id": 343,
+"name": "Ice Staff",
+"icon": "staff-ice",
+"level": [
+28
+],
+"cost": [
+0,
+0,
+8,
+4,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 2250
+},
+"344": {
+"id": 344,
+"name": "Plant Staff",
+"icon": "staff-plant",
+"level": [
+28
+],
+"cost": [
+0,
+0,
+8,
+4,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 1750
+},
+"345": {
+"id": 345,
+"name": "Lightning Staff",
+"icon": "staff-electric",
+"level": [
+28
+],
+"cost": [
+0,
+0,
+8,
+4,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 2450
+},
+"346": {
+"id": 346,
+"name": "Rock Staff",
+"icon": "staff-rock",
+"level": [
+28
+],
+"cost": [
+0,
+0,
+8,
+4,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 1150
+},
+"347": {
+"id": 347,
+"name": "Spectrum Staff",
+"icon": "staff-spectrum",
+"level": [
+28
+],
+"cost": [
+0,
+0,
+8,
+4,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 1750
+},
+"348": {
+"id": 348,
+"name": "Poison Staff",
+"icon": "staff-poison",
+"level": [
+28
+],
+"cost": [
+0,
+0,
+8,
+4,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 2650
+},
+"349": {
+"id": 349,
+"name": "Dragon Staff",
+"icon": "staff-dragon",
+"level": [
+28
+],
+"cost": [
+0,
+0,
+8,
+4,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 2650
+},
+"350": {
+"id": 350,
+"name": "Insect Staff",
+"icon": "staff-insect",
+"level": [
+28
+],
+"cost": [
+0,
+0,
+8,
+4,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 2550
+},
+"351": {
+"id": 351,
+"name": "Combat Staff",
+"icon": "staff-combat",
+"level": [
+28
+],
+"cost": [
+0,
+0,
+8,
+4,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 1950
+},
+"352": {
+"id": 352,
+"name": "Normal Staff",
+"icon": "staff-normal",
+"level": [
+28
+],
+"cost": [
+0,
+0,
+8,
+4,
+0,
+null
+],
+"heal": null,
+"limit": null,
+"cat": 2,
+"place": null,
+"reload": 1150
+}
+}

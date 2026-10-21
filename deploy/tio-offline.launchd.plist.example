@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- macOS LaunchAgent. Copy to ~/Library/LaunchAgents/local.tio-offline.plist, fix the paths
+     (node and the package folder; not inside Desktop/Documents/Downloads, launchd cannot read those),
+     then: launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/local.tio-offline.plist -->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Label</key><string>local.tio-offline</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/usr/local/bin/node</string>
+		<string>/Users/YOU/tio_offline_server/mimic/hosted_server.js</string>
+	</array>
+	<key>EnvironmentVariables</key>
+	<dict>
+		<key>PORT</key><string>8920</string>
+		<key>BIND</key><string>127.0.0.1</string>
+		<key>MODE</key><string>multi</string>
+	</dict>
+	<key>WorkingDirectory</key><string>/Users/YOU/tio_offline_server</string>
+	<key>RunAtLoad</key><true/>
+	<key>KeepAlive</key><true/>
+	<key>StandardOutPath</key><string>/Users/YOU/tio_offline_server/logs/hosted/launchd.out</string>
+	<key>StandardErrorPath</key><string>/Users/YOU/tio_offline_server/logs/hosted/launchd.out</string>
+</dict>
+</plist>

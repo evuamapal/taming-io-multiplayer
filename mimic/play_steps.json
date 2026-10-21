@@ -1,0 +1,17 @@
+{
+"hook": "(function(){if(window.__mimh)return;window.__mimh=1;function S(o){try{if(window.__mim)window.__mim(JSON.stringify(o));}catch(e){}}window.__mimTap=function(m,raw){S({k:'tap',t:Date.now(),n:raw&&raw.byteLength,msgs:m});};window.__mimErr=function(e){S({k:'msgerr',t:Date.now(),e:e});};})();",
+"steps": [
+[
+"sleep",
+6
+],
+[
+"type",
+"#name",
+"mimic"
+],
+[
+"play"
+]
+]
+}

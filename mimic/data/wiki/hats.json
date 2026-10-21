@@ -1,0 +1,1547 @@
+{
+ "Angel Wings": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Heals [around 3/s health] over time"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 20000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "accessory"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Angel Wings"
+  }
+ },
+ "Anvil Hat": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Increases your weight, and provides protection. It, in exchange, slows the user down. (Stronger than Cheek Protection, but slows)"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 14000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Anvil Hat"
+  }
+ },
+ "Arrow Hat": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Bows do more damage"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 4000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Arrow Hat"
+  }
+ },
+ "Baby Wings": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Spears and Naginatas do 20% more damage"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 5000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "accessory"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Baby Wings"
+  }
+ },
+ "Bandage": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Heals [~1/s] over time"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 4000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Bandage"
+  }
+ },
+ "Bee Keeper's Hat": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "9% chance to duplicate bugs and [slightly] faster with a bug net"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 8000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Bee Keeper's Hat"
+  }
+ },
+ "Big Bag": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Slow/gathers Gold faster [2 more per hit]"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 3000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "accessory"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Big Bag"
+  }
+ },
+ "Broken Pot": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Slower but Hammers do more damage to buildings"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 5000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Broken Pot"
+  }
+ },
+ "Bush Hat": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Gathers [2] more food [per hit]"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 7000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Bush Hat"
+  }
+ },
+ "Capes": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Reduces damage received from the corresponding type: * 20% less bite damage * 40% less weapon damage (e.g. from Grim Reaper) * (varies) 80% less skill damage, nullifies Status Effects | See Capes"
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "accessory"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Capes"
+  }
+ },
+ "Chapka": {
+  "biome_buff": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": {
+    "biome": "Winter",
+    "effect": "faster and protected"
+   }
+  },
+  "biome_shield_pct": {
+   "page": "Biomes",
+   "rev": 38593,
+   "source": "wiki",
+   "value": 10
+  },
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Faster and protected; works only in Winter"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 3000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Chapka"
+  }
+ },
+ "Cheek Protection": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "If gloves: Protect, do more damage and more knockouts * 1-2 damage reduction (weaker than biome hats) * +20% damage * +25% knockout chance (Stacks up to 75% knockout chance with Final Round Wings)"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 8000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Cheek Protection"
+  }
+ },
+ "Clown Hat": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Move [much] faster but you are weak [take 2.5x damage]"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 5000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Clown Hat"
+  }
+ },
+ "Cosmetic Hats": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "No effect"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 200
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Cosmetic Hats"
+  }
+ },
+ "Cowboy Hat": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Cows & Bulls are stronger"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 5000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Cowboy Hat"
+  }
+ },
+ "Dark Wings": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Daggers and cleavers do 10% more damage"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 20000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "accessory"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Dark Wings"
+  }
+ },
+ "Demon Wings": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Axes and labrys do 20% more damage"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 20000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "accessory"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Demon Wings"
+  }
+ },
+ "Diving Suit": {
+  "biome_buff": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": {
+    "biome": "Ocean",
+    "effect": "faster and protected"
+   }
+  },
+  "biome_shield_pct": {
+   "page": "Biomes",
+   "rev": 38593,
+   "source": "wiki",
+   "value": 10
+  },
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Faster and protected; works only in the Ocean"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 3000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Diving Suit"
+  }
+ },
+ "Dragonic Wings": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Swords and katanas do 10% more damage"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 10000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "accessory"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Dragonic Wings"
+  }
+ },
+ "Element Hat": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Multiplies skill damage by 1.15x Increases bite damage by 5% | See Element Hats"
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Element Hat"
+  }
+ },
+ "Element Wings": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "* Increases ability damage by 20% * Increases attack damage by 20% | See Element Wings"
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "accessory"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Element Wings"
+  }
+ },
+ "Explorer Hat": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Increases the food given to the player when killing animals [by +50%]"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 6000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Explorer Hat"
+  }
+ },
+ "Feather Tribe": {
+  "biome_buff": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": {
+    "biome": "Forest",
+    "effect": "faster and protected"
+   }
+  },
+  "biome_shield_pct": {
+   "page": "Biomes",
+   "rev": 38593,
+   "source": "wiki",
+   "value": 10
+  },
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Faster and protected; works only in the Forest"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 3000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Feather Tribe"
+  }
+ },
+ "Final Round Wings": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Gloves do more damage and more knockouts * +20% damage * +25% knockout chance(Stacks up to 75% knockout chance with Cheek Protection)"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 20000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "accessory"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Final Round Wings"
+  }
+ },
+ "Golden Apple Hat / (VIP Pass)": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "When you destroy a chest, you will gain +1 Golden Apple. (Exclusive to VIP Pass owners)"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 5000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Golden Apple Hat / (VIP Pass)"
+  }
+ },
+ "Heatmask Hat": {
+  "biome_shield_pct": {
+   "page": "Biomes",
+   "rev": 38593,
+   "source": "wiki",
+   "value": 10
+  },
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Faster and protected; works only in volcano"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 3000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Heatmask Hat"
+  }
+ },
+ "Hunter Hat": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Crossbows do more damage"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 8000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Hunter Hat"
+  }
+ },
+ "Imposter": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Hide from the leaderboard (if less than a million gold)"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 2000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Imposter"
+  }
+ },
+ "King's Crown": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Increases XP that pets gain by 50%"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 20000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "King's Crown"
+  }
+ },
+ "Knight's Helmet": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Reduces all damage taken [except from tornados] by 40% but slows downs the player."
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 10000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Knight's Helmet"
+  }
+ },
+ "Lucky Hat": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Reduces the chance of the Appletor/Slingshot waking up the pet and resetting to 0%, increases insect spawning rates, and enhances dice luck. (-0.5% fail chance on both Appletors) (This does not, however, impact taming chances in any way, or improve the spawning rates of insects spawned by bosses.)"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 10000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Lucky Hat"
+  }
+ },
+ "Magician Hat": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Reduces the cooldown of a pet ability by an additional 1 second every 5 seconds. (Max of 50s reduction; for Baby Reaper, triggering 50 times)"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 12000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Magician Hat"
+  }
+ },
+ "Marlou Hat": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Makes the player [10%] faster"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 20000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Marlou Hat"
+  }
+ },
+ "Miner Hat": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Gathers [2] more stone [per hit]"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 2000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Miner Hat"
+  }
+ },
+ "Mushroom Hat": {
+  "biome_buff": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": {
+    "biome": "Dark Forest",
+    "effect": "faster and protected"
+   }
+  },
+  "biome_shield_pct": {
+   "page": "Biomes",
+   "rev": 38593,
+   "source": "wiki",
+   "value": 10
+  },
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Faster and protected; works only in Dark Forest"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 3000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Mushroom Hat"
+  }
+ },
+ "Musketeer Hat": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Muskets do more damage"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 8000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Musketeer Hat"
+  }
+ },
+ "Nurse Hat": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Appletors heal 3x the usual amount"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 6000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Nurse Hat"
+  }
+ },
+ "Party Hat": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "the game Anniversary | Hands and Gloves deal 24 more damage."
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 500
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "temporary"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Party Hat"
+  }
+ },
+ "Pilgrim's Hat": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Thanksgiving | Faster and protected in all Biomes. (Equivalent to biome hats)"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 3000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "temporary"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Pilgrim's Hat"
+  }
+ },
+ "Pup Ears": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Strong Dog type Pet"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 9500
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Pup Ears"
+  }
+ },
+ "Pup Tail": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Reduces damage by 30% from Dog type animals, nullifies Status Effects (Reduced damage includes bite damage, weapon damage, skill damage, and status effect damage [if applicable])"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 6550
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "accessory"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Pup Tail"
+  }
+ },
+ "Rascal's Cap": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Slingshots hurt more"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 4000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Rascal's Cap"
+  }
+ },
+ "Rogue's Hood": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Steal gold and food"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 20000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Rogue's Hood"
+  }
+ },
+ "Santa's Hat": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Christmas | Faster and protected in Winter (replaces Chapka); buffs defense and speed by 20%"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 3000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "temporary"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Santa's Hat"
+  }
+ },
+ "Short-Circuit Hat": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Boostpads have no effect on whoever wears it. [Includes mounts]"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 10000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Short-Circuit Hat"
+  }
+ },
+ "Small Bag": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Slow/gathers Apple faster [2 more per hit]"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 2000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "accessory"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Small Bag"
+  }
+ },
+ "Spring Cap": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Increases the knockback of your weapon & slow down"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 20000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Spring Cap"
+  }
+ },
+ "Tamer's Cap": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Increases taming chance [by 1.29x]"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 2500
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Tamer's Cap"
+  }
+ },
+ "Tamer's Helmet": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Mounted pet has more defense and attack (It is like using a Battle Saddle and a Turtle Saddle)"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 16000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Tamer's Helmet"
+  }
+ },
+ "Termite's Hat": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Slower but new placed buildings decay"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 9000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Termite's Hat"
+  }
+ },
+ "Trapper's Hat": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Bear traps reload faster and do more damage"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 6000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Trapper's Hat"
+  }
+ },
+ "Turban": {
+  "biome_buff": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": {
+    "biome": "Desert",
+    "effect": "faster and protected"
+   }
+  },
+  "biome_shield_pct": {
+   "page": "Biomes",
+   "rev": 38593,
+   "source": "wiki",
+   "value": 10
+  },
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Faster and protected; works only in the Desert"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 3000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Turban"
+  }
+ },
+ "Windmill Hat": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Gain an extra 10 gold for every Windmill you've placed."
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 20000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Windmill Hat"
+  }
+ },
+ "Wolf Trophy Hat": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Earn 50% more XP when you kill animals"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 15000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Wolf Trophy Hat"
+  }
+ },
+ "Wood Hat": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Gathers [2] more wood [per hit]"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 2000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Wood Hat"
+  }
+ },
+ "Worksite Helmet": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Buffs the repair from Wrenches, and slightly protects the wearer; The wearer is slowed down in exchange."
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 15000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Worksite Helmet"
+  }
+ },
+ "Wrecker's Hat": {
+  "effect": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Gathers 1.5x the resources when destroying structures"
+  },
+  "gold": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": 4000
+  },
+  "kind": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "hat"
+  },
+  "name": {
+   "page": "In-game Shop",
+   "rev": 38907,
+   "source": "wiki",
+   "value": "Wrecker's Hat"
+  }
+ }
+}

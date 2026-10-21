@@ -1,0 +1,1185 @@
+{
+ "precedence": "recording > wiki > guess",
+ "helm_windows_s": [
+  [
+   955.7,
+   1484.6
+  ],
+  [
+   1649.5,
+   2218.8
+  ]
+ ],
+ "rows": [
+  {
+   "area": "creatures",
+   "feature": "meaning of create field 22",
+   "recording": "creature kind name (12 kinds, names from the client table key)",
+   "recording_source": "sp3_facts.json facts.creatures.fields",
+   "wiki": "14 elemental types; animals of one type spawn in several biomes",
+   "wiki_page": "Types, Module:Animals/data",
+   "verdict": "mismatch",
+   "decision": "field 22 = TYPE code, field 21 = SPECIES id (starters Wolf/Rabbit/Bear = 21 ids 0/1/2). Every per-kind number in creatures.js mixes species; key by (22, 21)"
+  },
+  {
+   "area": "creatures",
+   "feature": "meaning of create field 23",
+   "recording": "flag 0..3",
+   "recording_source": "sp3_facts.json facts.creatures.fields",
+   "wiki": "stages baby / adult / boss, plus Big Mamma Boss",
+   "wiki_page": "Animals, Template:Animal Infobox",
+   "verdict": "match (new label)",
+   "decision": "f23 = growth stage: 0 baby, 1 adult, 2 boss, 3 BMB (HP per stage below); never changes on a live entity in the capture"
+  },
+  {
+   "area": "creatures",
+   "feature": "kind 5 type",
+   "recording": "label 'skunk'",
+   "recording_source": "creatures.js KINDS",
+   "wiki": "Spectrum",
+   "wiki_page": "Types + animal infobox type/biome",
+   "verdict": "mismatch",
+   "decision": "type Spectrum; species from field 21 (table below)"
+  },
+  {
+   "area": "creatures",
+   "feature": "kind 9 type",
+   "recording": "label 'snow-wolf'",
+   "recording_source": "creatures.js KINDS",
+   "wiki": "Plant",
+   "wiki_page": "Types + animal infobox type/biome",
+   "verdict": "mismatch",
+   "decision": "type Plant; species from field 21 (table below)"
+  },
+  {
+   "area": "creatures",
+   "feature": "kind 11 type",
+   "recording": "label 'polar-bear'",
+   "recording_source": "creatures.js KINDS",
+   "wiki": "Insect (bugs)",
+   "wiki_page": "Types + animal infobox type/biome",
+   "verdict": "mismatch",
+   "decision": "type Insect (bugs); species from field 21 (table below)"
+  },
+  {
+   "area": "creatures",
+   "feature": "kind 20 type",
+   "recording": "label 'dragon'",
+   "recording_source": "creatures.js KINDS",
+   "wiki": "Fire",
+   "wiki_page": "Types + animal infobox type/biome",
+   "verdict": "mismatch",
+   "decision": "type Fire; species from field 21 (table below)"
+  },
+  {
+   "area": "creatures",
+   "feature": "kind 21 type",
+   "recording": "label 'ice-golem'",
+   "recording_source": "creatures.js KINDS",
+   "wiki": "Water",
+   "wiki_page": "Types + animal infobox type/biome",
+   "verdict": "mismatch",
+   "decision": "type Water; species from field 21 (table below)"
+  },
+  {
+   "area": "creatures",
+   "feature": "kind 29 type",
+   "recording": "label 'rabbid'",
+   "recording_source": "creatures.js KINDS",
+   "wiki": "Normal",
+   "wiki_page": "Types + animal infobox type/biome",
+   "verdict": "mismatch",
+   "decision": "type Normal; species from field 21 (table below)"
+  },
+  {
+   "area": "creatures",
+   "feature": "kind 43 type",
+   "recording": "label 'armadillo'",
+   "recording_source": "creatures.js KINDS",
+   "wiki": "Rock",
+   "wiki_page": "Types + animal infobox type/biome",
+   "verdict": "mismatch",
+   "decision": "type Rock; species from field 21 (table below)"
+  },
+  {
+   "area": "creatures",
+   "feature": "kind 44 type",
+   "recording": "label 'yellow-scorpion'",
+   "recording_source": "creatures.js KINDS",
+   "wiki": "Poison",
+   "wiki_page": "Types + animal infobox type/biome",
+   "verdict": "mismatch",
+   "decision": "type Poison; species from field 21 (table below)"
+  },
+  {
+   "area": "creatures",
+   "feature": "kind 45 type",
+   "recording": "label 'rock-fairy'",
+   "recording_source": "creatures.js KINDS",
+   "wiki": "Ice",
+   "wiki_page": "Types + animal infobox type/biome",
+   "verdict": "mismatch",
+   "decision": "type Ice; species from field 21 (table below)"
+  },
+  {
+   "area": "creatures",
+   "feature": "kind 46 type",
+   "recording": "label 'dragon-fairy'",
+   "recording_source": "creatures.js KINDS",
+   "wiki": "Combat",
+   "wiki_page": "Types + animal infobox type/biome",
+   "verdict": "mismatch",
+   "decision": "type Combat; species from field 21 (table below)"
+  },
+  {
+   "area": "creatures",
+   "feature": "kind 59 type",
+   "recording": "label 'oryx'",
+   "recording_source": "creatures.js KINDS",
+   "wiki": "Electric",
+   "wiki_page": "Types + animal infobox type/biome",
+   "verdict": "mismatch",
+   "decision": "type Electric; species from field 21 (table below)"
+  },
+  {
+   "area": "creatures",
+   "feature": "kind 73 type",
+   "recording": "label 'plant-mask'",
+   "recording_source": "creatures.js KINDS",
+   "wiki": "unknown (single boss-state creature)",
+   "wiki_page": "Types + animal infobox type/biome",
+   "verdict": "mismatch",
+   "decision": "type unknown (single boss-state creature); species from field 21 (table below)"
+  },
+  {
+   "area": "creatures",
+   "feature": "Black Cat (22=5, 21=48) identity",
+   "recording": "Spectrum + Dark, hp 350",
+   "recording_source": "work/wiki_species_rec.json",
+   "wiki": "Black Cat",
+   "wiki_page": "Black Cat",
+   "verdict": "inferred",
+   "decision": "wiki stats for this species"
+  },
+  {
+   "area": "creatures",
+   "feature": "Vulture (22=5, 21=49) boss hp",
+   "recording": "850 (n 47)",
+   "recording_source": "work/sp3_decoded.jsonl damage field 10 vs hp bar 9 drop (work/wiki_species_stage.json)",
+   "wiki": 800,
+   "wiki_page": "Vulture",
+   "verdict": "match",
+   "decision": "recording; wiki fills the other stages"
+  },
+  {
+   "area": "creatures",
+   "feature": "Raven or Unicorn (22=5, 21=64) boss hp",
+   "recording": "935 (n 44)",
+   "recording_source": "work/sp3_decoded.jsonl damage field 10 vs hp bar 9 drop (work/wiki_species_stage.json)",
+   "wiki": null,
+   "wiki_page": "-",
+   "verdict": "n/a",
+   "decision": "recording; wiki fills the other stages"
+  },
+  {
+   "area": "creatures",
+   "feature": "Dark Wisp (or Hellhound) (22=5, 21=111) identity",
+   "recording": "Spectrum + Volcano, hp 510",
+   "recording_source": "work/wiki_species_rec.json",
+   "wiki": "Dark Wisp (or Hellhound)",
+   "wiki_page": "-",
+   "verdict": "inferred",
+   "decision": "wiki stats for this species"
+  },
+  {
+   "area": "creatures",
+   "feature": "Rabbit (22=9, 21=1) identity",
+   "recording": "starter id 1, Plant + Forest",
+   "recording_source": "work/wiki_species_rec.json",
+   "wiki": "Rabbit",
+   "wiki_page": "Rabbit",
+   "verdict": "inferred",
+   "decision": "wiki stats for this species"
+  },
+  {
+   "area": "creatures",
+   "feature": "Deer (22=9, 21=15) baby hp",
+   "recording": "198 (n 2)",
+   "recording_source": "work/sp3_decoded.jsonl damage field 10 vs hp bar 9 drop (work/wiki_species_stage.json)",
+   "wiki": 200,
+   "wiki_page": "Deer",
+   "verdict": "match",
+   "decision": "recording; wiki fills the other stages"
+  },
+  {
+   "area": "creatures",
+   "feature": "a bug (Insect) (22=11, 21=57) identity",
+   "recording": "in all 6 phases, kill gave XP +75 = wiki insect catch/kill XP 75",
+   "recording_source": "work/wiki_species_rec.json",
+   "wiki": "a bug (Insect)",
+   "wiki_page": "-",
+   "verdict": "inferred",
+   "decision": "wiki stats for this species"
+  },
+  {
+   "area": "creatures",
+   "feature": "Wolf (22=20, 21=0) baby hp",
+   "recording": "510 (n 245, pets)",
+   "recording_source": "work/sp3_decoded.jsonl damage field 10 vs hp bar 9 drop (work/wiki_species_stage.json)",
+   "wiki": 200,
+   "wiki_page": "Wolf",
+   "verdict": "pet (level stats)",
+   "decision": "recording (pets carry level stats)"
+  },
+  {
+   "area": "creatures",
+   "feature": "Wolf (22=20, 21=0) adult hp",
+   "recording": "382 (n 6, pets)",
+   "recording_source": "work/sp3_decoded.jsonl damage field 10 vs hp bar 9 drop (work/wiki_species_stage.json)",
+   "wiki": 400,
+   "wiki_page": "Wolf",
+   "verdict": "match",
+   "decision": "recording (pets carry level stats)"
+  },
+  {
+   "area": "creatures",
+   "feature": "Wolf (22=20, 21=0) boss hp",
+   "recording": "1190 (n 9, pets)",
+   "recording_source": "work/sp3_decoded.jsonl damage field 10 vs hp bar 9 drop (work/wiki_species_stage.json)",
+   "wiki": 1000,
+   "wiki_page": "Wolf",
+   "verdict": "match",
+   "decision": "recording (pets carry level stats)"
+  },
+  {
+   "area": "creatures",
+   "feature": "Horse (22=20, 21=8) adult hp",
+   "recording": "403 (n 14, pets)",
+   "recording_source": "work/sp3_decoded.jsonl damage field 10 vs hp bar 9 drop (work/wiki_species_stage.json)",
+   "wiki": 400,
+   "wiki_page": "Horse",
+   "verdict": "match",
+   "decision": "recording (pets carry level stats)"
+  },
+  {
+   "area": "creatures",
+   "feature": "Hedgehog (22=20, 21=75) identity",
+   "recording": "Fire + Forest, hp 656",
+   "recording_source": "work/wiki_species_rec.json",
+   "wiki": "Hedgehog",
+   "wiki_page": "Hedgehog",
+   "verdict": "inferred",
+   "decision": "wiki stats for this species"
+  },
+  {
+   "area": "creatures",
+   "feature": "Fire Wisp / Salamander / Lava Golem / Rabburn (22=20, 21=112) identity",
+   "recording": "Fire + Volcano, no hp sample",
+   "recording_source": "work/wiki_species_rec.json",
+   "wiki": "Fire Wisp / Salamander / Lava Golem / Rabburn",
+   "wiki_page": "-",
+   "verdict": "inferred",
+   "decision": "wiki stats for this species"
+  },
+  {
+   "area": "creatures",
+   "feature": "Bear (22=21, 21=2) baby hp",
+   "recording": "223 (n 2)",
+   "recording_source": "work/sp3_decoded.jsonl damage field 10 vs hp bar 9 drop (work/wiki_species_stage.json)",
+   "wiki": 300,
+   "wiki_page": "Bear",
+   "verdict": "weak sample (n 2)",
+   "decision": "recording; wiki fills the other stages"
+  },
+  {
+   "area": "creatures",
+   "feature": "Camel (22=21, 21=47) bmb hp",
+   "recording": "2175 (n 2)",
+   "recording_source": "work/sp3_decoded.jsonl damage field 10 vs hp bar 9 drop (work/wiki_species_stage.json)",
+   "wiki": null,
+   "wiki_page": "Camel",
+   "verdict": "n/a",
+   "decision": "recording; wiki fills the other stages"
+  },
+  {
+   "area": "creatures",
+   "feature": "Toad (22=21, 21=67) boss hp",
+   "recording": "1020 (n 51)",
+   "recording_source": "work/sp3_decoded.jsonl damage field 10 vs hp bar 9 drop (work/wiki_species_stage.json)",
+   "wiki": 900,
+   "wiki_page": "Toad",
+   "verdict": "match",
+   "decision": "recording; wiki fills the other stages"
+  },
+  {
+   "area": "creatures",
+   "feature": "Rabbyss (22=21, 21=77) adult hp",
+   "recording": "510 (n 17)",
+   "recording_source": "work/sp3_decoded.jsonl damage field 10 vs hp bar 9 drop (work/wiki_species_stage.json)",
+   "wiki": 500,
+   "wiki_page": "Rabbyss",
+   "verdict": "match",
+   "decision": "recording; wiki fills the other stages"
+  },
+  {
+   "area": "creatures",
+   "feature": "Seahorse (22=21, 21=79) adult hp",
+   "recording": "510 (n 48)",
+   "recording_source": "work/sp3_decoded.jsonl damage field 10 vs hp bar 9 drop (work/wiki_species_stage.json)",
+   "wiki": 500,
+   "wiki_page": "Seahorse",
+   "verdict": "match",
+   "decision": "recording; wiki fills the other stages"
+  },
+  {
+   "area": "creatures",
+   "feature": "Seahorse (22=21, 21=79) boss hp",
+   "recording": "680 (n 24)",
+   "recording_source": "work/sp3_decoded.jsonl damage field 10 vs hp bar 9 drop (work/wiki_species_stage.json)",
+   "wiki": 700,
+   "wiki_page": "Seahorse",
+   "verdict": "match",
+   "decision": "recording; wiki fills the other stages"
+  },
+  {
+   "area": "creatures",
+   "feature": "Water + Ocean species (Sea Crab? time-stopping-bubble audio 1608.8 s) (22=21, 21=83) identity",
+   "recording": "no hp sample",
+   "recording_source": "work/wiki_species_rec.json",
+   "wiki": "Water + Ocean species (Sea Crab? time-stopping-bubble audio 1608.8 s)",
+   "wiki_page": "-",
+   "verdict": "inferred",
+   "decision": "wiki stats for this species"
+  },
+  {
+   "area": "creatures",
+   "feature": "Caracal (22=29, 21=59) identity",
+   "recording": "Normal + Desert, baby hp 200",
+   "recording_source": "work/wiki_species_rec.json",
+   "wiki": "Caracal",
+   "wiki_page": "Caracal",
+   "verdict": "inferred",
+   "decision": "wiki stats for this species"
+  },
+  {
+   "area": "creatures",
+   "feature": "Bull (22=43, 21=3) identity",
+   "recording": "Rock + Forest",
+   "recording_source": "work/wiki_species_rec.json",
+   "wiki": "Bull",
+   "wiki_page": "Bull",
+   "verdict": "inferred",
+   "decision": "wiki stats for this species"
+  },
+  {
+   "area": "creatures",
+   "feature": "Oryx (22=43, 21=53) baby hp",
+   "recording": "150 (n 2)",
+   "recording_source": "work/sp3_decoded.jsonl damage field 10 vs hp bar 9 drop (work/wiki_species_stage.json)",
+   "wiki": 200,
+   "wiki_page": "Oryx",
+   "verdict": "weak sample (n 2)",
+   "decision": "recording; wiki fills the other stages"
+  },
+  {
+   "area": "creatures",
+   "feature": "Siren (22=43, 21=82) identity",
+   "recording": "Rock/Water + Ocean",
+   "recording_source": "work/wiki_species_rec.json",
+   "wiki": "Siren",
+   "wiki_page": "Siren",
+   "verdict": "inferred",
+   "decision": "wiki stats for this species"
+  },
+  {
+   "area": "creatures",
+   "feature": "Black Spider (22=44, 21=31) baby hp",
+   "recording": "200 (n 2)",
+   "recording_source": "work/sp3_decoded.jsonl damage field 10 vs hp bar 9 drop (work/wiki_species_stage.json)",
+   "wiki": 200,
+   "wiki_page": "Black Spider",
+   "verdict": "match",
+   "decision": "recording; wiki fills the other stages"
+  },
+  {
+   "area": "creatures",
+   "feature": "Black Spider (22=44, 21=31) adult hp",
+   "recording": "382 (n 31)",
+   "recording_source": "work/sp3_decoded.jsonl damage field 10 vs hp bar 9 drop (work/wiki_species_stage.json)",
+   "wiki": 400,
+   "wiki_page": "Black Spider",
+   "verdict": "match",
+   "decision": "recording; wiki fills the other stages"
+  },
+  {
+   "area": "creatures",
+   "feature": "Yellow Scorpion (22=44, 21=44) baby hp",
+   "recording": "302 (n 3)",
+   "recording_source": "work/sp3_decoded.jsonl damage field 10 vs hp bar 9 drop (work/wiki_species_stage.json)",
+   "wiki": 300,
+   "wiki_page": "Yellow Scorpion",
+   "verdict": "match",
+   "decision": "recording; wiki fills the other stages"
+  },
+  {
+   "area": "creatures",
+   "feature": "Yellow Scorpion (22=44, 21=44) adult hp",
+   "recording": "704 (n 22)",
+   "recording_source": "work/sp3_decoded.jsonl damage field 10 vs hp bar 9 drop (work/wiki_species_stage.json)",
+   "wiki": 700,
+   "wiki_page": "Yellow Scorpion",
+   "verdict": "match",
+   "decision": "recording; wiki fills the other stages"
+  },
+  {
+   "area": "creatures",
+   "feature": "Squid (22=44, 21=78) baby hp",
+   "recording": "191 (n 42)",
+   "recording_source": "work/sp3_decoded.jsonl damage field 10 vs hp bar 9 drop (work/wiki_species_stage.json)",
+   "wiki": 200,
+   "wiki_page": "Squid",
+   "verdict": "match",
+   "decision": "recording; wiki fills the other stages"
+  },
+  {
+   "area": "creatures",
+   "feature": "Seal (22=45, 21=120) adult hp",
+   "recording": "1020 (n 29)",
+   "recording_source": "work/sp3_decoded.jsonl damage field 10 vs hp bar 9 drop (work/wiki_species_stage.json)",
+   "wiki": 1000,
+   "wiki_page": "Seal",
+   "verdict": "match",
+   "decision": "recording; wiki fills the other stages"
+  },
+  {
+   "area": "creatures",
+   "feature": "Kangaroo (22=46, 21=66) baby hp",
+   "recording": "170 (n 2)",
+   "recording_source": "work/sp3_decoded.jsonl damage field 10 vs hp bar 9 drop (work/wiki_species_stage.json)",
+   "wiki": 200,
+   "wiki_page": "Kangaroo",
+   "verdict": "match",
+   "decision": "recording; wiki fills the other stages"
+  },
+  {
+   "area": "creatures",
+   "feature": "Lizardman (22=46, 21=113) adult hp",
+   "recording": "382 (n 71)",
+   "recording_source": "work/sp3_decoded.jsonl damage field 10 vs hp bar 9 drop (work/wiki_species_stage.json)",
+   "wiki": 400,
+   "wiki_page": "Lizardman",
+   "verdict": "match",
+   "decision": "recording; wiki fills the other stages"
+  },
+  {
+   "area": "creatures",
+   "feature": "Fox (22=59, 21=7) identity",
+   "recording": "Electric + Forest",
+   "recording_source": "work/wiki_species_rec.json",
+   "wiki": "Fox",
+   "wiki_page": "Fox",
+   "verdict": "inferred",
+   "decision": "wiki stats for this species"
+  },
+  {
+   "area": "creatures",
+   "feature": "Sheep (22=59, 21=91) identity",
+   "recording": "Electric + Forest",
+   "recording_source": "work/wiki_species_rec.json",
+   "wiki": "Sheep",
+   "wiki_page": "Sheep",
+   "verdict": "inferred",
+   "decision": "wiki stats for this species"
+  },
+  {
+   "area": "creatures",
+   "feature": "own pet species",
+   "recording": "'Dragon' (inventory), C.pet_kind 20",
+   "recording_source": "sp3_feature_inventory.md own pet",
+   "wiki": "Wolf (skill Deflagration)",
+   "wiki_page": "Wolf",
+   "verdict": "mismatch",
+   "decision": "Wolf (Ion confirmed). Kind 20 = Fire type, species 21 = 0"
+  },
+  {
+   "area": "creatures",
+   "feature": "own pet hp",
+   "recording": 400,
+   "recording_source": "creatures.js C.pet_hp (median 397, 83 hits)",
+   "wiki": 400,
+   "wiki_page": "Wolf",
+   "verdict": "match",
+   "decision": "recording"
+  },
+  {
+   "area": "creatures",
+   "feature": "tamed creature",
+   "recording": "ice-golem (inventory)",
+   "recording_source": "sp3_feature_inventory.md taming",
+   "wiki": "Bear (Water, Forest, tame 66%)",
+   "wiki_page": "Bear",
+   "verdict": "mismatch",
+   "decision": "Bear: field 21 = 2 and the Ocean Wave cast right after the tame; stage f23 0 = baby (wiki: only sleeping babies can be tamed)"
+  },
+  {
+   "area": "creatures",
+   "feature": "Black Spider bite to player (no hat)",
+   "recording": 15,
+   "recording_source": "creatures.js SOURCES KINDS.*.dmg (44, row 11645, t 647.8 s, no helm)",
+   "wiki": 15,
+   "wiki_page": "Black Spider",
+   "verdict": "match",
+   "decision": "recording"
+  },
+  {
+   "area": "creatures",
+   "feature": "Seahorse/Water bite to player",
+   "recording": "4 (12 of 15)",
+   "recording_source": "creatures.js KINDS.*.dmg kind 21 (t 1706..1711 s, Knight's Helmet worn)",
+   "wiki": "Seahorse adult 7 x 0.6 (helm -40%) = 4.2",
+   "wiki_page": "Seahorse, In-game Shop",
+   "verdict": "match after helm",
+   "decision": "base = wiki bite; the player takes 0.6x with Knight's Helmet"
+  },
+  {
+   "area": "creatures",
+   "feature": "Lizardman bite to player",
+   "recording": "6 (8 of 9)",
+   "recording_source": "creatures.js KINDS.*.dmg kind 46 (t 2086..2109 s, helm worn)",
+   "wiki": "Lizardman adult 10 x 0.6 = 6",
+   "wiki_page": "Lizardman, In-game Shop",
+   "verdict": "match after helm",
+   "decision": "base = wiki bite; helm 0.6x"
+  },
+  {
+   "area": "creatures",
+   "feature": "skill cooldown",
+   "recording": "10..15 s (guess)",
+   "recording_source": "creatures.js KINDS.*.skill.every",
+   "wiki": "Reload 30 / 28 / 25 (baby / adult / boss), most animals",
+   "wiki_page": "animal infoboxes skill_1",
+   "verdict": "fill",
+   "decision": "wiki (seconds), recording has no cadence"
+  },
+  {
+   "area": "creatures",
+   "feature": "Wolf Deflagration duration",
+   "recording": "skill projectile 108 x2 life 4.0 s (row 32588)",
+   "recording_source": "creatures.js SOURCES KINDS.*.skill",
+   "wiki": "about 4 seconds, caster immobile",
+   "wiki_page": "Wolf",
+   "verdict": "match",
+   "decision": "recording"
+  },
+  {
+   "area": "creatures",
+   "feature": "Wolf Deflagration damage",
+   "recording": "guess",
+   "recording_source": "creatures.js skill dmg",
+   "wiki": "player 10/15/20 + DoT 1/1/2, animal 20/30/40 + DoT 2/3/4, building 5/10/15 + DoT 1/2/3",
+   "wiki_page": "Wolf",
+   "verdict": "fill",
+   "decision": "wiki"
+  },
+  {
+   "area": "creatures",
+   "feature": "kill XP",
+   "recording": "+75 XP, +50 gold (kind 11 kill, row 27434)",
+   "recording_source": "creatures.js KINDS.11.xp",
+   "wiki": "insect catch/kill 75 XP; animals baby 50, adult 100, boss 400, BMB 1200; tamed 1/10",
+   "wiki_page": "Pet Level System",
+   "verdict": "match (kind 11 = bug)",
+   "decision": "recording for bugs; wiki per stage for the rest"
+  },
+  {
+   "area": "creatures",
+   "feature": "speed units",
+   "recording": "player walk 488 u/s; pet run 275 u/s; chases 265..390 u/s",
+   "recording_source": "sp3_facts walk, creatures.js C.pet_run, KINDS.chase",
+   "wiki": "Tamer speed 350; Wolf 200/250/280; Black Spider 240/260/320",
+   "wiki_page": "Tamer, animal infoboxes",
+   "verdict": "scale",
+   "decision": "wiki speed x 488/350 (1.39) approximates u/s for creatures (Black Spider adult 260 -> 363 vs chase 300..360); recording wins where measured"
+  },
+  {
+   "area": "creatures",
+   "feature": "pets owned at once",
+   "recording": "2 seen (own_info n 2), pet_max 3 guess",
+   "recording_source": "creatures.js C.pet_max",
+   "wiki": "3 slot pets + 3 non-slot pets",
+   "wiki_page": "Taming",
+   "verdict": "match",
+   "decision": "3"
+  },
+  {
+   "area": "creatures",
+   "feature": "taming",
+   "recording": "one sample: 4.7 s, success, no inventory paid",
+   "recording_source": "creatures.js C.tame_ms",
+   "wiki": "only sleeping babies; base chance per species (Wolf/Bear/Rabbit 66%, most 6..18%); +1% per Slingshot/Appletor hit, 5% wake risk; Tamer's Cap x1.29; failure makes it attack; no cost",
+   "wiki_page": "Taming, animal infoboxes",
+   "verdict": "match",
+   "decision": "recording timing; wiki chance and rules"
+  },
+  {
+   "area": "player",
+   "feature": "max hp",
+   "recording": 100,
+   "recording_source": "sp3_facts summary.max_hp",
+   "wiki": 100,
+   "wiki_page": "Tamer",
+   "verdict": "match",
+   "decision": "recording"
+  },
+  {
+   "area": "player",
+   "feature": "passive regen",
+   "recording": "none (92 s at 88 HP)",
+   "recording_source": "sp3_facts summary.passive_regen",
+   "wiki": "none unless Bandage / Angel Wings",
+   "wiki_page": "Tamer",
+   "verdict": "match",
+   "decision": "recording"
+  },
+  {
+   "area": "player",
+   "feature": "Knight's Helmet price",
+   "recording": "10000 (gold 14055 -> 4055, row 17290)",
+   "recording_source": "social.js SOURCES shop_buy_reply",
+   "wiki": 10000,
+   "wiki_page": "In-game Shop",
+   "verdict": "match",
+   "decision": "recording"
+  },
+  {
+   "area": "player",
+   "feature": "Knight's Helmet effect",
+   "recording": "walk factors x~0.6 and hits taken x0.6 while worn (955.7..1484.6 s, 1649.5..2218.8 s)",
+   "recording_source": "sp3_facts walk.by_item evidence times + hp.damage_by_cause (this check)",
+   "wiki": "Reduces all damage taken [except from tornados] by 40% but slows downs the player.",
+   "wiki_page": "In-game Shop",
+   "verdict": "match",
+   "decision": "damage taken x0.6 (wiki 40%), walk x0.6 (measured; wiki gives no number)"
+  },
+  {
+   "area": "player",
+   "feature": "walk factor Amethyst Pickaxe",
+   "recording": "0.457 (helm worn, t 2015.413)",
+   "recording_source": "sp3_facts summary.walk_item_factor",
+   "wiki": "speed 76 x 0.6 = 0.456",
+   "wiki_page": "Pickaxes",
+   "verdict": "match",
+   "decision": "recording; for items not measured use wiki speed/100 (x0.6 with Knight's Helmet)"
+  },
+  {
+   "area": "player",
+   "feature": "walk factor Golden Axe",
+   "recording": "0.804 (t 765.048)",
+   "recording_source": "sp3_facts summary.walk_item_factor",
+   "wiki": "speed 80",
+   "wiki_page": "Axes",
+   "verdict": "match",
+   "decision": "recording; for items not measured use wiki speed/100 (x0.6 with Knight's Helmet)"
+  },
+  {
+   "area": "player",
+   "feature": "walk factor Golden Pickaxe",
+   "recording": "0.478 (helm worn, t 1707.021)",
+   "recording_source": "sp3_facts summary.walk_item_factor",
+   "wiki": "speed 80 x 0.6 = 0.480",
+   "wiki_page": "Pickaxes",
+   "verdict": "match",
+   "decision": "recording; for items not measured use wiki speed/100 (x0.6 with Knight's Helmet)"
+  },
+  {
+   "area": "player",
+   "feature": "walk factor Ruby Axe",
+   "recording": "0.5 (helm worn, t 966.076)",
+   "recording_source": "sp3_facts summary.walk_item_factor",
+   "wiki": "speed 75 x 0.6 = 0.450",
+   "wiki_page": "Axes",
+   "verdict": "mismatch",
+   "decision": "recording; for items not measured use wiki speed/100 (x0.6 with Knight's Helmet)"
+  },
+  {
+   "area": "player",
+   "feature": "walk factor Ruby Hammer",
+   "recording": "0.935 (t 2373.424)",
+   "recording_source": "sp3_facts summary.walk_item_factor",
+   "wiki": "speed 93",
+   "wiki_page": "Hammers",
+   "verdict": "match",
+   "decision": "recording; for items not measured use wiki speed/100 (x0.6 with Knight's Helmet)"
+  },
+  {
+   "area": "player",
+   "feature": "walk factor Ruby Pickaxe",
+   "recording": "0.478 (helm worn, t 1799.314)",
+   "recording_source": "sp3_facts summary.walk_item_factor",
+   "wiki": "speed 78 x 0.6 = 0.468",
+   "wiki_page": "Pickaxes",
+   "verdict": "match",
+   "decision": "recording; for items not measured use wiki speed/100 (x0.6 with Knight's Helmet)"
+  },
+  {
+   "area": "player",
+   "feature": "walk factor Saddle",
+   "recording": "0.609 (t 864.444)",
+   "recording_source": "sp3_facts summary.walk_item_factor",
+   "wiki": "speed 60",
+   "wiki_page": "Saddles",
+   "verdict": "match",
+   "decision": "recording; for items not measured use wiki speed/100 (x0.6 with Knight's Helmet)"
+  },
+  {
+   "area": "player",
+   "feature": "walk factor Sapphire Pickaxe",
+   "recording": "0.435 (helm worn, t 2144.874)",
+   "recording_source": "sp3_facts summary.walk_item_factor",
+   "wiki": "speed 75 x 0.6 = 0.450",
+   "wiki_page": "Pickaxes",
+   "verdict": "match",
+   "decision": "recording; for items not measured use wiki speed/100 (x0.6 with Knight's Helmet)"
+  },
+  {
+   "area": "player",
+   "feature": "walk factor Stone Axe",
+   "recording": "0.804 (t 86.45)",
+   "recording_source": "sp3_facts summary.walk_item_factor",
+   "wiki": "speed 80",
+   "wiki_page": "Axes",
+   "verdict": "match",
+   "decision": "recording; for items not measured use wiki speed/100 (x0.6 with Knight's Helmet)"
+  },
+  {
+   "area": "player",
+   "feature": "walk factor Stone Hammer",
+   "recording": "0.957 (t 1620.426)",
+   "recording_source": "sp3_facts summary.walk_item_factor",
+   "wiki": "speed 95",
+   "wiki_page": "Hammers",
+   "verdict": "match",
+   "decision": "recording; for items not measured use wiki speed/100 (x0.6 with Knight's Helmet)"
+  },
+  {
+   "area": "weapons",
+   "feature": "Hand damage vs creatures",
+   "recording": 6,
+   "recording_source": "work/v03_reverify.json damage table (mode)",
+   "wiki": 6,
+   "wiki_page": "Hand",
+   "verdict": "match",
+   "decision": "recording"
+  },
+  {
+   "area": "weapons",
+   "feature": "Stone Axe damage vs creatures",
+   "recording": 42,
+   "recording_source": "work/v03_reverify.json damage table (mode)",
+   "wiki": 42,
+   "wiki_page": "Axes",
+   "verdict": "match",
+   "decision": "recording"
+  },
+  {
+   "area": "weapons",
+   "feature": "Golden Axe damage vs creatures",
+   "recording": 51,
+   "recording_source": "work/v03_reverify.json damage table (mode)",
+   "wiki": 51,
+   "wiki_page": "Axes",
+   "verdict": "match",
+   "decision": "recording"
+  },
+  {
+   "area": "weapons",
+   "feature": "Ruby Axe damage vs creatures",
+   "recording": 58,
+   "recording_source": "work/v03_reverify.json damage table (mode)",
+   "wiki": 57,
+   "wiki_page": "Axes",
+   "verdict": "match",
+   "decision": "recording"
+  },
+  {
+   "area": "weapons",
+   "feature": "Golden Pickaxe damage vs creatures",
+   "recording": 26,
+   "recording_source": "work/v03_reverify.json damage table (mode)",
+   "wiki": 26,
+   "wiki_page": "Pickaxes",
+   "verdict": "match",
+   "decision": "recording"
+  },
+  {
+   "area": "weapons",
+   "feature": "Ruby Hammer damage vs creatures",
+   "recording": 18,
+   "recording_source": "work/v03_reverify.json damage table (mode)",
+   "wiki": 18,
+   "wiki_page": "Hammers",
+   "verdict": "match",
+   "decision": "recording"
+  },
+  {
+   "area": "weapons",
+   "feature": "Hand damage vs players",
+   "recording": 4,
+   "recording_source": "work/v03_reverify.json damage table",
+   "wiki": 6,
+   "wiki_page": "Hand",
+   "verdict": "match after armour",
+   "decision": "base = wiki player_damage; apply victim hat reduction (hits on the helmed own player, 6 x 0.6 = 3.6)"
+  },
+  {
+   "area": "weapons",
+   "feature": "Golden Axe damage vs players",
+   "recording": 16,
+   "recording_source": "work/v03_reverify.json damage table",
+   "wiki": 30,
+   "wiki_page": "Axes",
+   "verdict": "match after armour",
+   "decision": "base = wiki player_damage; apply victim hat reduction (victim gear unknown; 30 x 0.6 = 18)"
+  },
+  {
+   "area": "weapons",
+   "feature": "Amethyst Axe damage vs players",
+   "recording": "22 (x2), 33 (x1)",
+   "recording_source": "work/v03_reverify.json damage table",
+   "wiki": 37,
+   "wiki_page": "Axes",
+   "verdict": "match after armour",
+   "decision": "base = wiki player_damage; apply victim hat reduction (37 x 0.6 = 22.2 (helm), 37 x 0.9 = 33.3 (biome hat))"
+  },
+  {
+   "area": "weapons",
+   "feature": "Ruby Pickaxe damage vs players",
+   "recording": 30,
+   "recording_source": "work/v03_reverify.json damage table",
+   "wiki": 30,
+   "wiki_page": "Pickaxes",
+   "verdict": "match",
+   "decision": "base = wiki player_damage; apply victim hat reduction (target was a pet)"
+  },
+  {
+   "area": "resources",
+   "feature": "tree/stone hp byte step Hand",
+   "recording": 2,
+   "recording_source": "game_config.js resource_step_by_tool (v03_audit)",
+   "wiki": "building_damage 3 x 255 / 400 hp = 1.9",
+   "wiki_page": "Wood, Stone, Hand",
+   "verdict": "match",
+   "decision": "recording; unmeasured tools: building_damage x 255 / 400"
+  },
+  {
+   "area": "resources",
+   "feature": "tree/stone hp byte step Stone Axe",
+   "recording": 10,
+   "recording_source": "game_config.js resource_step_by_tool (v03_audit)",
+   "wiki": "building_damage 15 x 255 / 400 hp = 9.6",
+   "wiki_page": "Wood, Stone, Axes",
+   "verdict": "match",
+   "decision": "recording; unmeasured tools: building_damage x 255 / 400"
+  },
+  {
+   "area": "resources",
+   "feature": "tree/stone hp byte step Golden Axe",
+   "recording": 13,
+   "recording_source": "game_config.js resource_step_by_tool (v03_audit)",
+   "wiki": "building_damage 20 x 255 / 400 hp = 12.8",
+   "wiki_page": "Wood, Stone, Axes",
+   "verdict": "match",
+   "decision": "recording; unmeasured tools: building_damage x 255 / 400"
+  },
+  {
+   "area": "resources",
+   "feature": "tree/stone hp byte step Golden Pickaxe",
+   "recording": 13,
+   "recording_source": "game_config.js resource_step_by_tool (v03_audit)",
+   "wiki": "building_damage 20 x 255 / 400 hp = 12.8",
+   "wiki_page": "Wood, Stone, Pickaxes",
+   "verdict": "match",
+   "decision": "recording; unmeasured tools: building_damage x 255 / 400"
+  },
+  {
+   "area": "resources",
+   "feature": "tree/stone hp byte step Stone Hammer",
+   "recording": 13,
+   "recording_source": "game_config.js resource_step_by_tool (v03_audit)",
+   "wiki": "building_damage 20 x 255 / 400 hp = 12.8",
+   "wiki_page": "Wood, Stone, Hammers",
+   "verdict": "match",
+   "decision": "recording; unmeasured tools: building_damage x 255 / 400"
+  },
+  {
+   "area": "resources",
+   "feature": "tree/stone hp byte step Ruby Axe",
+   "recording": 16,
+   "recording_source": "game_config.js resource_step_by_tool (v03_audit)",
+   "wiki": "building_damage 25 x 255 / 400 hp = 15.9",
+   "wiki_page": "Wood, Stone, Axes",
+   "verdict": "match",
+   "decision": "recording; unmeasured tools: building_damage x 255 / 400"
+  },
+  {
+   "area": "resources",
+   "feature": "tree/stone hp byte step Ruby Pickaxe",
+   "recording": 16,
+   "recording_source": "game_config.js resource_step_by_tool (v03_audit)",
+   "wiki": "building_damage 25 x 255 / 400 hp = 15.9",
+   "wiki_page": "Wood, Stone, Pickaxes",
+   "verdict": "match",
+   "decision": "recording; unmeasured tools: building_damage x 255 / 400"
+  },
+  {
+   "area": "resources",
+   "feature": "tree/stone hp byte step Amethyst Pickaxe",
+   "recording": 19,
+   "recording_source": "game_config.js resource_step_by_tool (v03_audit)",
+   "wiki": "building_damage 30 x 255 / 400 hp = 19.1",
+   "wiki_page": "Wood, Stone, Pickaxes",
+   "verdict": "match",
+   "decision": "recording; unmeasured tools: building_damage x 255 / 400"
+  },
+  {
+   "area": "resources",
+   "feature": "tree/stone hp byte step Ruby Hammer",
+   "recording": 19,
+   "recording_source": "game_config.js resource_step_by_tool (v03_audit)",
+   "wiki": "building_damage 30 x 255 / 400 hp = 19.1",
+   "wiki_page": "Wood, Stone, Hammers",
+   "verdict": "match",
+   "decision": "recording; unmeasured tools: building_damage x 255 / 400"
+  },
+  {
+   "area": "resources",
+   "feature": "tree/stone hp byte step Sapphire Pickaxe",
+   "recording": 24,
+   "recording_source": "game_config.js resource_step_by_tool (v03_audit)",
+   "wiki": "building_damage 38 x 255 / 400 hp = 24.2",
+   "wiki_page": "Wood, Stone, Pickaxes",
+   "verdict": "match",
+   "decision": "recording; unmeasured tools: building_damage x 255 / 400"
+  },
+  {
+   "area": "structures",
+   "feature": "structure hp byte step per tool hit",
+   "recording": "32 for axes and pickaxes, 24 Stone Hammer (spikes, walls, doors, turrets)",
+   "recording_source": "game_config.js struct_step_tool / struct_step_by_tool",
+   "wiki": "Stone Axe building 15 on Stone Spike 225 hp = 17 bytes; Wooden Wall 400 hp",
+   "wiki_page": "Spikes, Walls, Axes",
+   "verdict": "mismatch",
+   "decision": "recording (the server does not use building_damage / durability linearly for placed objects); keep 32 / 24"
+  },
+  {
+   "area": "structures",
+   "feature": "spike contact damage",
+   "recording": "3..5 (diamond 4..5 at 1478 s, amethyst 3..4 at 2214 s, helm worn)",
+   "recording_source": "sp3_facts hp.damage_by_cause object:*-spike",
+   "wiki": "Amethyst Spike 6, Cosmetics (diamond) Spike 7; x 0.6 = 3.6 / 4.2",
+   "wiki_page": "Spikes",
+   "verdict": "match after helm",
+   "decision": "base = wiki per tier, x0.6 with Knight's Helmet"
+  },
+  {
+   "area": "structures",
+   "feature": "stone turret damage",
+   "recording": 12,
+   "recording_source": "creatures.js C.turret_dmg (rows 28541, 28657)",
+   "wiki": 12,
+   "wiki_page": "Turrets",
+   "verdict": "match",
+   "decision": "recording"
+  },
+  {
+   "area": "structures",
+   "feature": "turret damage other tiers",
+   "recording": "wooden 10, golden 15, ruby 18, amethyst 21, diamond 24, sapphire 24 (guess)",
+   "recording_source": "creatures.js C.turret_dmg",
+   "wiki": "Wooden 10, Golden 15, Ruby 18, Amethyst 21, Sapphire 25, Cosmetics 25",
+   "wiki_page": "Turrets",
+   "verdict": "mostly match",
+   "decision": "wiki: sapphire and diamond (cosmetics) 25"
+  },
+  {
+   "area": "structures",
+   "feature": "turret fire period",
+   "recording": "0.9..1.5 s",
+   "recording_source": "creatures.js C.turret_every",
+   "wiki": "reload 1 s wooden, 1.5 s others",
+   "wiki_page": "Turrets",
+   "verdict": "match",
+   "decision": "recording 1000 ms; wiki 1500 for stone+ is also in range"
+  },
+  {
+   "area": "structures",
+   "feature": "boost pad push",
+   "recording": "one pet push: 96, 132, 123, 12 units per frame (~363 in 4 frames), direction = pad angle + 90 deg",
+   "recording_source": "work/v03_reverify.json pads (row 14709)",
+   "wiki": "no push numbers; max 10 per player, durability 100 (Big 1000, Mega 100); Mega pushes harder; Short-Circuit Hat immune",
+   "wiki_page": "Boost Pads",
+   "verdict": "fill",
+   "decision": "recording profile for the plain pad; wiki limits/durability/recipes; Mega multiplier stays a guess"
+  },
+  {
+   "area": "structures",
+   "feature": "repair tower heal",
+   "recording": "not measurable (4 heal projectiles, 3 repair sounds)",
+   "recording_source": "v03_audit NOT-SPECIFIED",
+   "wiki": "reload 6 s (Stone/Ruby/Sapphire) / 8 s (Golden/Amethyst/Cosmetics), durability 510..900, pushes enemies; no heal amount",
+   "wiki_page": "Towers",
+   "verdict": "fill",
+   "decision": "wiki reload + durability; heal amount: guess (Wrench repair 40/70/100/140/200 per hit is the nearest wiki number)"
+  },
+  {
+   "area": "structures",
+   "feature": "heal pad",
+   "recording": "not in capture",
+   "recording_source": "-",
+   "wiki": "10 hp per 0.6 s (pets 20); Mega 15 (30); Big = larger radius; durability 500/1000/750",
+   "wiki_page": "Heal Pads",
+   "verdict": "fill",
+   "decision": "wiki"
+  },
+  {
+   "area": "structures",
+   "feature": "place distance",
+   "recording": "62 (boost pad 100)",
+   "recording_source": "v03_audit placing structures",
+   "wiki": "-",
+   "wiki_page": "-",
+   "verdict": "n/a",
+   "decision": "recording"
+  },
+  {
+   "area": "structures",
+   "feature": "limits per player",
+   "recording": "-",
+   "recording_source": "-",
+   "wiki": "walls 50, spikes 15, big spikes 12, doors 6, windmills 5, turrets 2, towers 1, boost pads 10, heal/grow pads 1, bear traps 4",
+   "wiki_page": "Walls, Spikes, ...",
+   "verdict": "fill",
+   "decision": "wiki"
+  },
+  {
+   "area": "food",
+   "feature": "Cookie heal",
+   "recording": "12 instant",
+   "recording_source": "items.json heal + game_config heal_tick_by_item",
+   "wiki": "12 instant",
+   "wiki_page": "Food",
+   "verdict": "match",
+   "decision": "recording"
+  },
+  {
+   "area": "food",
+   "feature": "Sandwich heal",
+   "recording": "8 instant, 4 per tick x6",
+   "recording_source": "items.json heal + game_config heal_tick_by_item",
+   "wiki": "8 instant, heal O.T. 4 x 6 ticks",
+   "wiki_page": "Food",
+   "verdict": "match",
+   "decision": "recording"
+  },
+  {
+   "area": "food",
+   "feature": "Salad heal",
+   "recording": "10 instant, 6 per tick x6",
+   "recording_source": "items.json heal + game_config heal_tick_by_item",
+   "wiki": "10 instant, heal O.T. 6 x 6 ticks",
+   "wiki_page": "Food",
+   "verdict": "match",
+   "decision": "recording"
+  },
+  {
+   "area": "food",
+   "feature": "Mushroom Soup heal",
+   "recording": "12 instant, 8 per tick x6",
+   "recording_source": "items.json heal + game_config heal_tick_by_item",
+   "wiki": "12 instant, heal O.T. 8 x 6 ticks",
+   "wiki_page": "Food",
+   "verdict": "match",
+   "decision": "recording"
+  },
+  {
+   "area": "biomes",
+   "feature": "phase lengths and order",
+   "recording": "480 s each, plain 960 s; snow, dark, desert, sea, volcanic, plain",
+   "recording_source": "world_sp5.json / hosted_config game_sources biome",
+   "wiki": "Forest 16 min, others 8; Forest -> Winter -> Darkness -> Desert -> Ocean -> Volcano",
+   "wiki_page": "Biomes",
+   "verdict": "match",
+   "decision": "recording"
+  },
+  {
+   "area": "hats",
+   "feature": "hat price table",
+   "recording": "client table _5268 (70 hats, 38 wings)",
+   "recording_source": "social.js HAT_PRICE / WING_PRICE",
+   "wiki": "every priced wiki hat and accessory has an equal price in the client tables",
+   "wiki_page": "In-game Shop",
+   "verdict": "match (as a set)",
+   "decision": "client table wins; names per id only verified for 25 = Knight's Helmet"
+  },
+  {
+   "area": "hats",
+   "feature": "Feather Tribe buff",
+   "recording": "not in capture",
+   "recording_source": "-",
+   "wiki": "3000 gold, Faster and protected; works only in the Forest; 10% shield + small speed boost",
+   "wiki_page": "In-game Shop, Biomes",
+   "verdict": "fill",
+   "decision": "wiki (speed multiplier itself: guess)"
+  },
+  {
+   "area": "hats",
+   "feature": "Chapka buff",
+   "recording": "not in capture",
+   "recording_source": "-",
+   "wiki": "3000 gold, Faster and protected; works only in Winter; 10% shield + small speed boost",
+   "wiki_page": "In-game Shop, Biomes",
+   "verdict": "fill",
+   "decision": "wiki (speed multiplier itself: guess)"
+  },
+  {
+   "area": "hats",
+   "feature": "Mushroom Hat buff",
+   "recording": "not in capture",
+   "recording_source": "-",
+   "wiki": "3000 gold, Faster and protected; works only in Dark Forest; 10% shield + small speed boost",
+   "wiki_page": "In-game Shop, Biomes",
+   "verdict": "fill",
+   "decision": "wiki (speed multiplier itself: guess)"
+  },
+  {
+   "area": "hats",
+   "feature": "Turban buff",
+   "recording": "not in capture",
+   "recording_source": "-",
+   "wiki": "3000 gold, Faster and protected; works only in the Desert; 10% shield + small speed boost",
+   "wiki_page": "In-game Shop, Biomes",
+   "verdict": "fill",
+   "decision": "wiki (speed multiplier itself: guess)"
+  },
+  {
+   "area": "hats",
+   "feature": "Diving Suit buff",
+   "recording": "not in capture",
+   "recording_source": "-",
+   "wiki": "3000 gold, Faster and protected; works only in the Ocean; 10% shield + small speed boost",
+   "wiki_page": "In-game Shop, Biomes",
+   "verdict": "fill",
+   "decision": "wiki (speed multiplier itself: guess)"
+  },
+  {
+   "area": "hats",
+   "feature": "Heatmask Hat buff",
+   "recording": "not in capture",
+   "recording_source": "-",
+   "wiki": "3000 gold, Faster and protected; works only in volcano; 10% shield + small speed boost",
+   "wiki_page": "In-game Shop, Biomes",
+   "verdict": "fill",
+   "decision": "wiki (speed multiplier itself: guess)"
+  }
+ ]
+}

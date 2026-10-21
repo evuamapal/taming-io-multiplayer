@@ -1,0 +1,949 @@
+{
+ "Cactus Boss": {
+  "animals": {
+   "page": "Cactus Boss",
+   "rev": 38638,
+   "source": "wiki",
+   "value": "Dragon Fairy Rock Fairy Insect Fairy"
+  },
+  "biome": {
+   "page": "Cactus Boss",
+   "rev": 38638,
+   "source": "wiki",
+   "value": "Desert Biome"
+  },
+  "health": {
+   "page": "Cactus Boss",
+   "rev": 38638,
+   "source": "wiki",
+   "value": 8500
+  },
+  "moves": {
+   "page": "Cactus Boss",
+   "rev": 38638,
+   "source": "wiki",
+   "value": [
+    {
+     "damage": "8-9 damage per tick",
+     "move": "Thorn Puddle"
+    },
+    {
+     "damage": "20-30 damage per needle",
+     "move": "Needle Shooting"
+    }
+   ]
+  },
+  "name": {
+   "page": "Cactus Boss",
+   "rev": 38638,
+   "source": "wiki",
+   "value": "Cactus Boss"
+  },
+  "type": {
+   "page": "Cactus Boss",
+   "rev": 38638,
+   "source": "wiki",
+   "value": "Plant"
+  },
+  "xp": {
+   "page": "Cactus Boss",
+   "rev": 38638,
+   "source": "wiki",
+   "value": 4800
+  }
+ },
+ "Chest Mimic": {
+  "biome": {
+   "page": "Chest Mimic",
+   "rev": 36973,
+   "source": "wiki",
+   "value": "Any"
+  },
+  "health": {
+   "page": "Chest Mimic",
+   "rev": 36973,
+   "source": "wiki",
+   "value": 800
+  },
+  "name": {
+   "page": "Chest Mimic",
+   "rev": 36973,
+   "source": "wiki",
+   "value": "Chest Mimic"
+  },
+  "type": {
+   "page": "Chest Mimic",
+   "rev": 36973,
+   "source": "wiki",
+   "value": "Rock"
+  },
+  "xp": {
+   "page": "Chest Mimic",
+   "rev": 36973,
+   "source": "wiki",
+   "value": 400
+  }
+ },
+ "Dragon Egg": {
+  "animals": {
+   "page": "Dragon Egg",
+   "rev": 36372,
+   "source": "wiki",
+   "value": "Dragon"
+  },
+  "biome": {
+   "page": "Dragon Egg",
+   "rev": 36372,
+   "source": "wiki",
+   "value": "Forest Biome"
+  },
+  "health": {
+   "page": "Dragon Egg",
+   "rev": 36372,
+   "source": "wiki",
+   "value": 7000
+  },
+  "moves": {
+   "page": "Dragon Egg",
+   "rev": 36372,
+   "source": "wiki",
+   "value": [
+    {
+     "damage": "40",
+     "move": "Saw Wall"
+    },
+    {
+     "damage": "50 damage per hit, 100 to Tamons.",
+     "move": "Egg Bombs"
+    }
+   ]
+  },
+  "name": {
+   "page": "Dragon Egg",
+   "rev": 36372,
+   "source": "wiki",
+   "value": "Dragon Egg"
+  },
+  "type": {
+   "page": "Dragon Egg",
+   "rev": 36372,
+   "source": "wiki",
+   "value": "Dragon"
+  },
+  "xp": {
+   "page": "Dragon Egg",
+   "rev": 36372,
+   "source": "wiki",
+   "value": 4000
+  }
+ },
+ "Fire Dragon Boss": {
+  "animals": {
+   "page": "Fire Dragon Boss",
+   "rev": 37972,
+   "source": "wiki",
+   "value": "Fire Dragon"
+  },
+  "biome": {
+   "page": "Fire Dragon Boss",
+   "rev": 37972,
+   "source": "wiki",
+   "value": "Volcano Biome"
+  },
+  "health": {
+   "page": "Fire Dragon Boss",
+   "rev": 37972,
+   "source": "wiki",
+   "value": 7000
+  },
+  "moves": {
+   "page": "Fire Dragon Boss",
+   "rev": 37972,
+   "source": "wiki",
+   "value": [
+    {
+     "damage": "*50 damage to players, 3-4 per tick *100 damage to tamons, 7-8 per tick",
+     "move": "Meteorite Strike"
+    },
+    {
+     "damage": "25 damage to players, 3-4 per tick",
+     "move": "Fire Laser"
+    },
+    {
+     "damage": "4 damage per tick to players",
+     "move": "Lava Craters"
+    }
+   ]
+  },
+  "name": {
+   "page": "Fire Dragon Boss",
+   "rev": 37972,
+   "source": "wiki",
+   "value": "Fire Dragon Boss"
+  },
+  "type": {
+   "page": "Fire Dragon Boss",
+   "rev": 37972,
+   "source": "wiki",
+   "value": "Fire Dragon"
+  },
+  "xp": {
+   "page": "Fire Dragon Boss",
+   "rev": 37972,
+   "source": "wiki",
+   "value": 4500
+  }
+ },
+ "Giant Gaze": {
+  "animals": {
+   "page": "Giant Gaze",
+   "rev": 38065,
+   "source": "wiki",
+   "value": "Inferno Gaze Infesting Gaze Draconic Gaze Spectral Gaze Punchy Gaze Glacial Gaze and Enchanting Gaze"
+  },
+  "biome": {
+   "page": "Giant Gaze",
+   "rev": 38065,
+   "source": "wiki",
+   "value": "ForestDesertOceanVolcano"
+  },
+  "health": {
+   "page": "Giant Gaze",
+   "rev": 38065,
+   "source": "wiki",
+   "value": 5500
+  },
+  "moves": {
+   "page": "Giant Gaze",
+   "rev": 38065,
+   "source": "wiki",
+   "value": [
+    {
+     "damage": "20 per tick, 15 to tamers",
+     "move": "Earthquake"
+    },
+    {
+     "damage": "50 damage per hit, 100 to Tamons.",
+     "move": "Egg Bombs"
+    }
+   ]
+  },
+  "name": {
+   "page": "Giant Gaze",
+   "rev": 38065,
+   "source": "wiki",
+   "value": "Giant Gaze"
+  },
+  "type": {
+   "page": "Giant Gaze",
+   "rev": 38065,
+   "source": "wiki",
+   "value": "Dragon"
+  },
+  "xp": {
+   "page": "Giant Gaze",
+   "rev": 38065,
+   "source": "wiki",
+   "value": 4500
+  }
+ },
+ "Gold Golem Boss": {
+  "animals": {
+   "page": "Gold Golem Boss",
+   "rev": 37662,
+   "source": "wiki",
+   "value": "Gold Golem (not tamable after fight)"
+  },
+  "biome": {
+   "page": "Gold Golem Boss",
+   "rev": 37662,
+   "source": "wiki",
+   "value": "Forest Biome"
+  },
+  "health": {
+   "page": "Gold Golem Boss",
+   "rev": 37662,
+   "source": "wiki",
+   "value": 40000
+  },
+  "moves": {
+   "page": "Gold Golem Boss",
+   "rev": 37662,
+   "source": "wiki",
+   "value": [
+    {
+     "damage": "75 damage",
+     "move": "Golden Slam"
+    },
+    {
+     "damage": "65 damage",
+     "move": "Gold Meteor"
+    }
+   ]
+  },
+  "name": {
+   "page": "Gold Golem Boss",
+   "rev": 37662,
+   "source": "wiki",
+   "value": "Gold Golem Boss"
+  },
+  "type": {
+   "page": "Gold Golem Boss",
+   "rev": 37662,
+   "source": "wiki",
+   "value": "Rock"
+  },
+  "xp": {
+   "page": "Gold Golem Boss",
+   "rev": 37662,
+   "source": "wiki",
+   "value": 15000
+  }
+ },
+ "Haunted Tree": {
+  "animals": {
+   "page": "Haunted Tree",
+   "rev": 37248,
+   "source": "wiki",
+   "value": "Spectrum Fairy Electric Fairy Poison Fairy"
+  },
+  "biome": {
+   "page": "Haunted Tree",
+   "rev": 37248,
+   "source": "wiki",
+   "value": "Dark Forest"
+  },
+  "health": {
+   "page": "Haunted Tree",
+   "rev": 37248,
+   "source": "wiki",
+   "value": 8000
+  },
+  "moves": {
+   "page": "Haunted Tree",
+   "rev": 37248,
+   "source": "wiki",
+   "value": [
+    {
+     "damage": "60",
+     "move": "Haunted Swing"
+    },
+    {
+     "damage": "3 per tick",
+     "move": "Thorny Bushes"
+    }
+   ]
+  },
+  "name": {
+   "page": "Haunted Tree",
+   "rev": 37248,
+   "source": "wiki",
+   "value": "Haunted Tree"
+  },
+  "type": {
+   "page": "Haunted Tree",
+   "rev": 37248,
+   "source": "wiki",
+   "value": "Plant"
+  },
+  "xp": {
+   "page": "Haunted Tree",
+   "rev": 37248,
+   "source": "wiki",
+   "value": 4500
+  }
+ },
+ "Hive Creep": {
+  "animals": {
+   "page": "Hive Creep",
+   "rev": 33754,
+   "source": "wiki",
+   "value": "Pudgy Shadow Adoring Shadow Savant Shadow Scrappy Shadow Guardian Shadow Digger Shadow"
+  },
+  "biome": {
+   "page": "Hive Creep",
+   "rev": 33754,
+   "source": "wiki",
+   "value": "Dark Forest Biome"
+  },
+  "health": {
+   "page": "Hive Creep",
+   "rev": 33754,
+   "source": "wiki",
+   "value": 2000
+  },
+  "name": {
+   "page": "Hive Creep",
+   "rev": 33754,
+   "source": "wiki",
+   "value": "Hive Creep"
+  },
+  "type": {
+   "page": "Hive Creep",
+   "rev": 33754,
+   "source": "wiki",
+   "value": "Insect"
+  }
+ },
+ "Ice Dragon Boss": {
+  "animals": {
+   "page": "Ice Dragon Boss",
+   "rev": 37767,
+   "source": "wiki",
+   "value": "Ice Dragon"
+  },
+  "biome": {
+   "page": "Ice Dragon Boss",
+   "rev": 37767,
+   "source": "wiki",
+   "value": "Winter Biome"
+  },
+  "health": {
+   "page": "Ice Dragon Boss",
+   "rev": 37767,
+   "source": "wiki",
+   "value": 7000
+  },
+  "moves": {
+   "page": "Ice Dragon Boss",
+   "rev": 37767,
+   "source": "wiki",
+   "value": [
+    {
+     "damage": "6 damage per tick (3 to players)",
+     "move": "Ice Rink"
+    },
+    {
+     "damage": "6-8 damage per tick",
+     "move": "Ice Spikes"
+    }
+   ]
+  },
+  "name": {
+   "page": "Ice Dragon Boss",
+   "rev": 37767,
+   "source": "wiki",
+   "value": "Ice Dragon Boss"
+  },
+  "type": {
+   "page": "Ice Dragon Boss",
+   "rev": 37767,
+   "source": "wiki",
+   "value": "Ice Dragon"
+  },
+  "xp": {
+   "page": "Ice Dragon Boss",
+   "rev": 37767,
+   "source": "wiki",
+   "value": 4500
+  }
+ },
+ "Ice Golem Boss": {
+  "animals": {
+   "page": "Ice Golem Boss",
+   "rev": 35896,
+   "source": "wiki",
+   "value": "Iceberg Ice Golem"
+  },
+  "biome": {
+   "page": "Ice Golem Boss",
+   "rev": 35896,
+   "source": "wiki",
+   "value": "Winter Biome"
+  },
+  "health": {
+   "page": "Ice Golem Boss",
+   "rev": 35896,
+   "source": "wiki",
+   "value": 10000
+  },
+  "moves": {
+   "page": "Ice Golem Boss",
+   "rev": 35896,
+   "source": "wiki",
+   "value": [
+    {
+     "damage": "55 damage",
+     "move": "Boulder Strike"
+    },
+    {
+     "damage": "60 damage",
+     "move": "Frosted Slam"
+    }
+   ]
+  },
+  "name": {
+   "page": "Ice Golem Boss",
+   "rev": 35896,
+   "source": "wiki",
+   "value": "Ice Golem Boss"
+  },
+  "type": {
+   "page": "Ice Golem Boss",
+   "rev": 35896,
+   "source": "wiki",
+   "value": "Ice"
+  },
+  "xp": {
+   "page": "Ice Golem Boss",
+   "rev": 35896,
+   "source": "wiki",
+   "value": 5700
+  }
+ },
+ "Mushroom Boss": {
+  "animals": {
+   "page": "Mushroom Boss",
+   "rev": 36063,
+   "source": "wiki",
+   "value": "Living Mushroom Black Spider White Spider"
+  },
+  "biome": {
+   "page": "Mushroom Boss",
+   "rev": 36063,
+   "source": "wiki",
+   "value": "Dark Forest Biome"
+  },
+  "health": {
+   "page": "Mushroom Boss",
+   "rev": 36063,
+   "source": "wiki",
+   "value": 8500
+  },
+  "moves": {
+   "page": "Mushroom Boss",
+   "rev": 36063,
+   "source": "wiki",
+   "value": [
+    {
+     "damage": "55 damage",
+     "move": "Expulsive Bomb"
+    },
+    {
+     "damage": "20 damage per tick",
+     "move": "Toxic Fog"
+    }
+   ]
+  },
+  "name": {
+   "page": "Mushroom Boss",
+   "rev": 36063,
+   "source": "wiki",
+   "value": "Mushroom Boss"
+  },
+  "type": {
+   "page": "Mushroom Boss",
+   "rev": 36063,
+   "source": "wiki",
+   "value": "Poison"
+  },
+  "xp": {
+   "page": "Mushroom Boss",
+   "rev": 36063,
+   "source": "wiki",
+   "value": 4800
+  }
+ },
+ "Ocean Sanctuary": {
+  "animals": {
+   "page": "Ocean Sanctuary",
+   "rev": 36299,
+   "source": "wiki",
+   "value": "Fire Statue Plant Statue Water Statue and Siren (limited)"
+  },
+  "biome": {
+   "page": "Ocean Sanctuary",
+   "rev": 36299,
+   "source": "wiki",
+   "value": "Ocean"
+  },
+  "name": {
+   "page": "Ocean Sanctuary",
+   "rev": 36299,
+   "source": "wiki",
+   "value": "Ocean Sanctuary"
+  }
+ },
+ "Octopus Boss": {
+  "animals": {
+   "page": "Octopus Boss",
+   "rev": 35908,
+   "source": "wiki",
+   "value": "Octopus"
+  },
+  "biome": {
+   "page": "Octopus Boss",
+   "rev": 35908,
+   "source": "wiki",
+   "value": "Ocean Biome"
+  },
+  "health": {
+   "page": "Octopus Boss",
+   "rev": 35908,
+   "source": "wiki",
+   "value": 9000
+  },
+  "moves": {
+   "page": "Octopus Boss",
+   "rev": 35908,
+   "source": "wiki",
+   "value": [
+    {
+     "damage": "30 damage (6 per tick)",
+     "move": "Ink Bombs"
+    },
+    {
+     "damage": "9 damage per tick",
+     "move": "Atlantean Whirlpool"
+    }
+   ]
+  },
+  "name": {
+   "page": "Octopus Boss",
+   "rev": 35908,
+   "source": "wiki",
+   "value": "Octopus Boss"
+  },
+  "type": {
+   "page": "Octopus Boss",
+   "rev": 35908,
+   "source": "wiki",
+   "value": "Water"
+  },
+  "xp": {
+   "page": "Octopus Boss",
+   "rev": 35908,
+   "source": "wiki",
+   "value": 4800
+  }
+ },
+ "Reaper (Server Restart)": {
+  "biome": {
+   "page": "Reaper (Server Restart)",
+   "rev": 38877,
+   "source": "wiki",
+   "value": "Any"
+  },
+  "health": {
+   "page": "Reaper (Server Restart)",
+   "rev": 38877,
+   "source": "wiki",
+   "value": 2000
+  },
+  "name": {
+   "page": "Reaper (Server Restart)",
+   "rev": 38877,
+   "source": "wiki",
+   "value": "Reaper (Server Restart)"
+  },
+  "type": {
+   "page": "Reaper (Server Restart)",
+   "rev": 38877,
+   "source": "wiki",
+   "value": "Fairy"
+  },
+  "xp": {
+   "page": "Reaper (Server Restart)",
+   "rev": 38877,
+   "source": "wiki",
+   "value": 9999
+  }
+ },
+ "Rock Golem": {
+  "animals": {
+   "page": "Rock Golem",
+   "rev": 37659,
+   "source": "wiki",
+   "value": "Stone Golem Menhir"
+  },
+  "biome": {
+   "page": "Rock Golem",
+   "rev": 37659,
+   "source": "wiki",
+   "value": "Desert Biome"
+  },
+  "health": {
+   "page": "Rock Golem",
+   "rev": 37659,
+   "source": "wiki",
+   "value": 10000
+  },
+  "moves": {
+   "page": "Rock Golem",
+   "rev": 37659,
+   "source": "wiki",
+   "value": [
+    {
+     "damage": "50",
+     "move": "Meteor Strike"
+    },
+    {
+     "damage": "60",
+     "move": "Earthquake Slam"
+    }
+   ]
+  },
+  "name": {
+   "page": "Rock Golem",
+   "rev": 37659,
+   "source": "wiki",
+   "value": "Rock Golem"
+  },
+  "type": {
+   "page": "Rock Golem",
+   "rev": 37659,
+   "source": "wiki",
+   "value": "Rock"
+  },
+  "xp": {
+   "page": "Rock Golem",
+   "rev": 37659,
+   "source": "wiki",
+   "value": 5700
+  }
+ },
+ "Snow Tree Boss": {
+  "animals": {
+   "page": "Snow Tree Boss",
+   "rev": 37250,
+   "source": "wiki",
+   "value": "Combat Fairy Ice Fairy Normal Fairy"
+  },
+  "biome": {
+   "page": "Snow Tree Boss",
+   "rev": 37250,
+   "source": "wiki",
+   "value": "Winter"
+  },
+  "health": {
+   "page": "Snow Tree Boss",
+   "rev": 37250,
+   "source": "wiki",
+   "value": 8000
+  },
+  "moves": {
+   "page": "Snow Tree Boss",
+   "rev": 37250,
+   "source": "wiki",
+   "value": [
+    {
+     "damage": "30 per tick",
+     "move": "Snow Avalanche"
+    },
+    {
+     "damage": "Damage can vary from 12, 25, or 37. Dot 2-3",
+     "move": "Falling Trees"
+    }
+   ]
+  },
+  "name": {
+   "page": "Snow Tree Boss",
+   "rev": 37250,
+   "source": "wiki",
+   "value": "Snow Tree Boss"
+  },
+  "type": {
+   "page": "Snow Tree Boss",
+   "rev": 37250,
+   "source": "wiki",
+   "value": "Ice"
+  },
+  "xp": {
+   "page": "Snow Tree Boss",
+   "rev": 37250,
+   "source": "wiki",
+   "value": 4500
+  }
+ },
+ "Spectrum Boss": {
+  "animals": {
+   "page": "Spectrum Boss",
+   "rev": 36382,
+   "source": "wiki",
+   "value": "Spectrum"
+  },
+  "biome": {
+   "page": "Spectrum Boss",
+   "rev": 36382,
+   "source": "wiki",
+   "value": "Dark Forest Biome"
+  },
+  "health": {
+   "page": "Spectrum Boss",
+   "rev": 36382,
+   "source": "wiki",
+   "value": 7500
+  },
+  "moves": {
+   "page": "Spectrum Boss",
+   "rev": 36382,
+   "source": "wiki",
+   "value": [
+    {
+     "damage": "10, 20, or 30 damage (more damage the larger the orb)",
+     "move": "Spectral Orbs"
+    },
+    {
+     "damage": "6-12 damage per tick",
+     "move": "Black Hole"
+    }
+   ]
+  },
+  "name": {
+   "page": "Spectrum Boss",
+   "rev": 36382,
+   "source": "wiki",
+   "value": "Spectrum Boss"
+  },
+  "type": {
+   "page": "Spectrum Boss",
+   "rev": 36382,
+   "source": "wiki",
+   "value": "Spectrum"
+  },
+  "xp": {
+   "page": "Spectrum Boss",
+   "rev": 36382,
+   "source": "wiki",
+   "value": 4200
+  }
+ },
+ "Tree Boss": {
+  "animals": {
+   "page": "Tree Boss",
+   "rev": 38657,
+   "source": "wiki",
+   "value": "Fire Fairy Water Fairy Plant Fairy"
+  },
+  "biome": {
+   "page": "Tree Boss",
+   "rev": 38657,
+   "source": "wiki",
+   "value": "Forest"
+  },
+  "health": {
+   "page": "Tree Boss",
+   "rev": 38657,
+   "source": "wiki",
+   "value": 8000
+  },
+  "moves": {
+   "page": "Tree Boss",
+   "rev": 38657,
+   "source": "wiki",
+   "value": [
+    {
+     "damage": "60 damage",
+     "move": "Swing"
+    },
+    {
+     "damage": "12 damage per tick (6 to players)",
+     "move": "Vampiric Thornbush"
+    }
+   ]
+  },
+  "name": {
+   "page": "Tree Boss",
+   "rev": 38657,
+   "source": "wiki",
+   "value": "Tree Boss"
+  },
+  "type": {
+   "page": "Tree Boss",
+   "rev": 38657,
+   "source": "wiki",
+   "value": "Plant"
+  },
+  "xp": {
+   "page": "Tree Boss",
+   "rev": 38657,
+   "source": "wiki",
+   "value": 4500
+  }
+ },
+ "Turkey Egg": {
+  "biome": {
+   "page": "Turkey Egg",
+   "rev": 36763,
+   "source": "wiki",
+   "value": "Forest Biome"
+  },
+  "health": {
+   "page": "Turkey Egg",
+   "rev": 36763,
+   "source": "wiki",
+   "value": 3500
+  },
+  "name": {
+   "page": "Turkey Egg",
+   "rev": 36763,
+   "source": "wiki",
+   "value": "Turkey Egg"
+  },
+  "type": {
+   "page": "Turkey Egg",
+   "rev": 36763,
+   "source": "wiki",
+   "value": "Plant"
+  },
+  "xp": {
+   "page": "Turkey Egg",
+   "rev": 36763,
+   "source": "wiki",
+   "value": 4000
+  }
+ },
+ "Volcanic Golem Boss": {
+  "animals": {
+   "page": "Volcanic Golem Boss",
+   "rev": 38636,
+   "source": "wiki",
+   "value": "Volcanic Golem Lava Golem Mantle"
+  },
+  "biome": {
+   "page": "Volcanic Golem Boss",
+   "rev": 38636,
+   "source": "wiki",
+   "value": "Volcano"
+  },
+  "health": {
+   "page": "Volcanic Golem Boss",
+   "rev": 38636,
+   "source": "wiki",
+   "value": 10000
+  },
+  "moves": {
+   "page": "Volcanic Golem Boss",
+   "rev": 38636,
+   "source": "wiki",
+   "value": [
+    {
+     "damage": "50 damage (5 burn damage)",
+     "move": "Lava Meteor"
+    },
+    {
+     "damage": "65 damage (5 burn damage)",
+     "move": "Fist of Fire"
+    }
+   ]
+  },
+  "name": {
+   "page": "Volcanic Golem Boss",
+   "rev": 38636,
+   "source": "wiki",
+   "value": "Volcanic Golem Boss"
+  },
+  "type": {
+   "page": "Volcanic Golem Boss",
+   "rev": 38636,
+   "source": "wiki",
+   "value": "Rock Fire"
+  },
+  "xp": {
+   "page": "Volcanic Golem Boss",
+   "rev": 38636,
+   "source": "wiki",
+   "value": 5700
+  }
+ }
+}

@@ -1,0 +1,86 @@
+/* Define correct color filter with: https://codepen.io/sosuke/pen/Pjoqqp */
+.biscuit_color_taming { filter: invert(19%) sepia(22%) saturate(355%) hue-rotate(344deg) brightness(92%) contrast(93%); }
+.biscuit_color_tyran { filter: invert(15%) sepia(35%) saturate(360%) hue-rotate(155deg) brightness(98%) contrast(89%); }
+.biscuit_color_catac { }
+.biscuit_color_white { filter: invert(100%); }
+.biscuit_color_black {}
+.biscuit_color_craft { filter: invert(4%) sepia(7%) saturate(3799%) hue-rotate(180deg) brightness(98%) contrast(97%); }
+.biscuit_color_transparent { opacity: 0; }
+
+.biscuit {
+	position:absolute;
+	height:20px;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+
+	-webkit-user-drag: none;
+	-khtml-user-drag: none;
+	-moz-user-drag: none;
+	-o-user-drag: none;
+	user-drag: none;
+}
+
+.biscuit_position {
+	position:absolute;
+	bottom:10px;
+	right:0px;
+	width:36px;
+	height:43px;
+	padding-left:8px;
+	padding-top:3px;
+
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+
+	-webkit-user-drag: none;
+	-khtml-user-drag: none;
+	-moz-user-drag: none;
+	-o-user-drag: none;
+	user-drag: none;
+}
+
+.biscuit_hover {
+	transition: 200ms all;
+	transform-origin: center;
+}
+
+.biscuit_hover:hover {
+
+	transform: scale(1.1);
+	cursor:pointer;
+}
+
+@keyframes biscuit_rotate {
+	0% {
+		transform: rotate(10deg);
+	}
+	50%	{
+		transform: rotate(-10deg);
+	}
+
+	100% {
+		transform: rotate(10deg);
+	}
+}
+
+@keyframes biscuit_message {
+	5% {
+		opacity: 0;
+	}
+	6.5% {
+		opacity: 1;
+		transform: scale(1);
+	}
+	7.5% { transform: rotate(3deg); }
+	8.5% { transform: rotate(-3deg); }
+	9.5% { transform: rotate(0deg); }
+	15% {
+		opacity: 1;
+		transform: scale(1);
+	}
+	16.5% { opacity: 0; }
+}

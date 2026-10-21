@@ -1,0 +1,27 @@
+# systemd unit. Copy to /etc/systemd/system/tio-offline.service, fix the paths and User,
+# then: systemctl daemon-reload && systemctl enable --now tio-offline
+[Unit]
+Description=Offline taming game server (local only, no outbound connections)
+After=network.target
+
+[Service]
+Type=simple
+User=tio
+WorkingDirectory=/opt/tio_offline_server
+Environment=PORT=8920 BIND=127.0.0.1 MODE=multi LOG_DIR=/opt/tio_offline_server/logs/hosted
+ExecStartPre=/usr/bin/node /opt/tio_offline_server/mimic/hosted_server.js --selftest-outbound
+ExecStart=/usr/bin/node /opt/tio_offline_server/mimic/hosted_server.js
+Restart=always
+RestartSec=3
+NoNewPrivileges=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/opt/tio_offline_server/logs
+PrivateTmp=true
+RestrictAddressFamilies=AF_INET AF_INET6 AF_UNIX
+# The server only listens on loopback; this also stops the kernel from letting it reach anything else.
+IPAddressDeny=any
+IPAddressAllow=localhost
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,8 @@
+# Caddy terminates TLS and forwards to the game server on loopback.
+# Caddy sets X-Forwarded-For to the real client address (it ignores a client-sent one unless
+# trusted_proxies is set), X-Forwarded-Proto and Host, which the server uses for same-origin
+# rewriting and per-IP limits. WebSocket upgrades pass through reverse_proxy as-is.
+play.example.com {
+	encode zstd gzip
+	reverse_proxy 127.0.0.1:8920
+}

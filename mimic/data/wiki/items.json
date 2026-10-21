@@ -1,0 +1,8035 @@
+{
+ "Amethyst Axe": {
+  "animal_damage": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 62
+  },
+  "building_damage": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 30
+  },
+  "food_harvest": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 4
+  },
+  "gold_harvest": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 4
+  },
+  "knockback": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 100
+  },
+  "name": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": "Amethyst Axe"
+  },
+  "player_damage": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 37
+  },
+  "range": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 65
+  },
+  "reload_s": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 0.92
+  },
+  "section": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 75
+  },
+  "stone_harvest": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 4
+  },
+  "tier": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": "Amethyst"
+  },
+  "wood_harvest": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 16
+  }
+ },
+ "Amethyst Blowpipe": {
+  "animal_damage": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": 7
+  },
+  "building_damage": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": 1
+  },
+  "fairy_damage": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": 10
+  },
+  "name": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": "Amethyst Blowpipe"
+  },
+  "player_damage": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": 7
+  },
+  "recipe": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": {
+    "food": 7,
+    "wood": 14
+   }
+  },
+  "reload_s": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": 1.45
+  },
+  "section": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": 70
+  },
+  "tier": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": "Amethyst"
+  }
+ },
+ "Amethyst Bow": {
+  "animal_damage": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": 42
+  },
+  "building_damage": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": 5
+  },
+  "fairy_damage": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": 63
+  },
+  "name": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": "Amethyst Bow"
+  },
+  "player_damage": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": 28
+  },
+  "recipe": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": {
+    "wood": 8
+   }
+  },
+  "reload_s": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": 1.2
+  },
+  "section": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": 70
+  },
+  "tier": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": "Amethyst"
+  }
+ },
+ "Amethyst Cleavers": {
+  "animal_damage": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 28
+  },
+  "building_damage": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 9
+  },
+  "food_harvest": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 4
+  },
+  "gold_harvest": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 2
+  },
+  "knockback": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 35
+  },
+  "name": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": "Amethyst Cleavers"
+  },
+  "player_damage": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 14
+  },
+  "range": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 55
+  },
+  "reload_s": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 0.4
+  },
+  "section": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 82
+  },
+  "stone_harvest": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 2
+  },
+  "tier": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": "Amethyst"
+  },
+  "wood_harvest": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 2
+  }
+ },
+ "Amethyst Crossbow": {
+  "animal_damage": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": 45
+  },
+  "building_damage": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": 5
+  },
+  "fairy_damage": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": 67
+  },
+  "name": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": "Amethyst Crossbow"
+  },
+  "player_damage": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": 30
+  },
+  "recipe": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": {
+    "wood": 14
+   }
+  },
+  "reload_s": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": 1.55
+  },
+  "section": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": "Amethyst"
+  }
+ },
+ "Amethyst Crystal Shield": {
+  "building_damage": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": 1
+  },
+  "damage": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": 4
+  },
+  "knockback": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": 145
+  },
+  "magic_protection": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": 75
+  },
+  "name": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": "Amethyst Crystal Shield"
+  },
+  "protection": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": 40
+  },
+  "range": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": 30
+  },
+  "reload_s": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": 0.5
+  },
+  "section": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": 65
+  },
+  "tier": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": "Amethyst"
+  }
+ },
+ "Amethyst Daggers": {
+  "building_damage": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": 9
+  },
+  "damage": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": 16
+  },
+  "knockback": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": 35
+  },
+  "name": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": "Amethyst Daggers"
+  },
+  "range": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": 55
+  },
+  "reload_s": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": 0.3
+  },
+  "section": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": 86
+  },
+  "tier": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": "Amethyst"
+  }
+ },
+ "Amethyst Gloves": {
+  "animal_damage": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 32
+  },
+  "building_damage": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 22
+  },
+  "damage": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 26
+  },
+  "food_harvest": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 3
+  },
+  "gold_harvest": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 3
+  },
+  "knockback": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 50
+  },
+  "knockout_chance": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 25
+  },
+  "name": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": "Amethyst Gloves"
+  },
+  "range": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 30
+  },
+  "reload_s": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 0.6
+  },
+  "section": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 92
+  },
+  "stone_harvest": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 3
+  },
+  "tier": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": "Amethyst"
+  },
+  "wood_harvest": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 3
+  }
+ },
+ "Amethyst Hammer": {
+  "building_damage": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 35
+  },
+  "damage": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 22
+  },
+  "food_harvest": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 6
+  },
+  "gold_harvest": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 10
+  },
+  "name": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": "Amethyst Hammer"
+  },
+  "range": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 60
+  },
+  "reload_s": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 0.55
+  },
+  "section": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 92
+  },
+  "stone_harvest": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 14
+  },
+  "tier": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": "Amethyst"
+  },
+  "wood_harvest": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 6
+  }
+ },
+ "Amethyst Katana": {
+  "building_damage": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 15
+  },
+  "damage": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 43
+  },
+  "food_harvest": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 5
+  },
+  "gold_harvest": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 5
+  },
+  "knockback": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 135
+  },
+  "name": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": "Amethyst Katana"
+  },
+  "range": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 70
+  },
+  "reload_s": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 0.95
+  },
+  "section": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 70
+  },
+  "stone_harvest": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 5
+  },
+  "tier": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": "Amethyst"
+  },
+  "wood_harvest": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 5
+  }
+ },
+ "Amethyst Labrys": {
+  "animal_damage": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 58
+  },
+  "building_damage": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 30
+  },
+  "food_harvest": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 4
+  },
+  "gold_harvest": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 4
+  },
+  "knockback": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 120
+  },
+  "name": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": "Amethyst Labrys"
+  },
+  "player_damage": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 49
+  },
+  "range": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 0
+  },
+  "reload_s": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 1.28
+  },
+  "section": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 75
+  },
+  "stone_harvest": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 4
+  },
+  "tier": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": "Amethyst"
+  },
+  "wood_harvest": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 14
+  }
+ },
+ "Amethyst Minigun": {
+  "animal_damage": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": 9
+  },
+  "building_damage": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": 8
+  },
+  "fairy_damage": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": 14
+  },
+  "name": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": "Amethyst Minigun"
+  },
+  "player_damage": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": 6
+  },
+  "recipe": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": {
+    "gold": 8,
+    "stone": 5
+   }
+  },
+  "reload_s": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": 0.08
+  },
+  "section": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": 45
+  },
+  "tier": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": "Amethyst"
+  }
+ },
+ "Amethyst Musket": {
+  "animal_damage": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": 17
+  },
+  "building_damage": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": 5
+  },
+  "fairy_damage": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": 26
+  },
+  "name": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": "Amethyst Musket"
+  },
+  "player_damage": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": 22
+  },
+  "recipe": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": {
+    "gold": 8,
+    "stone": 12
+   }
+  },
+  "reload_s": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": 0.9
+  },
+  "section": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": 75
+  },
+  "tier": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": "Amethyst"
+  }
+ },
+ "Amethyst Naginata": {
+  "animal_damage": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 54
+  },
+  "building_damage": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 24
+  },
+  "gold_harvest": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 4
+  },
+  "knockback": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 140
+  },
+  "name": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": "Amethyst Naginata"
+  },
+  "player_damage": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 39
+  },
+  "range": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 235
+  },
+  "reload_s": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 1.1
+  },
+  "section": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 68
+  },
+  "stone_harvest": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 4
+  },
+  "tier": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": "Amethyst"
+  },
+  "wood_harvest": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 4
+  }
+ },
+ "Amethyst Pickaxe": {
+  "building_damage": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 30
+  },
+  "damage": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 32
+  },
+  "food_harvest": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 10
+  },
+  "gold_harvest": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 17
+  },
+  "name": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": "Amethyst Pickaxe"
+  },
+  "range": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 60
+  },
+  "reload_s": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 0.8
+  },
+  "section": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 76
+  },
+  "stone_harvest": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 21
+  },
+  "tier": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": "Amethyst"
+  },
+  "wood_harvest": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 10
+  }
+ },
+ "Amethyst Shield": {
+  "building_damage": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": 1
+  },
+  "damage": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": 4
+  },
+  "knockback": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": 145
+  },
+  "name": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": "Amethyst Shield"
+  },
+  "protection": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": 65
+  },
+  "range": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": 30
+  },
+  "reload_s": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": 0.5
+  },
+  "section": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": "Statistics"
+  },
+  "speed": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": 65
+  },
+  "tier": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": "Amethyst"
+  }
+ },
+ "Amethyst Spear": {
+  "building_damage": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 16
+  },
+  "damage": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 30
+  },
+  "gold_harvest": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 3
+  },
+  "knockback": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 125
+  },
+  "name": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": "Amethyst Spear"
+  },
+  "range": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 100
+  },
+  "reload_s": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 0.8
+  },
+  "section": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 79
+  },
+  "stone_harvest": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 2
+  },
+  "tier": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": "Amethyst"
+  },
+  "wood_harvest": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 2
+  }
+ },
+ "Amethyst Sword": {
+  "building_damage": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 12
+  },
+  "damage": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 40
+  },
+  "food_harvest": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 2
+  },
+  "gold_harvest": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 2
+  },
+  "knockback": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 75
+  },
+  "name": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": "Amethyst Sword"
+  },
+  "range": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 70
+  },
+  "reload_s": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 0.75
+  },
+  "section": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 80
+  },
+  "stone_harvest": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 2
+  },
+  "tier": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": "Amethyst"
+  },
+  "wood_harvest": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 2
+  }
+ },
+ "Amethyst Wrench": {
+  "damage": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": 14
+  },
+  "knockback": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": 105
+  },
+  "name": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": "Amethyst Wrench"
+  },
+  "range": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": 60
+  },
+  "recipe": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": {
+    "gold": 1,
+    "stone": 7
+   }
+  },
+  "reload_s": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": 0.7
+  },
+  "repair": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": 140
+  },
+  "section": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": "Amethyst"
+  }
+ },
+ "Apple (Resource)": {
+  "dark_image": {
+   "page": "Apple (Resource)",
+   "rev": 35106,
+   "source": "wiki",
+   "value": "Giant-mushroom-purple0.png"
+  },
+  "desert_image": {
+   "page": "Apple (Resource)",
+   "rev": 35106,
+   "source": "wiki",
+   "value": "Desert-bush0.png"
+  },
+  "forest_image": {
+   "page": "Apple (Resource)",
+   "rev": 35106,
+   "source": "wiki",
+   "value": "Bush0.png"
+  },
+  "health": {
+   "page": "Apple (Resource)",
+   "rev": 35106,
+   "source": "wiki",
+   "value": "indefinite"
+  },
+  "infobox": {
+   "page": "Apple (Resource)",
+   "rev": 35106,
+   "source": "wiki",
+   "value": "resource infobox"
+  },
+  "name": {
+   "page": "Apple (Resource)",
+   "rev": 35106,
+   "source": "wiki",
+   "value": "Apple (Resource)"
+  },
+  "ocean_image": {
+   "page": "Apple (Resource)",
+   "rev": 35106,
+   "source": "wiki",
+   "value": "Sea-bush0.png"
+  },
+  "title": {
+   "page": "Apple (Resource)",
+   "rev": 35106,
+   "source": "wiki",
+   "value": "Apples"
+  },
+  "winter_image": {
+   "page": "Apple (Resource)",
+   "rev": 35106,
+   "source": "wiki",
+   "value": "snow-bush0.png"
+  }
+ },
+ "Apple (item) Instant Healing": {
+  "heal": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 10
+  },
+  "name": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Apple (item) Instant Healing"
+  },
+  "recipe": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": {
+    "food": 5
+   }
+  },
+  "reload_s": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 0.35
+  },
+  "section": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Instant Healing"
+  },
+  "speed": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Apple (item)"
+  }
+ },
+ "Appletor": {
+  "animal_heal": {
+   "page": "Appletors",
+   "rev": 37023,
+   "source": "wiki",
+   "value": 20
+  },
+  "name": {
+   "page": "Appletors",
+   "rev": 37023,
+   "source": "wiki",
+   "value": "Appletor"
+  },
+  "player_heal": {
+   "page": "Appletors",
+   "rev": 37023,
+   "source": "wiki",
+   "value": 10
+  },
+  "recipe": {
+   "page": "Appletors",
+   "rev": 37023,
+   "source": "wiki",
+   "value": {
+    "food": 5,
+    "gold": 0
+   }
+  },
+  "reload_s": {
+   "page": "Appletors",
+   "rev": 37023,
+   "source": "wiki",
+   "value": 0.7
+  },
+  "section": {
+   "page": "Appletors",
+   "rev": 37023,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Appletors",
+   "rev": 37023,
+   "source": "wiki",
+   "value": 65
+  },
+  "taming_chance": {
+   "page": "Appletors",
+   "rev": 37023,
+   "source": "wiki",
+   "value": "+1%"
+  },
+  "tier": {
+   "page": "Appletors",
+   "rev": 37023,
+   "source": "wiki",
+   "value": "Appletor"
+  }
+ },
+ "Battle Saddle": {
+  "damage": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": "1.2x"
+  },
+  "heal_ot": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": 0
+  },
+  "name": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": "Battle Saddle"
+  },
+  "protection": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": 0
+  },
+  "section": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "skill_damage": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": "1x"
+  },
+  "speed": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": 60
+  },
+  "speed_bonus": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": 0
+  },
+  "tier": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": "Battle Saddle"
+  }
+ },
+ "Biscuit Speed Buff": {
+  "heal": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 12
+  },
+  "name": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Biscuit Speed Buff"
+  },
+  "recipe": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": {
+    "food": 12
+   }
+  },
+  "reload_s": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 0.35
+  },
+  "section": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Speed Buff"
+  },
+  "speed": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 60
+  },
+  "speed_bonus": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 10
+  },
+  "tier": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Biscuit"
+  }
+ },
+ "Blowpipe": {
+  "infobox": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": "weaponinfobox"
+  },
+  "name": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": "Blowpipe"
+  }
+ },
+ "Bows": {
+  "infobox": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": "weaponinfobox"
+  },
+  "name": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": "Bows"
+  }
+ },
+ "Bug Net": {
+  "building_damage": {
+   "page": "Bug Nets",
+   "rev": 37854,
+   "source": "wiki",
+   "value": 2
+  },
+  "damage": {
+   "page": "Bug Nets",
+   "rev": 37854,
+   "source": "wiki",
+   "value": 10
+  },
+  "knockback": {
+   "page": "Bug Nets",
+   "rev": 37854,
+   "source": "wiki",
+   "value": 10
+  },
+  "name": {
+   "page": "Bug Nets",
+   "rev": 37854,
+   "source": "wiki",
+   "value": "Bug Net"
+  },
+  "range": {
+   "page": "Bug Nets",
+   "rev": 37854,
+   "source": "wiki",
+   "value": 100
+  },
+  "reload_s": {
+   "page": "Bug Nets",
+   "rev": 37854,
+   "source": "wiki",
+   "value": 0.8
+  },
+  "section": {
+   "page": "Bug Nets",
+   "rev": 37854,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Bug Nets",
+   "rev": 37854,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Bug Nets",
+   "rev": 37854,
+   "source": "wiki",
+   "value": "Bug Net"
+  }
+ },
+ "Cake Instant Healing": {
+  "heal": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 22
+  },
+  "name": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Cake Instant Healing"
+  },
+  "recipe": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": {
+    "food": 15
+   }
+  },
+  "reload_s": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 0.35
+  },
+  "section": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Instant Healing"
+  },
+  "speed": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Cake"
+  }
+ },
+ "Cookie Instant Healing": {
+  "heal": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 12
+  },
+  "name": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Cookie Instant Healing"
+  },
+  "recipe": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": {
+    "food": 8
+   }
+  },
+  "reload_s": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 0.35
+  },
+  "section": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Instant Healing"
+  },
+  "speed": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Cookie"
+  }
+ },
+ "Croissant Instant Healing": {
+  "heal": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 15
+  },
+  "name": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Croissant Instant Healing"
+  },
+  "recipe": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": {
+    "food": 10
+   }
+  },
+  "reload_s": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 0.35
+  },
+  "section": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Instant Healing"
+  },
+  "speed": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Croissant"
+  }
+ },
+ "Crystal Saddle": {
+  "damage": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": "1x"
+  },
+  "heal_ot": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": 0
+  },
+  "name": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": "Crystal Saddle"
+  },
+  "protection": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": 0
+  },
+  "section": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "skill_damage": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": "1x"
+  },
+  "speed": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": 60
+  },
+  "speed_bonus": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": 0
+  },
+  "tier": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": "Crystal Saddle"
+  }
+ },
+ "Eggs Defense Buff": {
+  "heal": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 14
+  },
+  "heal_shield": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 15
+  },
+  "name": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Eggs Defense Buff"
+  },
+  "recipe": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": {
+    "food": 14
+   }
+  },
+  "reload_s": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 0.35
+  },
+  "section": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Defense Buff"
+  },
+  "speed": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Eggs"
+  }
+ },
+ "Gold": {
+  "dark_health": {
+   "page": "Gold",
+   "rev": 38803,
+   "source": "wiki",
+   "value": "indefinite"
+  },
+  "dark_image": {
+   "page": "Gold",
+   "rev": 38803,
+   "source": "wiki",
+   "value": "dark-gold0.png"
+  },
+  "desert_health": {
+   "page": "Gold",
+   "rev": 38803,
+   "source": "wiki",
+   "value": "indefinite"
+  },
+  "desert_image": {
+   "page": "Gold",
+   "rev": 38803,
+   "source": "wiki",
+   "value": "Desert-gold0.png"
+  },
+  "forest_health": {
+   "page": "Gold",
+   "rev": 38803,
+   "source": "wiki",
+   "value": "indefinite"
+  },
+  "forest_image": {
+   "page": "Gold",
+   "rev": 38803,
+   "source": "wiki",
+   "value": "Gold0.png"
+  },
+  "health": {
+   "page": "Gold",
+   "rev": 38803,
+   "source": "wiki",
+   "value": "indefinite"
+  },
+  "infobox": {
+   "page": "Gold",
+   "rev": 38803,
+   "source": "wiki",
+   "value": "resource infobox"
+  },
+  "name": {
+   "page": "Gold",
+   "rev": 38803,
+   "source": "wiki",
+   "value": "Gold"
+  },
+  "ocean_health": {
+   "page": "Gold",
+   "rev": 38803,
+   "source": "wiki",
+   "value": "indefinite"
+  },
+  "ocean_image": {
+   "page": "Gold",
+   "rev": 38803,
+   "source": "wiki",
+   "value": "sea-gold0.png"
+  },
+  "title": {
+   "page": "Gold",
+   "rev": 38803,
+   "source": "wiki",
+   "value": "Gold"
+  },
+  "volcanic_image": {
+   "page": "Gold",
+   "rev": 38803,
+   "source": "wiki",
+   "value": "volcanic-gold0.png"
+  },
+  "winter_health": {
+   "page": "Gold",
+   "rev": 38803,
+   "source": "wiki",
+   "value": "indefinite"
+  },
+  "winter_image": {
+   "page": "Gold",
+   "rev": 38803,
+   "source": "wiki",
+   "value": "snow-gold0.png"
+  }
+ },
+ "Golden Appletor": {
+  "animal_heal": {
+   "page": "Appletors",
+   "rev": 37023,
+   "source": "wiki",
+   "value": 40
+  },
+  "name": {
+   "page": "Appletors",
+   "rev": 37023,
+   "source": "wiki",
+   "value": "Golden Appletor"
+  },
+  "player_heal": {
+   "page": "Appletors",
+   "rev": 37023,
+   "source": "wiki",
+   "value": 20
+  },
+  "recipe": {
+   "page": "Appletors",
+   "rev": 37023,
+   "source": "wiki",
+   "value": {
+    "food": 10,
+    "gold": 50
+   }
+  },
+  "reload_s": {
+   "page": "Appletors",
+   "rev": 37023,
+   "source": "wiki",
+   "value": 0.8
+  },
+  "section": {
+   "page": "Appletors",
+   "rev": 37023,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Appletors",
+   "rev": 37023,
+   "source": "wiki",
+   "value": 55
+  },
+  "taming_chance": {
+   "page": "Appletors",
+   "rev": 37023,
+   "source": "wiki",
+   "value": "+1%"
+  },
+  "tier": {
+   "page": "Appletors",
+   "rev": 37023,
+   "source": "wiki",
+   "value": "Golden Appletor"
+  }
+ },
+ "Golden Axe": {
+  "animal_damage": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 51
+  },
+  "building_damage": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 20
+  },
+  "food_harvest": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 2
+  },
+  "gold_harvest": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 2
+  },
+  "knockback": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 95
+  },
+  "name": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": "Golden Axe"
+  },
+  "player_damage": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 30
+  },
+  "range": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 65
+  },
+  "reload_s": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 0.84
+  },
+  "section": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 80
+  },
+  "stone_harvest": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 2
+  },
+  "tier": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": "Golden"
+  },
+  "wood_harvest": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 10
+  }
+ },
+ "Golden Blowpipe": {
+  "animal_damage": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": 5
+  },
+  "building_damage": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": 1
+  },
+  "fairy_damage": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": 7
+  },
+  "name": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": "Golden Blowpipe"
+  },
+  "player_damage": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": 5
+  },
+  "recipe": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": {
+    "food": 5,
+    "wood": 10
+   }
+  },
+  "reload_s": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": 1.55
+  },
+  "section": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": 75
+  },
+  "tier": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": "Golden"
+  }
+ },
+ "Golden Bow": {
+  "animal_damage": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": 27
+  },
+  "building_damage": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": 3
+  },
+  "fairy_damage": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": 40
+  },
+  "name": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": "Golden Bow"
+  },
+  "player_damage": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": 18
+  },
+  "recipe": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": {
+    "wood": 6
+   }
+  },
+  "reload_s": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": 1.3
+  },
+  "section": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": 75
+  },
+  "tier": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": "Golden"
+  }
+ },
+ "Golden Bug Net": {
+  "building_damage": {
+   "page": "Bug Nets",
+   "rev": 37854,
+   "source": "wiki",
+   "value": 2
+  },
+  "damage": {
+   "page": "Bug Nets",
+   "rev": 37854,
+   "source": "wiki",
+   "value": 10
+  },
+  "knockback": {
+   "page": "Bug Nets",
+   "rev": 37854,
+   "source": "wiki",
+   "value": 10
+  },
+  "name": {
+   "page": "Bug Nets",
+   "rev": 37854,
+   "source": "wiki",
+   "value": "Golden Bug Net"
+  },
+  "range": {
+   "page": "Bug Nets",
+   "rev": 37854,
+   "source": "wiki",
+   "value": 135
+  },
+  "reload_s": {
+   "page": "Bug Nets",
+   "rev": 37854,
+   "source": "wiki",
+   "value": 0.8
+  },
+  "section": {
+   "page": "Bug Nets",
+   "rev": 37854,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Bug Nets",
+   "rev": 37854,
+   "source": "wiki",
+   "value": 55
+  },
+  "tier": {
+   "page": "Bug Nets",
+   "rev": 37854,
+   "source": "wiki",
+   "value": "Golden Bug Net"
+  }
+ },
+ "Golden Cleavers": {
+  "animal_damage": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 14
+  },
+  "building_damage": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 5
+  },
+  "food_harvest": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 3
+  },
+  "knockback": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 30
+  },
+  "name": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": "Golden Cleavers"
+  },
+  "player_damage": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 10
+  },
+  "range": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 55
+  },
+  "reload_s": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 0.4
+  },
+  "section": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 85
+  },
+  "tier": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": "Golden"
+  },
+  "wood_harvest": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 2
+  }
+ },
+ "Golden Crossbow": {
+  "animal_damage": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": 30
+  },
+  "building_damage": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": 3
+  },
+  "fairy_damage": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": 45
+  },
+  "name": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": "Golden Crossbow"
+  },
+  "player_damage": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": 20
+  },
+  "recipe": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": {
+    "wood": 10
+   }
+  },
+  "reload_s": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": 1.6
+  },
+  "section": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": 65
+  },
+  "tier": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": "Golden"
+  }
+ },
+ "Golden Crystal Shield": {
+  "building_damage": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": 1
+  },
+  "damage": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": 2
+  },
+  "knockback": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": 140
+  },
+  "magic_protection": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": 55
+  },
+  "name": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": "Golden Crystal Shield"
+  },
+  "protection": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": 19
+  },
+  "range": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": 30
+  },
+  "reload_s": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": 0.5
+  },
+  "section": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": 70
+  },
+  "tier": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": "Golden"
+  }
+ },
+ "Golden Daggers": {
+  "building_damage": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": 5
+  },
+  "damage": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": 12
+  },
+  "knockback": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": 30
+  },
+  "name": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": "Golden Daggers"
+  },
+  "range": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": 55
+  },
+  "reload_s": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": 0.3
+  },
+  "section": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": 89
+  },
+  "tier": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": "Golden"
+  }
+ },
+ "Golden Gloves": {
+  "animal_damage": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 22
+  },
+  "building_damage": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 14
+  },
+  "damage": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 18
+  },
+  "food_harvest": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 3
+  },
+  "gold_harvest": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 3
+  },
+  "knockback": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 50
+  },
+  "knockout_chance": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 25
+  },
+  "name": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": "Golden Gloves"
+  },
+  "range": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 30
+  },
+  "reload_s": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 0.6
+  },
+  "section": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 96
+  },
+  "stone_harvest": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 3
+  },
+  "tier": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": "Golden"
+  },
+  "wood_harvest": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 3
+  }
+ },
+ "Golden Hammer": {
+  "building_damage": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 25
+  },
+  "damage": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 14
+  },
+  "food_harvest": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 4
+  },
+  "gold_harvest": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 6
+  },
+  "name": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": "Golden Hammer"
+  },
+  "range": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 60
+  },
+  "reload_s": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 0.5
+  },
+  "section": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 94
+  },
+  "stone_harvest": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 8
+  },
+  "tier": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": "Golden"
+  },
+  "wood_harvest": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 4
+  }
+ },
+ "Golden Katana": {
+  "building_damage": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 8
+  },
+  "damage": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 36
+  },
+  "food_harvest": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 3
+  },
+  "gold_harvest": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 3
+  },
+  "knockback": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 125
+  },
+  "name": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": "Golden Katana"
+  },
+  "range": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 70
+  },
+  "reload_s": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 0.95
+  },
+  "section": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 70
+  },
+  "stone_harvest": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 3
+  },
+  "tier": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": "Golden"
+  },
+  "wood_harvest": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 3
+  }
+ },
+ "Golden Labrys": {
+  "animal_damage": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 46
+  },
+  "building_damage": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 20
+  },
+  "food_harvest": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 2
+  },
+  "gold_harvest": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 2
+  },
+  "knockback": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 120
+  },
+  "name": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": "Golden Labrys"
+  },
+  "player_damage": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 39
+  },
+  "range": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 0
+  },
+  "reload_s": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 1.25
+  },
+  "section": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 80
+  },
+  "stone_harvest": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 2
+  },
+  "tier": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": "Golden"
+  },
+  "wood_harvest": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 10
+  }
+ },
+ "Golden Minigun": {
+  "animal_damage": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": 6
+  },
+  "building_damage": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": 5
+  },
+  "fairy_damage": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": 9
+  },
+  "name": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": "Golden Minigun"
+  },
+  "player_damage": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": 4
+  },
+  "recipe": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": {
+    "gold": 4,
+    "stone": 4
+   }
+  },
+  "reload_s": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": 0.08
+  },
+  "section": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": 55
+  },
+  "tier": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": "Golden"
+  }
+ },
+ "Golden Musket": {
+  "animal_damage": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": 14
+  },
+  "building_damage": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": 3
+  },
+  "fairy_damage": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": 21
+  },
+  "name": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": "Golden Musket"
+  },
+  "player_damage": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": 18
+  },
+  "recipe": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": {
+    "gold": 4,
+    "stone": 10
+   }
+  },
+  "reload_s": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": 1
+  },
+  "section": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": 80
+  },
+  "tier": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": "Golden"
+  }
+ },
+ "Golden Naginata": {
+  "animal_damage": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 49
+  },
+  "building_damage": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 20
+  },
+  "gold_harvest": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 3
+  },
+  "knockback": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 135
+  },
+  "name": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": "Golden Naginata"
+  },
+  "player_damage": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 35
+  },
+  "range": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 235
+  },
+  "reload_s": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 1.1
+  },
+  "section": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 70
+  },
+  "stone_harvest": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 3
+  },
+  "tier": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": "Golden"
+  },
+  "wood_harvest": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 3
+  }
+ },
+ "Golden Pickaxe": {
+  "building_damage": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 20
+  },
+  "damage": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 26
+  },
+  "food_harvest": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 7
+  },
+  "gold_harvest": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 10
+  },
+  "name": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": "Golden Pickaxe"
+  },
+  "range": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 60
+  },
+  "reload_s": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 0.75
+  },
+  "section": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 80
+  },
+  "stone_harvest": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 12
+  },
+  "tier": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": "Golden"
+  },
+  "wood_harvest": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 6
+  }
+ },
+ "Golden Shield": {
+  "building_damage": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": 1
+  },
+  "damage": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": 2
+  },
+  "knockback": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": 140
+  },
+  "name": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": "Golden Shield"
+  },
+  "protection": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": 55
+  },
+  "range": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": 30
+  },
+  "reload_s": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": 0.5
+  },
+  "section": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": "Statistics"
+  },
+  "speed": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": 70
+  },
+  "tier": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": "Golden"
+  }
+ },
+ "Golden Slingshot": {
+  "animal_damage": {
+   "page": "Slingshots",
+   "rev": 37859,
+   "source": "wiki",
+   "value": 30
+  },
+  "building_damage": {
+   "page": "Slingshots",
+   "rev": 37859,
+   "source": "wiki",
+   "value": 4
+  },
+  "fairy_damage": {
+   "page": "Slingshots",
+   "rev": 37859,
+   "source": "wiki",
+   "value": 45
+  },
+  "name": {
+   "page": "Slingshots",
+   "rev": 37859,
+   "source": "wiki",
+   "value": "Golden Slingshot"
+  },
+  "player_damage": {
+   "page": "Slingshots",
+   "rev": 37859,
+   "source": "wiki",
+   "value": 20
+  },
+  "recipe": {
+   "page": "Slingshots",
+   "rev": 37859,
+   "source": "wiki",
+   "value": {
+    "stone": 10
+   }
+  },
+  "reload_s": {
+   "page": "Slingshots",
+   "rev": 37859,
+   "source": "wiki",
+   "value": 0.85
+  },
+  "section": {
+   "page": "Slingshots",
+   "rev": 37859,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Slingshots",
+   "rev": 37859,
+   "source": "wiki",
+   "value": 55
+  },
+  "taming_chance": {
+   "page": "Slingshots",
+   "rev": 37859,
+   "source": "wiki",
+   "value": "+1%"
+  },
+  "tier": {
+   "page": "Slingshots",
+   "rev": 37859,
+   "source": "wiki",
+   "value": "Golden Slingshot"
+  }
+ },
+ "Golden Spear": {
+  "building_damage": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 12
+  },
+  "damage": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 24
+  },
+  "gold_harvest": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 2
+  },
+  "knockback": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 120
+  },
+  "name": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": "Golden Spear"
+  },
+  "range": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 100
+  },
+  "reload_s": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 0.8
+  },
+  "section": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 84
+  },
+  "stone_harvest": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 2
+  },
+  "tier": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": "Golden"
+  },
+  "wood_harvest": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 2
+  }
+ },
+ "Golden Sword": {
+  "building_damage": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 8
+  },
+  "damage": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 34
+  },
+  "food_harvest": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 2
+  },
+  "gold_harvest": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 2
+  },
+  "knockback": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 70
+  },
+  "name": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": "Golden Sword"
+  },
+  "range": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 70
+  },
+  "reload_s": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 0.7
+  },
+  "section": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 85
+  },
+  "stone_harvest": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 2
+  },
+  "tier": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": "Golden"
+  },
+  "wood_harvest": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 2
+  }
+ },
+ "Golden Wrench": {
+  "damage": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": 8
+  },
+  "knockback": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": 95
+  },
+  "name": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": "Golden Wrench"
+  },
+  "range": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": 60
+  },
+  "recipe": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": {
+    "stone": 5
+   }
+  },
+  "reload_s": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": 0.7
+  },
+  "repair": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": 70
+  },
+  "section": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": "Golden"
+  }
+ },
+ "Grow pad": {
+  "age": {
+   "page": "Grow pad",
+   "rev": 38870,
+   "source": "wiki",
+   "value": 8
+  },
+  "functionality": {
+   "page": "Grow pad",
+   "rev": 38870,
+   "source": "wiki",
+   "value": "Sharing experience to your tamons upon killing Animals and players."
+  },
+  "health": {
+   "page": "Grow pad",
+   "rev": 38870,
+   "source": "wiki",
+   "value": 100
+  },
+  "infobox": {
+   "page": "Grow pad",
+   "rev": 38870,
+   "source": "wiki",
+   "value": "items infobox"
+  },
+  "name": {
+   "page": "Grow pad",
+   "rev": 38870,
+   "source": "wiki",
+   "value": "Grow pad"
+  }
+ },
+ "Hand": {
+  "age": {
+   "page": "Hand",
+   "rev": 38679,
+   "source": "wiki",
+   "value": 0
+  },
+  "attack_speed": {
+   "page": "Hand",
+   "rev": 38679,
+   "source": "wiki",
+   "value": "0.6s"
+  },
+  "building_damage": {
+   "page": "Hand",
+   "rev": 38679,
+   "source": "wiki",
+   "value": 3
+  },
+  "functionality": {
+   "page": "Hand",
+   "rev": 38679,
+   "source": "wiki",
+   "value": "Resource gathering/killing"
+  },
+  "gather": {
+   "page": "Hand",
+   "rev": 38679,
+   "source": "wiki",
+   "value": "WIP"
+  },
+  "infobox": {
+   "page": "Hand",
+   "rev": 38679,
+   "source": "wiki",
+   "value": "items infobox"
+  },
+  "name": {
+   "page": "Hand",
+   "rev": 38679,
+   "source": "wiki",
+   "value": "Hand"
+  },
+  "player_damage": {
+   "page": "Hand",
+   "rev": 38679,
+   "source": "wiki",
+   "value": 6
+  }
+ },
+ "Honey Saddle": {
+  "damage": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": "1x"
+  },
+  "heal_ot": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": 10
+  },
+  "name": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": "Honey Saddle"
+  },
+  "protection": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": 0
+  },
+  "section": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "skill_damage": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": "1x"
+  },
+  "speed": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": 60
+  },
+  "speed_bonus": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": 0
+  },
+  "tier": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": "Honey Saddle"
+  }
+ },
+ "Meatballs Defense Buff": {
+  "heal": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 16
+  },
+  "heal_shield": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 20
+  },
+  "name": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Meatballs Defense Buff"
+  },
+  "recipe": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": {
+    "food": 18
+   }
+  },
+  "reload_s": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 0.35
+  },
+  "section": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Defense Buff"
+  },
+  "speed": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Meatballs"
+  }
+ },
+ "Mushroom Soup Heal Over Time": {
+  "heal": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 12
+  },
+  "heal_ot": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 8
+  },
+  "name": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Mushroom Soup Heal Over Time"
+  },
+  "recipe": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": {
+    "food": 18
+   }
+  },
+  "reload_s": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 0.35
+  },
+  "section": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Heal Over Time"
+  },
+  "speed": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Mushroom Soup"
+  }
+ },
+ "Racing Saddle": {
+  "damage": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": "1x"
+  },
+  "heal_ot": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": 0
+  },
+  "name": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": "Racing Saddle"
+  },
+  "protection": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": 0
+  },
+  "section": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "skill_damage": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": "1r"
+  },
+  "speed": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": 60
+  },
+  "speed_bonus": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": "+15"
+  },
+  "tier": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": "Racing Saddle"
+  }
+ },
+ "Roll Cake Speed Buff": {
+  "heal": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 15
+  },
+  "name": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Roll Cake Speed Buff"
+  },
+  "recipe": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": {
+    "food": 16
+   }
+  },
+  "reload_s": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 0.35
+  },
+  "section": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Speed Buff"
+  },
+  "speed": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 60
+  },
+  "speed_bonus": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 15
+  },
+  "tier": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Roll Cake"
+  }
+ },
+ "Ruby Axe": {
+  "animal_damage": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 57
+  },
+  "building_damage": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 25
+  },
+  "food_harvest": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 3
+  },
+  "gold_harvest": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 3
+  },
+  "knockback": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 100
+  },
+  "name": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": "Ruby Axe"
+  },
+  "player_damage": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 34
+  },
+  "range": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 65
+  },
+  "reload_s": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 0.88
+  },
+  "section": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 75
+  },
+  "stone_harvest": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 3
+  },
+  "tier": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": "Ruby"
+  },
+  "wood_harvest": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 14
+  }
+ },
+ "Ruby Blowpipe": {
+  "animal_damage": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": 6
+  },
+  "building_damage": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": 1
+  },
+  "fairy_damage": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": 9
+  },
+  "name": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": "Ruby Blowpipe"
+  },
+  "player_damage": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": 6
+  },
+  "recipe": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": {
+    "food": 6,
+    "wood": 12
+   }
+  },
+  "reload_s": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": 1.45
+  },
+  "section": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": 70
+  },
+  "tier": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": "Ruby"
+  }
+ },
+ "Ruby Bow": {
+  "animal_damage": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": 33
+  },
+  "building_damage": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": 4
+  },
+  "fairy_damage": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": 49
+  },
+  "name": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": "Ruby Bow"
+  },
+  "player_damage": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": 22
+  },
+  "recipe": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": {
+    "wood": 7
+   }
+  },
+  "reload_s": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": 1.2
+  },
+  "section": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": 70
+  },
+  "tier": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": "Ruby"
+  }
+ },
+ "Ruby Cleavers": {
+  "animal_damage": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 24
+  },
+  "building_damage": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 8
+  },
+  "food_harvest": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 4
+  },
+  "knockback": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 35
+  },
+  "name": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": "Ruby Cleavers"
+  },
+  "player_damage": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 12
+  },
+  "range": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 55
+  },
+  "reload_s": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 0.4
+  },
+  "section": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 83
+  },
+  "stone_harvest": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 2
+  },
+  "tier": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": "Ruby"
+  },
+  "wood_harvest": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 2
+  }
+ },
+ "Ruby Crossbow": {
+  "animal_damage": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": 36
+  },
+  "building_damage": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": 4
+  },
+  "fairy_damage": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": 54
+  },
+  "name": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": "Ruby Crossbow"
+  },
+  "player_damage": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": 24
+  },
+  "recipe": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": {
+    "wood": 12
+   }
+  },
+  "reload_s": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": 1.5
+  },
+  "section": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": "Ruby"
+  }
+ },
+ "Ruby Crystal Shield": {
+  "building_damage": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": 1
+  },
+  "damage": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": 3
+  },
+  "knockback": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": 140
+  },
+  "magic_protection": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": 65
+  },
+  "name": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": "Ruby Crystal Shield"
+  },
+  "protection": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": 30
+  },
+  "range": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": 30
+  },
+  "reload_s": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": 0.5
+  },
+  "section": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": 65
+  },
+  "tier": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": "Ruby"
+  }
+ },
+ "Ruby Daggers": {
+  "building_damage": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": 8
+  },
+  "damage": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": 14
+  },
+  "knockback": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": 35
+  },
+  "name": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": "Ruby Daggers"
+  },
+  "range": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": 55
+  },
+  "reload_s": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": 0.3
+  },
+  "section": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": 87
+  },
+  "tier": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": "Ruby"
+  }
+ },
+ "Ruby Gloves": {
+  "animal_damage": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 27
+  },
+  "building_damage": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 18
+  },
+  "damage": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 22
+  },
+  "food_harvest": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 3
+  },
+  "gold_harvest": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 3
+  },
+  "knockback": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 50
+  },
+  "knockout_chance": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 25
+  },
+  "name": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": "Ruby Gloves"
+  },
+  "range": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 30
+  },
+  "reload_s": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 0.6
+  },
+  "section": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 94
+  },
+  "stone_harvest": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 3
+  },
+  "tier": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": "Ruby"
+  },
+  "wood_harvest": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 3
+  }
+ },
+ "Ruby Hammer": {
+  "building_damage": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 30
+  },
+  "damage": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 18
+  },
+  "food_harvest": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 5
+  },
+  "gold_harvest": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 8
+  },
+  "name": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": "Ruby Hammer"
+  },
+  "range": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 60
+  },
+  "reload_s": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 0.55
+  },
+  "section": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 93
+  },
+  "stone_harvest": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 12
+  },
+  "tier": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": "Ruby"
+  },
+  "wood_harvest": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 5
+  }
+ },
+ "Ruby Katana": {
+  "building_damage": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 14
+  },
+  "damage": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 40
+  },
+  "food_harvest": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 4
+  },
+  "gold_harvest": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 4
+  },
+  "knockback": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 130
+  },
+  "name": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": "Ruby Katana"
+  },
+  "range": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 70
+  },
+  "reload_s": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 0.95
+  },
+  "section": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 70
+  },
+  "stone_harvest": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 4
+  },
+  "tier": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": "Ruby"
+  },
+  "wood_harvest": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 4
+  }
+ },
+ "Ruby Labrys": {
+  "animal_damage": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 52
+  },
+  "building_damage": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 25
+  },
+  "food_harvest": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 3
+  },
+  "gold_harvest": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 3
+  },
+  "knockback": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 120
+  },
+  "name": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": "Ruby Labrys"
+  },
+  "player_damage": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 44
+  },
+  "range": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 0
+  },
+  "reload_s": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 1.28
+  },
+  "section": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 75
+  },
+  "stone_harvest": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 3
+  },
+  "tier": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": "Ruby"
+  },
+  "wood_harvest": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 12
+  }
+ },
+ "Ruby Minigun": {
+  "animal_damage": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": 8
+  },
+  "building_damage": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": 7
+  },
+  "fairy_damage": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": 12
+  },
+  "name": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": "Ruby Minigun"
+  },
+  "player_damage": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": 5
+  },
+  "recipe": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": {
+    "gold": 6,
+    "stone": 4
+   }
+  },
+  "reload_s": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": 0.08
+  },
+  "section": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": 50
+  },
+  "tier": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": "Ruby"
+  }
+ },
+ "Ruby Musket": {
+  "animal_damage": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": 16
+  },
+  "building_damage": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": 4
+  },
+  "fairy_damage": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": 24
+  },
+  "name": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": "Ruby Musket"
+  },
+  "player_damage": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": 20
+  },
+  "recipe": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": {
+    "gold": 6,
+    "stone": 10
+   }
+  },
+  "reload_s": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": 0.95
+  },
+  "section": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": 75
+  },
+  "tier": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": "Ruby"
+  }
+ },
+ "Ruby Naginata": {
+  "animal_damage": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 51
+  },
+  "building_damage": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 22
+  },
+  "gold_harvest": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 4
+  },
+  "knockback": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 140
+  },
+  "name": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": "Ruby Naginata"
+  },
+  "player_damage": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 37
+  },
+  "range": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 235
+  },
+  "reload_s": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 1.1
+  },
+  "section": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 68
+  },
+  "stone_harvest": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 4
+  },
+  "tier": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": "Ruby"
+  },
+  "wood_harvest": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 4
+  }
+ },
+ "Ruby Pickaxe": {
+  "building_damage": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 25
+  },
+  "damage": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 30
+  },
+  "food_harvest": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 8
+  },
+  "gold_harvest": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 14
+  },
+  "name": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": "Ruby Pickaxe"
+  },
+  "range": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 60
+  },
+  "reload_s": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 0.8
+  },
+  "section": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 78
+  },
+  "stone_harvest": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 17
+  },
+  "tier": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": "Ruby"
+  },
+  "wood_harvest": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 8
+  }
+ },
+ "Ruby Shield": {
+  "building_damage": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": 1
+  },
+  "damage": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": 3
+  },
+  "knockback": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": 140
+  },
+  "name": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": "Ruby Shield"
+  },
+  "protection": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": 60
+  },
+  "range": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": 30
+  },
+  "reload_s": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": 0.5
+  },
+  "section": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": "Statistics"
+  },
+  "speed": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": 65
+  },
+  "tier": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": "Ruby"
+  }
+ },
+ "Ruby Spear": {
+  "building_damage": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 14
+  },
+  "damage": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 27
+  },
+  "gold_harvest": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 2
+  },
+  "knockback": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 125
+  },
+  "name": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": "Ruby Spear"
+  },
+  "range": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 100
+  },
+  "reload_s": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 0.8
+  },
+  "section": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 79
+  },
+  "stone_harvest": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 2
+  },
+  "tier": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": "Ruby"
+  },
+  "wood_harvest": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 2
+  }
+ },
+ "Ruby Sword": {
+  "building_damage": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 10
+  },
+  "damage": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 37
+  },
+  "food_harvest": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 2
+  },
+  "gold_harvest": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 2
+  },
+  "knockback": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 75
+  },
+  "name": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": "Ruby Sword"
+  },
+  "range": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 70
+  },
+  "reload_s": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 0.75
+  },
+  "section": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 80
+  },
+  "stone_harvest": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 2
+  },
+  "tier": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": "Ruby"
+  },
+  "wood_harvest": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 2
+  }
+ },
+ "Ruby Wrench": {
+  "damage": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": 11
+  },
+  "knockback": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": 100
+  },
+  "name": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": "Ruby Wrench"
+  },
+  "range": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": 60
+  },
+  "recipe": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": {
+    "stone": 6
+   }
+  },
+  "reload_s": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": 0.7
+  },
+  "repair": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": 100
+  },
+  "section": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": "Ruby"
+  }
+ },
+ "Saddle": {
+  "damage": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": "1x"
+  },
+  "heal_ot": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": 0
+  },
+  "name": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": "Saddle"
+  },
+  "protection": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": 0
+  },
+  "section": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "skill_damage": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": "1.1x"
+  },
+  "speed": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": 60
+  },
+  "speed_bonus": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": 0
+  },
+  "tier": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": "Saddle"
+  }
+ },
+ "Salad Heal Over Time": {
+  "heal": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 10
+  },
+  "heal_ot": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 6
+  },
+  "name": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Salad Heal Over Time"
+  },
+  "recipe": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": {
+    "food": 15
+   }
+  },
+  "reload_s": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 0.35
+  },
+  "section": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Heal Over Time"
+  },
+  "speed": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Salad"
+  }
+ },
+ "Sandwich Heal Over Time": {
+  "heal": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 8
+  },
+  "heal_ot": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 4
+  },
+  "name": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Sandwich Heal Over Time"
+  },
+  "recipe": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": {
+    "food": 12
+   }
+  },
+  "reload_s": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 0.35
+  },
+  "section": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Heal Over Time"
+  },
+  "speed": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Sandwich"
+  }
+ },
+ "Sapphire Axe": {
+  "animal_damage": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 68
+  },
+  "building_damage": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 35
+  },
+  "food_harvest": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 5
+  },
+  "gold_harvest": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 5
+  },
+  "knockback": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 105
+  },
+  "name": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": "Sapphire Axe"
+  },
+  "player_damage": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 40
+  },
+  "range": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 65
+  },
+  "reload_s": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 0.96
+  },
+  "section": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 70
+  },
+  "stone_harvest": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 5
+  },
+  "tier": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": "Sapphire"
+  },
+  "wood_harvest": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 18
+  }
+ },
+ "Sapphire Blowpipe": {
+  "animal_damage": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": 8
+  },
+  "building_damage": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": 1
+  },
+  "fairy_damage": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": 12
+  },
+  "name": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": "Sapphire Blowpipe"
+  },
+  "player_damage": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": 8
+  },
+  "recipe": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": {
+    "food": 8,
+    "wood": 16
+   }
+  },
+  "reload_s": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": 1.35
+  },
+  "section": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": 65
+  },
+  "tier": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": "Sapphire"
+  }
+ },
+ "Sapphire Bow": {
+  "animal_damage": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": 48
+  },
+  "building_damage": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": 6
+  },
+  "fairy_damage": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": 72
+  },
+  "name": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": "Sapphire Bow"
+  },
+  "player_damage": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": 32
+  },
+  "recipe": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": {
+    "wood": 10
+   }
+  },
+  "reload_s": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": 1.1
+  },
+  "section": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": 65
+  },
+  "tier": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": "Sapphire"
+  }
+ },
+ "Sapphire Cleavers": {
+  "animal_damage": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 32
+  },
+  "building_damage": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 9
+  },
+  "food_harvest": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 5
+  },
+  "gold_harvest": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 2
+  },
+  "knockback": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 40
+  },
+  "name": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": "Sapphire Cleavers"
+  },
+  "player_damage": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 16
+  },
+  "range": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 55
+  },
+  "reload_s": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 0.4
+  },
+  "section": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 81
+  },
+  "stone_harvest": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 2
+  },
+  "tier": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": "Sapphire"
+  },
+  "wood_harvest": {
+   "page": "Cleavers",
+   "rev": 35122,
+   "source": "wiki",
+   "value": 2
+  }
+ },
+ "Sapphire Crossbow": {
+  "animal_damage": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": 51
+  },
+  "building_damage": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": 6
+  },
+  "fairy_damage": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": 76
+  },
+  "name": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": "Sapphire Crossbow"
+  },
+  "player_damage": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": 34
+  },
+  "recipe": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": {
+    "wood": 16
+   }
+  },
+  "reload_s": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": 1.4
+  },
+  "section": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": 55
+  },
+  "tier": {
+   "page": "Crossbows",
+   "rev": 37856,
+   "source": "wiki",
+   "value": "Sapphire"
+  }
+ },
+ "Sapphire Crystal Shield": {
+  "building_damage": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": 2
+  },
+  "damage": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": 6
+  },
+  "knockback": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": 145
+  },
+  "magic_protection": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": 85
+  },
+  "name": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": "Sapphire Crystal Shield"
+  },
+  "protection": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": 50
+  },
+  "range": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": 30
+  },
+  "reload_s": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": 0.5
+  },
+  "section": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": 65
+  },
+  "tier": {
+   "page": "Crystal Shields",
+   "rev": 35521,
+   "source": "wiki",
+   "value": "Sapphire"
+  }
+ },
+ "Sapphire Daggers": {
+  "building_damage": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": 9
+  },
+  "damage": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": 18
+  },
+  "food_harvest": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": 2
+  },
+  "gold_harvest": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": 2
+  },
+  "knockback": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": 40
+  },
+  "name": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": "Sapphire Daggers"
+  },
+  "range": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": 55
+  },
+  "reload_s": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": 0.3
+  },
+  "section": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": 85
+  },
+  "stone_harvest": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": 2
+  },
+  "tier": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": "Sapphire"
+  },
+  "wood_harvest": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": 2
+  }
+ },
+ "Sapphire Gloves": {
+  "animal_damage": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 37
+  },
+  "building_damage": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 25
+  },
+  "damage": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 30
+  },
+  "food_harvest": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 4
+  },
+  "gold_harvest": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 4
+  },
+  "knockback": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 50
+  },
+  "knockout_chance": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 25
+  },
+  "name": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": "Sapphire Gloves"
+  },
+  "range": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 30
+  },
+  "reload_s": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 0.6
+  },
+  "section": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 90
+  },
+  "stone_harvest": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 4
+  },
+  "tier": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": "Sapphire"
+  },
+  "wood_harvest": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 4
+  }
+ },
+ "Sapphire Hammer": {
+  "building_damage": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 45
+  },
+  "damage": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 26
+  },
+  "food_harvest": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 7
+  },
+  "gold_harvest": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 12
+  },
+  "name": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": "Sapphire Hammer"
+  },
+  "range": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 60
+  },
+  "reload_s": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 0.6
+  },
+  "section": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 90
+  },
+  "stone_harvest": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 16
+  },
+  "tier": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": "Sapphire"
+  },
+  "wood_harvest": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 7
+  }
+ },
+ "Sapphire Katana": {
+  "building_damage": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 17
+  },
+  "damage": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 47
+  },
+  "food_harvest": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 6
+  },
+  "gold_harvest": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 6
+  },
+  "knockback": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 140
+  },
+  "name": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": "Sapphire Katana"
+  },
+  "range": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 70
+  },
+  "reload_s": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 0.95
+  },
+  "section": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 65
+  },
+  "stone_harvest": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 6
+  },
+  "tier": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": "Sapphire"
+  },
+  "wood_harvest": {
+   "page": "Katanas",
+   "rev": 38038,
+   "source": "wiki",
+   "value": 6
+  }
+ },
+ "Sapphire Labrys": {
+  "animal_damage": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 62
+  },
+  "building_damage": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 35
+  },
+  "food_harvest": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 5
+  },
+  "gold_harvest": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 5
+  },
+  "knockback": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 125
+  },
+  "name": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": "Sapphire Labrys"
+  },
+  "player_damage": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 52
+  },
+  "range": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 0
+  },
+  "reload_s": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 1.3
+  },
+  "section": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 70
+  },
+  "stone_harvest": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 5
+  },
+  "tier": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": "Sapphire"
+  },
+  "wood_harvest": {
+   "page": "Labrys",
+   "rev": 38040,
+   "source": "wiki",
+   "value": 16
+  }
+ },
+ "Sapphire Minigun": {
+  "animal_damage": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": 11
+  },
+  "building_damage": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": 10
+  },
+  "fairy_damage": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": 16
+  },
+  "name": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": "Sapphire Minigun"
+  },
+  "player_damage": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": 7
+  },
+  "recipe": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": {
+    "gold": 10,
+    "stone": 6
+   }
+  },
+  "reload_s": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": 0.08
+  },
+  "section": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": 45
+  },
+  "tier": {
+   "page": "Miniguns",
+   "rev": 38917,
+   "source": "wiki",
+   "value": "Sapphire"
+  }
+ },
+ "Sapphire Musket": {
+  "animal_damage": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": 19
+  },
+  "building_damage": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": 5
+  },
+  "fairy_damage": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": 28
+  },
+  "name": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": "Sapphire Musket"
+  },
+  "player_damage": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": 24
+  },
+  "recipe": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": {
+    "gold": 10,
+    "stone": 14
+   }
+  },
+  "reload_s": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": 0.85
+  },
+  "section": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": 70
+  },
+  "tier": {
+   "page": "Muskets",
+   "rev": 37857,
+   "source": "wiki",
+   "value": "Sapphire"
+  }
+ },
+ "Sapphire Naginata": {
+  "animal_damage": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 58
+  },
+  "building_damage": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 27
+  },
+  "gold_harvest": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 5
+  },
+  "knockback": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 140
+  },
+  "name": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": "Sapphire Naginata"
+  },
+  "player_damage": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 42
+  },
+  "range": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 235
+  },
+  "reload_s": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 1.1
+  },
+  "section": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 66
+  },
+  "stone_harvest": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 5
+  },
+  "tier": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": "Sapphire"
+  },
+  "wood_harvest": {
+   "page": "Naginatas",
+   "rev": 38689,
+   "source": "wiki",
+   "value": 5
+  }
+ },
+ "Sapphire Pickaxe": {
+  "building_damage": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 38
+  },
+  "damage": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 34
+  },
+  "food_harvest": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 12
+  },
+  "gold_harvest": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 20
+  },
+  "name": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": "Sapphire Pickaxe"
+  },
+  "range": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 60
+  },
+  "reload_s": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 0.85
+  },
+  "section": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 75
+  },
+  "stone_harvest": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 24
+  },
+  "tier": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": "Sapphire"
+  },
+  "wood_harvest": {
+   "page": "Pickaxes",
+   "rev": 34538,
+   "source": "wiki",
+   "value": 12
+  }
+ },
+ "Sapphire Shield": {
+  "building_damage": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": 2
+  },
+  "damage": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": 6
+  },
+  "knockback": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": 145
+  },
+  "name": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": "Sapphire Shield"
+  },
+  "protection": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": 70
+  },
+  "range": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": 30
+  },
+  "reload_s": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": 0.5
+  },
+  "section": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": "Statistics"
+  },
+  "speed": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": "Sapphire"
+  }
+ },
+ "Sapphire Spear": {
+  "building_damage": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 18
+  },
+  "damage": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 34
+  },
+  "gold_harvest": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 4
+  },
+  "knockback": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 125
+  },
+  "name": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": "Sapphire Spear"
+  },
+  "range": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 100
+  },
+  "reload_s": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 0.8
+  },
+  "section": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 74
+  },
+  "stone_harvest": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 3
+  },
+  "tier": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": "Sapphire"
+  },
+  "wood_harvest": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 3
+  }
+ },
+ "Sapphire Sword": {
+  "building_damage": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 14
+  },
+  "damage": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 44
+  },
+  "food_harvest": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 3
+  },
+  "gold_harvest": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 4
+  },
+  "knockback": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 80
+  },
+  "name": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": "Sapphire Sword"
+  },
+  "range": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 70
+  },
+  "reload_s": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 0.8
+  },
+  "section": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 75
+  },
+  "stone_harvest": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 3
+  },
+  "tier": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": "Sapphire"
+  },
+  "wood_harvest": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 3
+  }
+ },
+ "Sapphire Wrench": {
+  "damage": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": 17
+  },
+  "knockback": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": 110
+  },
+  "name": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": "Sapphire Wrench"
+  },
+  "range": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": 60
+  },
+  "recipe": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": {
+    "gold": 4,
+    "stone": 8
+   }
+  },
+  "reload_s": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": 0.7
+  },
+  "repair": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": 200
+  },
+  "section": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": "Sapphire"
+  }
+ },
+ "Slingshot": {
+  "animal_damage": {
+   "page": "Slingshots",
+   "rev": 37859,
+   "source": "wiki",
+   "value": 15
+  },
+  "building_damage": {
+   "page": "Slingshots",
+   "rev": 37859,
+   "source": "wiki",
+   "value": 2
+  },
+  "fairy_damage": {
+   "page": "Slingshots",
+   "rev": 37859,
+   "source": "wiki",
+   "value": 22
+  },
+  "name": {
+   "page": "Slingshots",
+   "rev": 37859,
+   "source": "wiki",
+   "value": "Slingshot"
+  },
+  "player_damage": {
+   "page": "Slingshots",
+   "rev": 37859,
+   "source": "wiki",
+   "value": 10
+  },
+  "recipe": {
+   "page": "Slingshots",
+   "rev": 37859,
+   "source": "wiki",
+   "value": {
+    "stone": 5
+   }
+  },
+  "reload_s": {
+   "page": "Slingshots",
+   "rev": 37859,
+   "source": "wiki",
+   "value": 0.85
+  },
+  "section": {
+   "page": "Slingshots",
+   "rev": 37859,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Slingshots",
+   "rev": 37859,
+   "source": "wiki",
+   "value": 65
+  },
+  "taming_chance": {
+   "page": "Slingshots",
+   "rev": 37859,
+   "source": "wiki",
+   "value": "+11%-13%"
+  },
+  "tier": {
+   "page": "Slingshots",
+   "rev": 37859,
+   "source": "wiki",
+   "value": "Slingshot"
+  }
+ },
+ "Steak Defense Buff": {
+  "heal": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 12
+  },
+  "heal_shield": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 10
+  },
+  "name": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Steak Defense Buff"
+  },
+  "recipe": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": {
+    "food": 12
+   }
+  },
+  "reload_s": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 0.35
+  },
+  "section": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Defense Buff"
+  },
+  "speed": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Steak"
+  }
+ },
+ "Stone": {
+  "dark_health": {
+   "page": "Stone",
+   "rev": 38577,
+   "source": "wiki",
+   "value": 400
+  },
+  "dark_image": {
+   "page": "Stone",
+   "rev": 38577,
+   "source": "wiki",
+   "value": "Dark-stone0.png"
+  },
+  "desert_health": {
+   "page": "Stone",
+   "rev": 38577,
+   "source": "wiki",
+   "value": 400
+  },
+  "desert_image": {
+   "page": "Stone",
+   "rev": 38577,
+   "source": "wiki",
+   "value": "Desert-stone0.png"
+  },
+  "forest_health": {
+   "page": "Stone",
+   "rev": 38577,
+   "source": "wiki",
+   "value": 400
+  },
+  "forest_image": {
+   "page": "Stone",
+   "rev": 38577,
+   "source": "wiki",
+   "value": "Stone0.png"
+  },
+  "health": {
+   "page": "Stone",
+   "rev": 38577,
+   "source": "wiki",
+   "value": 400
+  },
+  "infobox": {
+   "page": "Stone",
+   "rev": 38577,
+   "source": "wiki",
+   "value": "resource infobox"
+  },
+  "name": {
+   "page": "Stone",
+   "rev": 38577,
+   "source": "wiki",
+   "value": "Stone"
+  },
+  "ocean_health": {
+   "page": "Stone",
+   "rev": 38577,
+   "source": "wiki",
+   "value": 400
+  },
+  "ocean_image": {
+   "page": "Stone",
+   "rev": 38577,
+   "source": "wiki",
+   "value": "Sea-stone0.png"
+  },
+  "title": {
+   "page": "Stone",
+   "rev": 38577,
+   "source": "wiki",
+   "value": "Stone"
+  },
+  "volcanic_health": {
+   "page": "Stone",
+   "rev": 38577,
+   "source": "wiki",
+   "value": 400
+  },
+  "winter_health": {
+   "page": "Stone",
+   "rev": 38577,
+   "source": "wiki",
+   "value": 400
+  },
+  "winter_image": {
+   "page": "Stone",
+   "rev": 38577,
+   "source": "wiki",
+   "value": "Snow-stone0.png"
+  }
+ },
+ "Stone Axe": {
+  "animal_damage": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 42
+  },
+  "building_damage": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 15
+  },
+  "knockback": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 95
+  },
+  "name": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": "Stone Axe"
+  },
+  "player_damage": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 25
+  },
+  "range": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 65
+  },
+  "reload_s": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 0.8
+  },
+  "section": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 80
+  },
+  "tier": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": "Stone"
+  },
+  "wood_harvest": {
+   "page": "Axes",
+   "rev": 38696,
+   "source": "wiki",
+   "value": 4
+  }
+ },
+ "Stone Blowpipe": {
+  "animal_damage": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": 4
+  },
+  "building_damage": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": 1
+  },
+  "fairy_damage": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": 6
+  },
+  "name": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": "Stone Blowpipe"
+  },
+  "player_damage": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": 4
+  },
+  "recipe": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": {
+    "food": 4,
+    "wood": 8
+   }
+  },
+  "reload_s": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": 1.55
+  },
+  "section": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": 75
+  },
+  "tier": {
+   "page": "Blowpipe",
+   "rev": 38945,
+   "source": "wiki",
+   "value": "Stone"
+  }
+ },
+ "Stone Bow": {
+  "animal_damage": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": 22
+  },
+  "building_damage": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": 2
+  },
+  "fairy_damage": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": 33
+  },
+  "name": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": "Stone Bow"
+  },
+  "player_damage": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": 15
+  },
+  "recipe": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": {
+    "wood": 5
+   }
+  },
+  "reload_s": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": 1.3
+  },
+  "section": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": 75
+  },
+  "tier": {
+   "page": "Bows",
+   "rev": 38909,
+   "source": "wiki",
+   "value": "Stone"
+  }
+ },
+ "Stone Daggers": {
+  "building_damage": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": 4
+  },
+  "damage": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": 10
+  },
+  "knockback": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": 30
+  },
+  "name": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": "Stone Daggers"
+  },
+  "range": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": 55
+  },
+  "reload_s": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": 0.3
+  },
+  "section": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": 90
+  },
+  "tier": {
+   "page": "Daggers",
+   "rev": 37698,
+   "source": "wiki",
+   "value": "Stone"
+  }
+ },
+ "Stone Gloves": {
+  "animal_damage": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 17
+  },
+  "building_damage": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 10
+  },
+  "damage": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 14
+  },
+  "food_harvest": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 2
+  },
+  "gold_harvest": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 2
+  },
+  "knockback": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 50
+  },
+  "knockout_chance": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 25
+  },
+  "name": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": "Stone Gloves"
+  },
+  "range": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 30
+  },
+  "reload_s": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 0.6
+  },
+  "section": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 98
+  },
+  "stone_harvest": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 2
+  },
+  "tier": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": "Stone"
+  },
+  "wood_harvest": {
+   "page": "Gloves",
+   "rev": 38568,
+   "source": "wiki",
+   "value": 2
+  }
+ },
+ "Stone Hammer": {
+  "building_damage": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 20
+  },
+  "damage": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 10
+  },
+  "food_harvest": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 3
+  },
+  "gold_harvest": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 4
+  },
+  "name": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": "Stone Hammer"
+  },
+  "range": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 60
+  },
+  "reload_s": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 0.5
+  },
+  "section": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 95
+  },
+  "stone_harvest": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 4
+  },
+  "tier": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": "Stone"
+  },
+  "wood_harvest": {
+   "page": "Hammers",
+   "rev": 38567,
+   "source": "wiki",
+   "value": 3
+  }
+ },
+ "Stone Shield": {
+  "damage": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": 1
+  },
+  "knockback": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": 140
+  },
+  "name": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": "Stone Shield"
+  },
+  "protection": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": 50
+  },
+  "range": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": 30
+  },
+  "reload_s": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": 0.5
+  },
+  "section": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": "Statistics"
+  },
+  "speed": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": 70
+  },
+  "tier": {
+   "page": "Shields",
+   "rev": 38911,
+   "source": "wiki",
+   "value": "Stone"
+  }
+ },
+ "Stone Spear": {
+  "building_damage": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 10
+  },
+  "damage": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 20
+  },
+  "knockback": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 115
+  },
+  "name": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": "Stone Spear"
+  },
+  "range": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 100
+  },
+  "reload_s": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 0.8
+  },
+  "section": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": 84
+  },
+  "tier": {
+   "page": "Spears",
+   "rev": 33470,
+   "source": "wiki",
+   "value": "Stone"
+  }
+ },
+ "Stone Sword": {
+  "building_damage": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 6
+  },
+  "damage": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 30
+  },
+  "knockback": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 70
+  },
+  "name": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": "Stone Sword"
+  },
+  "range": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 70
+  },
+  "reload_s": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 0.7
+  },
+  "section": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": 85
+  },
+  "tier": {
+   "page": "Swords",
+   "rev": 34545,
+   "source": "wiki",
+   "value": "Stone"
+  }
+ },
+ "Stone Wrench": {
+  "damage": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": 5
+  },
+  "knockback": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": 90
+  },
+  "name": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": "Stone Wrench"
+  },
+  "range": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": 60
+  },
+  "recipe": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": {
+    "stone": 4
+   }
+  },
+  "reload_s": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": 0.8
+  },
+  "repair": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": 40
+  },
+  "section": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "speed": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Wrenches",
+   "rev": 38910,
+   "source": "wiki",
+   "value": "Stone"
+  }
+ },
+ "Toffee Candy Speed Buff": {
+  "heal": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 12
+  },
+  "name": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Toffee Candy Speed Buff"
+  },
+  "recipe": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": {
+    "food": 10
+   }
+  },
+  "reload_s": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 0.35
+  },
+  "section": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Speed Buff"
+  },
+  "speed": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 60
+  },
+  "speed_bonus": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 5
+  },
+  "tier": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Toffee Candy"
+  }
+ },
+ "Turtle Saddle": {
+  "damage": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": "1x"
+  },
+  "heal_ot": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": 0
+  },
+  "name": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": "Turtle Saddle"
+  },
+  "protection": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": 30
+  },
+  "section": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": "Technical"
+  },
+  "skill_damage": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": "1x"
+  },
+  "speed": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": 60
+  },
+  "speed_bonus": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": 0
+  },
+  "tier": {
+   "page": "Saddles",
+   "rev": 38031,
+   "source": "wiki",
+   "value": "Turtle Saddle"
+  }
+ },
+ "Waffle Instant Healing": {
+  "heal": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 18
+  },
+  "name": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Waffle Instant Healing"
+  },
+  "recipe": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": {
+    "food": 12
+   }
+  },
+  "reload_s": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 0.35
+  },
+  "section": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Instant Healing"
+  },
+  "speed": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": 60
+  },
+  "tier": {
+   "page": "Food",
+   "rev": 38822,
+   "source": "wiki",
+   "value": "Waffle"
+  }
+ },
+ "Wood": {
+  "dark_health": {
+   "page": "Wood",
+   "rev": 38576,
+   "source": "wiki",
+   "value": 400
+  },
+  "dark_image": {
+   "page": "Wood",
+   "rev": 38576,
+   "source": "wiki",
+   "value": "Dark-tree0.png"
+  },
+  "desert_health": {
+   "page": "Wood",
+   "rev": 38576,
+   "source": "wiki",
+   "value": 400
+  },
+  "desert_image": {
+   "page": "Wood",
+   "rev": 38576,
+   "source": "wiki",
+   "value": "Desert-tree0.png"
+  },
+  "forest_health": {
+   "page": "Wood",
+   "rev": 38576,
+   "source": "wiki",
+   "value": 400
+  },
+  "forest_image": {
+   "page": "Wood",
+   "rev": 38576,
+   "source": "wiki",
+   "value": "Tree0.png"
+  },
+  "infobox": {
+   "page": "Wood",
+   "rev": 38576,
+   "source": "wiki",
+   "value": "resource infobox"
+  },
+  "name": {
+   "page": "Wood",
+   "rev": 38576,
+   "source": "wiki",
+   "value": "Wood"
+  },
+  "ocean_health": {
+   "page": "Wood",
+   "rev": 38576,
+   "source": "wiki",
+   "value": 400
+  },
+  "ocean_image": {
+   "page": "Wood",
+   "rev": 38576,
+   "source": "wiki",
+   "value": "Sea-tree0.png"
+  },
+  "volcanic_health": {
+   "page": "Wood",
+   "rev": 38576,
+   "source": "wiki",
+   "value": 400
+  },
+  "winter_health": {
+   "page": "Wood",
+   "rev": 38576,
+   "source": "wiki",
+   "value": 400
+  },
+  "winter_image": {
+   "page": "Wood",
+   "rev": 38576,
+   "source": "wiki",
+   "value": "Snow-tree0.png"
+  }
+ }
+}

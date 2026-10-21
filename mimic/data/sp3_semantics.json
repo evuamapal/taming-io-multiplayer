@@ -1,0 +1,971 @@
+{
+ "server": "Saopaulo#5 (path saopaulo5 on host saopaulo3.<real-domain>)",
+ "note": "Field keys (the decoded '0'..'27') are the same on every server; only wire codes, message type ids and tx op ids are shuffled. Translate an SP3 message by replacing '1' (type) with atl4_type; tx ops by sp3_op -> atl4_op. Compact records (header t==0) are always the move type.",
+ "message_types": {
+  "obj_move_keepalive": {
+   "sp3_type": 19,
+   "atl4_type": 84,
+   "client_name": "_8487",
+   "count": 161951,
+   "example": {
+    "0": 4969488,
+    "1": 19
+   }
+  },
+  "obj_remove": {
+   "sp3_type": 27,
+   "atl4_type": 87,
+   "client_name": "_5660",
+   "count": 3551,
+   "example": {
+    "0": 4968984,
+    "1": 27
+   }
+  },
+  "obj_create": {
+   "sp3_type": 6,
+   "atl4_type": 79,
+   "client_name": "_8364",
+   "count": 3241,
+   "example": {
+    "0": 4968984,
+    "1": 6,
+    "2": 3,
+    "3": 10118,
+    "4": 8577,
+    "5": 628,
+    "6": 1,
+    "13": 188
+   }
+  },
+  "inventory": {
+   "sp3_type": 54,
+   "atl4_type": 53,
+   "client_name": "_2497",
+   "count": 1112,
+   "example": {
+    "1": 54,
+    "i": {
+     "0": 20,
+     "1": 20,
+     "2": 20,
+     "3": 0,
+     "4": 0,
+     "5": 0
+    }
+   }
+  },
+  "xp_total": {
+   "sp3_type": 75,
+   "atl4_type": 27,
+   "client_name": "_8139",
+   "count": 1018,
+   "example": {
+    "1": 75,
+    "i": 1
+   }
+  },
+  "leaderboard_minimap": {
+   "sp3_type": 83,
+   "atl4_type": 64,
+   "client_name": "_12148",
+   "count": 822,
+   "example": {
+    "1": 83,
+    "o": [
+     70,
+     29,
+     41,
+     16,
+     37,
+     23,
+     35,
+     17,
+     35,
+     15,
+     45,
+     64,
+     41,
+     68,
+     45,
+     70,
+     63,
+     83,
+     113,
+     93,
+     "..."
+    ],
+    "ob": [
+     85,
+     40,
+     10
+    ],
+    "pa": [
+     27,
+     57
+    ]
+   }
+  },
+  "chat": {
+   "sp3_type": 0,
+   "atl4_type": 39,
+   "client_name": "_6453",
+   "count": 334,
+   "example": {
+    "1": 0,
+    "i": 4972446,
+    "m": "hety",
+    "mt": 1
+   }
+  },
+  "own_info / minimap pos": {
+   "sp3_type": 65,
+   "atl4_type": 59,
+   "client_name": "_12135",
+   "count": 213,
+   "example": {
+    "1": 65,
+    "i": 4972447,
+    "n": 0,
+    "ag": 0,
+    "na": null,
+    "mi": 0,
+    "h": 0,
+    "s": 0
+   }
+  },
+  "clan (m = sub-op)": {
+   "sp3_type": 9,
+   "atl4_type": 68,
+   "client_name": "_5648",
+   "count": 157,
+   "example": {
+    "1": 9,
+    "m": 69,
+    "o": [
+     [
+      476,
+      "14"
+     ],
+     [
+      478,
+      "rex dog"
+     ],
+     [
+      479,
+      "eae"
+     ],
+     [
+      480,
+      "X"
+     ]
+    ]
+   }
+  },
+  "camera_target (id*256+2, s=spectate)": {
+   "sp3_type": 57,
+   "atl4_type": 19,
+   "client_name": "_12136",
+   "count": 115,
+   "example": {
+    "1": 57,
+    "id": 1272822786,
+    "s": true
+   }
+  },
+  "item_count (B = [item*256+count])": {
+   "sp3_type": 58,
+   "atl4_type": 36,
+   "client_name": "_12133",
+   "count": 61,
+   "example": {
+    "1": 58,
+    "B": [
+     18432
+    ]
+   }
+  },
+  "placed_list (o = [[id, x/?, y/?, def name]], p count)": {
+   "sp3_type": 85,
+   "atl4_type": 81,
+   "client_name": "_12131",
+   "count": 25,
+   "example": {
+    "1": 85,
+    "o": [
+     [
+      4976782,
+      297,
+      271,
+      "stone-spike"
+     ]
+    ],
+    "p": 1
+   }
+  },
+  "event_marker (o, j)": {
+   "sp3_type": 79,
+   "atl4_type": 80,
+   "client_name": "_5780",
+   "count": 19,
+   "example": {
+    "1": 79,
+    "o": 89,
+    "j": 54
+   }
+  },
+  "event_marker2 (o, j)": {
+   "sp3_type": 48,
+   "atl4_type": 65,
+   "client_name": "_5791",
+   "count": 15,
+   "example": {
+    "1": 48,
+    "o": 58,
+    "j": 24
+   }
+  },
+  "quest_progress (o quest, n count)": {
+   "sp3_type": 74,
+   "atl4_type": 37,
+   "client_name": "_8173",
+   "count": 10,
+   "example": {
+    "1": 74,
+    "o": 1,
+    "n": 1
+   }
+  },
+  "timer (b phase, d ms)": {
+   "sp3_type": 71,
+   "atl4_type": 32,
+   "client_name": "_938",
+   "count": 9,
+   "example": {
+    "1": 71,
+    "b": 1,
+    "d": 340309
+   }
+  },
+  "event_counter (o, n)": {
+   "sp3_type": 66,
+   "atl4_type": 44,
+   "client_name": "_3074",
+   "count": 8,
+   "example": {
+    "1": 66,
+    "o": 2,
+    "n": "0"
+   }
+  },
+  "gift_info (gi, i)": {
+   "sp3_type": 3,
+   "atl4_type": 75,
+   "client_name": "_3430",
+   "count": 6,
+   "example": {
+    "1": 3,
+    "gi": 52
+   }
+  },
+  "join_ack (empty)": {
+   "sp3_type": 52,
+   "atl4_type": 31,
+   "client_name": "_6550",
+   "count": 3,
+   "example": {
+    "1": 52
+   }
+  },
+  "join_flag (o)": {
+   "sp3_type": 72,
+   "atl4_type": 58,
+   "client_name": "_12184",
+   "count": 3,
+   "example": {
+    "1": 72,
+    "o": 1
+   }
+  },
+  "join_value (o)": {
+   "sp3_type": 70,
+   "atl4_type": 11,
+   "client_name": "_12173",
+   "count": 3,
+   "example": {
+    "1": 70,
+    "o": 69
+   }
+  },
+  "join_value2 (o)": {
+   "sp3_type": 63,
+   "atl4_type": 86,
+   "client_name": "_12178",
+   "count": 3,
+   "example": {
+    "1": 63,
+    "o": 33
+   }
+  },
+  "token / H W lists": {
+   "sp3_type": 2,
+   "atl4_type": 66,
+   "client_name": "_12140",
+   "count": 3,
+   "example": {
+    "1": 2,
+    "T": "izzqvep6qvgiglnj339a"
+   }
+  },
+  "death_scoreboard": {
+   "sp3_type": 26,
+   "atl4_type": 6,
+   "client_name": "_4286",
+   "count": 2,
+   "example": {
+    "1": 26,
+    "o": {
+     "k": 0,
+     "ga": 2,
+     "t": 1465951,
+     "s": 4914,
+     "p": [],
+     "re": 8,
+     "it": {},
+     "sbk": [
+      1,
+      ""
+     ],
+     "sba": 4,
+     "sbi": 0,
+     "sbb": 1,
+     "sbp": 8,
+     "sbf": 608,
+     "sbw": 1479,
+     "sbs": 937,
+     "sbt": 0,
+     "sbu": 0
+    }
+   }
+  },
+  "setup_u": {
+   "sp3_type": 43,
+   "atl4_type": 12,
+   "client_name": "_12160",
+   "count": 1,
+   "example": {
+    "1": 43,
+    "u": 75
+   }
+  },
+  "setup_u_56": {
+   "sp3_type": 56,
+   "atl4_type": 9,
+   "client_name": "_12170",
+   "count": 1,
+   "example": {
+    "1": 56,
+    "u": 44
+   }
+  },
+  "setup_u_80": {
+   "sp3_type": 80,
+   "atl4_type": 23,
+   "client_name": "_12141",
+   "count": 1,
+   "example": {
+    "1": 80,
+    "u": 212
+   }
+  },
+  "setup_u_44": {
+   "sp3_type": 44,
+   "atl4_type": 67,
+   "client_name": "_12156",
+   "count": 1,
+   "example": {
+    "1": 44,
+    "u": 105
+   }
+  },
+  "setup_u_42": {
+   "sp3_type": 42,
+   "atl4_type": 13,
+   "client_name": "_12139",
+   "count": 1,
+   "example": {
+    "1": 42,
+    "u": 122
+   }
+  },
+  "setup_u_55": {
+   "sp3_type": 55,
+   "atl4_type": 41,
+   "client_name": "_12138",
+   "count": 1,
+   "example": {
+    "1": 55,
+    "u": 227
+   }
+  },
+  "setup_u_59": {
+   "sp3_type": 59,
+   "atl4_type": 70,
+   "client_name": "_12137",
+   "count": 1,
+   "example": {
+    "1": 59,
+    "u": 19
+   }
+  },
+  "setup_u_84": {
+   "sp3_type": 84,
+   "atl4_type": 22,
+   "client_name": "_12134",
+   "count": 1,
+   "example": {
+    "1": 84,
+    "u": 251
+   }
+  },
+  "setup_u_13": {
+   "sp3_type": 13,
+   "atl4_type": 4,
+   "client_name": "_1625",
+   "count": 1,
+   "example": {
+    "1": 13,
+    "u": 232
+   }
+  },
+  "setup_u_10": {
+   "sp3_type": 10,
+   "atl4_type": 7,
+   "client_name": "_12181",
+   "count": 1,
+   "example": {
+    "1": 10,
+    "u": 201
+   }
+  },
+  "setup_u_17": {
+   "sp3_type": 17,
+   "atl4_type": 47,
+   "client_name": "_12132",
+   "count": 1,
+   "example": {
+    "1": 17,
+    "u": 240
+   }
+  },
+  "setup_u_4": {
+   "sp3_type": 4,
+   "atl4_type": 56,
+   "client_name": "_12146",
+   "count": 1,
+   "example": {
+    "1": 4,
+    "u": 240
+   }
+  },
+  "setup_u_15": {
+   "sp3_type": 15,
+   "atl4_type": 20,
+   "client_name": "_12176",
+   "count": 1,
+   "example": {
+    "1": 15,
+    "u": 10106730
+   }
+  },
+  "setup_u_24": {
+   "sp3_type": 24,
+   "atl4_type": 15,
+   "client_name": "_12143",
+   "count": 1,
+   "example": {
+    "1": 24,
+    "u": 83
+   }
+  },
+  "setup_u_62": {
+   "sp3_type": 62,
+   "atl4_type": 8,
+   "client_name": "_12147",
+   "count": 1,
+   "example": {
+    "1": 62,
+    "u": 27
+   }
+  },
+  "setup_u_86": {
+   "sp3_type": 86,
+   "atl4_type": 21,
+   "client_name": "_12164",
+   "count": 1,
+   "example": {
+    "1": 86,
+    "u": 17
+   }
+  },
+  "setup_u_20": {
+   "sp3_type": 20,
+   "atl4_type": 17,
+   "client_name": "_12149",
+   "count": 1,
+   "example": {
+    "1": 20,
+    "u": 80
+   }
+  },
+  "setup_u_76": {
+   "sp3_type": 76,
+   "atl4_type": 18,
+   "client_name": "_12144",
+   "count": 1,
+   "example": {
+    "1": 76,
+    "u": 108
+   }
+  },
+  "state_b (b)": {
+   "sp3_type": 82,
+   "atl4_type": 43,
+   "client_name": "_12161",
+   "count": 1,
+   "example": {
+    "1": 82,
+    "b": 10280
+   }
+  },
+  "server_announce (m text, o ms, i color)": {
+   "sp3_type": 8,
+   "atl4_type": 52,
+   "client_name": "_8281",
+   "count": 1,
+   "example": {
+    "1": 8,
+    "m": "The clan [14] has captured the totem",
+    "o": 6000,
+    "i": "#F0E4D0"
+   }
+  }
+ },
+ "fields": {
+  "id [key 0]": {
+   "field_key": "0",
+   "sp3_wire_code": 0,
+   "atl4_wire_code": 0,
+   "notes": "id"
+  },
+  "type [key 1]": {
+   "field_key": "1",
+   "sp3_wire_code": 8,
+   "atl4_wire_code": 8,
+   "notes": "type"
+  },
+  "category [key 2]": {
+   "field_key": "2",
+   "sp3_wire_code": 16,
+   "atl4_wire_code": 16,
+   "notes": "category (0 creature, 1 player, 2 effect, 3 static object, 4 projectile/effect)"
+  },
+  "x [key 3]": {
+   "field_key": "3",
+   "sp3_wire_code": 24,
+   "atl4_wire_code": 24,
+   "notes": "x (>=256 absolute; 1 byte = delta, bit7 set plus)"
+  },
+  "y [key 4]": {
+   "field_key": "4",
+   "sp3_wire_code": 32,
+   "atl4_wire_code": 32,
+   "notes": "y (same as x)"
+  },
+  "angle [key 5]": {
+   "field_key": "5",
+   "sp3_wire_code": 40,
+   "atl4_wire_code": 40,
+   "notes": "angle"
+  },
+  "constant 1 [key 6]": {
+   "field_key": "6",
+   "sp3_wire_code": 48,
+   "atl4_wire_code": 48,
+   "notes": "constant 1"
+  },
+  "state flags [key 7]": {
+   "field_key": "7",
+   "sp3_wire_code": 184,
+   "atl4_wire_code": 168,
+   "notes": "state flags (player 1 idle 2 moving 16 dead; creature 2/34/66; object hp-ish 0..255 on hit)"
+  },
+  "player: held item id [key 8]": {
+   "field_key": "8",
+   "sp3_wire_code": 136,
+   "atl4_wire_code": 208,
+   "notes": "player: held item id; object: hit angle byte"
+  },
+  "creature hp bar 0..255 [key 9]": {
+   "field_key": "9",
+   "sp3_wire_code": 88,
+   "atl4_wire_code": 112,
+   "notes": "creature hp bar 0..255; object hit flag; player secondary item"
+  },
+  "damage taken this frame [key 10]": {
+   "field_key": "10",
+   "sp3_wire_code": 128,
+   "atl4_wire_code": 136,
+   "notes": "damage taken this frame (player/creature); projectile owner on cat 4 create"
+  },
+  "heal amount this frame [key 11]": {
+   "field_key": "11",
+   "sp3_wire_code": 104,
+   "atl4_wire_code": 216,
+   "notes": "heal amount this frame (player); hit kind (creature)"
+  },
+  "hp [key 12]": {
+   "field_key": "12",
+   "sp3_wire_code": 96,
+   "atl4_wire_code": 88,
+   "notes": "hp (player)"
+  },
+  "player: damage source kind [key 13]": {
+   "field_key": "13",
+   "sp3_wire_code": 200,
+   "atl4_wire_code": 64,
+   "notes": "player: damage source kind (1 melee); static: def index into names.json; creature: owner id (pet)"
+  },
+  "player skin id [key 14]": {
+   "field_key": "14",
+   "sp3_wire_code": 192,
+   "atl4_wire_code": 160,
+   "notes": "player skin id"
+  },
+  "use/swing animation ms [key 15]": {
+   "field_key": "15",
+   "sp3_wire_code": 72,
+   "atl4_wire_code": 176,
+   "notes": "use/swing animation ms"
+  },
+  "pet: owner-related id [key 16]": {
+   "field_key": "16",
+   "sp3_wire_code": 216,
+   "atl4_wire_code": 120,
+   "notes": "pet: owner-related id"
+  },
+  "? [key 17]": {
+   "field_key": "17",
+   "sp3_wire_code": 152,
+   "atl4_wire_code": 72,
+   "notes": "?"
+  },
+  "player name [key 18]": {
+   "field_key": "18",
+   "sp3_wire_code": 168,
+   "atl4_wire_code": 152,
+   "notes": "player name"
+  },
+  "player score [key 19]": {
+   "field_key": "19",
+   "sp3_wire_code": 112,
+   "atl4_wire_code": 184,
+   "notes": "player score (= xp)"
+  },
+  "player age level [key 20]": {
+   "field_key": "20",
+   "sp3_wire_code": 120,
+   "atl4_wire_code": 200,
+   "notes": "player age level"
+  },
+  "creature level/variant [key 21]": {
+   "field_key": "21",
+   "sp3_wire_code": 208,
+   "atl4_wire_code": 56,
+   "notes": "creature level/variant; player badge id"
+  },
+  "creature kind [key 22]": {
+   "field_key": "22",
+   "sp3_wire_code": 160,
+   "atl4_wire_code": 104,
+   "notes": "creature kind (client creature table key)"
+  },
+  "? [key 23]": {
+   "field_key": "23",
+   "sp3_wire_code": 176,
+   "atl4_wire_code": 96,
+   "notes": "?"
+  },
+  "player spawn shield ms [key 24]": {
+   "field_key": "24",
+   "sp3_wire_code": 56,
+   "atl4_wire_code": 80,
+   "notes": "player spawn shield ms; creature timer"
+  },
+  "speed factor [key 25]": {
+   "field_key": "25",
+   "sp3_wire_code": 64,
+   "atl4_wire_code": 144,
+   "notes": "speed factor (10)"
+  },
+  "clan tag [key 26]": {
+   "field_key": "26",
+   "sp3_wire_code": 80,
+   "atl4_wire_code": 128,
+   "notes": "clan tag"
+  },
+  "pet list/extra array [key 27]": {
+   "field_key": "27",
+   "sp3_wire_code": 144,
+   "atl4_wire_code": 192,
+   "notes": "pet list/extra array"
+  }
+ },
+ "tx_ops": {
+  "aim [sp3 0]": {
+   "sp3_op": 0,
+   "atl4_op": 0,
+   "example_values": [
+    [
+     4710,
+     9
+    ],
+    [
+     3630,
+     8
+    ],
+    [
+     2555,
+     7
+    ]
+   ],
+   "notes": "aim (value = angle*1000? 0..6283)"
+  },
+  "? at join [sp3 1]": {
+   "sp3_op": 1,
+   "atl4_op": 12,
+   "example_values": [
+    [
+     0,
+     2
+    ]
+   ],
+   "notes": "? at join (0)"
+  },
+  "? [sp3 2]": {
+   "sp3_op": 2,
+   "atl4_op": 1,
+   "example_values": [
+    [
+     193,
+     3
+    ],
+    [
+     167,
+     2
+    ],
+    [
+     168,
+     2
+    ]
+   ],
+   "notes": "? (values 57-268, item-like)"
+  },
+  "? at join [sp3 3]": {
+   "sp3_op": 3,
+   "atl4_op": 9,
+   "example_values": [
+    [
+     0,
+     2
+    ]
+   ],
+   "notes": "? at join (0)"
+  },
+  "re-key r ^= value; also sent every ~1.3 s while dead/spectating [sp3 4]": {
+   "sp3_op": 4,
+   "atl4_op": 16,
+   "example_values": [
+    [
+     79,
+     3
+    ],
+    [
+     32,
+     3
+    ],
+    [
+     67,
+     2
+    ]
+   ],
+   "notes": "re-key r ^= value; also sent every ~1.3 s while dead/spectating"
+  },
+  "select item [sp3 6]": {
+   "sp3_op": 6,
+   "atl4_op": 10,
+   "example_values": [
+    [
+     169,
+     23
+    ],
+    [
+     167,
+     11
+    ],
+    [
+     170,
+     11
+    ]
+   ],
+   "notes": "select item (value = items.json id)"
+  },
+  "? [sp3 7]": {
+   "sp3_op": 7,
+   "atl4_op": 15,
+   "example_values": [
+    [
+     31,
+     1
+    ]
+   ],
+   "notes": "? (31)"
+  },
+  "heartbeat [sp3 8]": {
+   "sp3_op": 8,
+   "atl4_op": 8,
+   "example_values": [
+    [
+     0,
+     873
+    ]
+   ],
+   "notes": "heartbeat (every ~3 s)"
+  },
+  "attack [sp3 10]": {
+   "sp3_op": 10,
+   "atl4_op": 4,
+   "example_values": [
+    [
+     0,
+     433
+    ],
+    [
+     23185,
+     9
+    ],
+    [
+     49993,
+     8
+    ]
+   ],
+   "notes": "attack (0 release, else angle code)"
+  },
+  "move key [sp3 11]": {
+   "sp3_op": 11,
+   "atl4_op": 5,
+   "example_values": [
+    [
+     0,
+     265
+    ],
+    [
+     3,
+     244
+    ],
+    [
+     1,
+     234
+    ]
+   ],
+   "notes": "move key (dir a0 d1 s2 w3 + 256*pressed; 5 = release all)"
+  },
+  "? [sp3 12]": {
+   "sp3_op": 12,
+   "atl4_op": 6,
+   "example_values": [
+    [
+     6400,
+     2
+    ]
+   ],
+   "notes": "? (6400)"
+  },
+  "join extra [sp3 14]": {
+   "sp3_op": 14,
+   "atl4_op": 3,
+   "example_values": [
+    [
+     11,
+     1
+    ],
+    [
+     20,
+     1
+    ],
+    [
+     25,
+     1
+    ]
+   ],
+   "notes": "join extra (11/20/25)"
+  },
+  "? [sp3 16]": {
+   "sp3_op": 16,
+   "atl4_op": 7,
+   "example_values": [
+    [
+     6400,
+     1
+    ]
+   ],
+   "notes": "? (6400)"
+  }
+ },
+ "tx_json_types": {
+  "68": {
+   "atl4_type": 1,
+   "example": {
+    "type": 68,
+    "c": "1q1r0I1q1*1*0S070_0%..."
+   }
+  },
+  "67": {
+   "atl4_type": 28,
+   "example": {
+    "type": 67,
+    "dg": "20205_1554692334"
+   }
+  },
+  "14": {
+   "atl4_type": 48,
+   "example": {
+    "type": 14,
+    "I": 4972447,
+    "S": 4
+   }
+  },
+  "9": {
+   "atl4_type": 68,
+   "example": {
+    "type": 9,
+    "o": 45
+   }
+  },
+  "0": {
+   "atl4_type": 39,
+   "example": {
+    "type": 0,
+    "msg": "hety",
+    "tm": 1
+   }
+  },
+  "18": {
+   "atl4_type": 45,
+   "example": {
+    "type": 18,
+    "_": 5016212
+   }
+  }
+ }
+}

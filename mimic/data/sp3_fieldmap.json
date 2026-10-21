@@ -1,0 +1,1381 @@
+{
+ "server_key": "saopaulo5",
+ "ref_key": "atlanta4",
+ "seeds": [
+  35929,
+  62041
+ ],
+ "note": "field_codes: wire code -> field key. Field keys are the same on every server (only wire codes, type ids and tx op ids are shuffled). types: sp3 type id -> client name + Atlanta#4 id. ops: sp3 tx base op -> Atlanta#4 base op.",
+ "field_codes": {
+  "0": "0",
+  "8": "1",
+  "16": "2",
+  "24": "3",
+  "32": "4",
+  "40": "5",
+  "48": "6",
+  "56": "24",
+  "64": "25",
+  "72": "15",
+  "80": "26",
+  "88": "9",
+  "96": "12",
+  "104": "11",
+  "112": "19",
+  "120": "20",
+  "128": "10",
+  "136": "8",
+  "144": "27",
+  "152": "17",
+  "160": "22",
+  "168": "18",
+  "176": "23",
+  "184": "7",
+  "192": "14",
+  "200": "13",
+  "208": "21",
+  "216": "16"
+ },
+ "atl4_field_codes": {
+  "0": "0",
+  "8": "1",
+  "16": "2",
+  "24": "3",
+  "32": "4",
+  "40": "5",
+  "48": "6",
+  "56": "21",
+  "64": "13",
+  "72": "17",
+  "80": "24",
+  "88": "12",
+  "96": "23",
+  "104": "22",
+  "112": "9",
+  "120": "16",
+  "128": "26",
+  "136": "10",
+  "144": "25",
+  "152": "18",
+  "160": "14",
+  "168": "7",
+  "176": "15",
+  "184": "19",
+  "192": "27",
+  "200": "20",
+  "208": "8",
+  "216": "11"
+ },
+ "types": {
+  "0": {
+   "client": "_6453",
+   "atl4": 39,
+   "atl4_name": null
+  },
+  "1": {
+   "client": "_4182",
+   "atl4": 14,
+   "atl4_name": null
+  },
+  "2": {
+   "client": "_12140",
+   "atl4": 66,
+   "atl4_name": null
+  },
+  "3": {
+   "client": "_3430",
+   "atl4": 75,
+   "atl4_name": null
+  },
+  "4": {
+   "client": "_12146",
+   "atl4": 56,
+   "atl4_name": null
+  },
+  "5": {
+   "client": "_6225",
+   "atl4": 2,
+   "atl4_name": null
+  },
+  "6": {
+   "client": "_8364",
+   "atl4": 79,
+   "atl4_name": "create"
+  },
+  "7": {
+   "client": "_12155",
+   "atl4": 49,
+   "atl4_name": null
+  },
+  "8": {
+   "client": "_8281",
+   "atl4": 52,
+   "atl4_name": null
+  },
+  "9": {
+   "client": "_5648",
+   "atl4": 68,
+   "atl4_name": "clan_list"
+  },
+  "10": {
+   "client": "_12181",
+   "atl4": 7,
+   "atl4_name": null
+  },
+  "11": {
+   "client": "_12171",
+   "atl4": 72,
+   "atl4_name": null
+  },
+  "12": {
+   "client": "_12169",
+   "atl4": 54,
+   "atl4_name": null
+  },
+  "13": {
+   "client": "_1625",
+   "atl4": 4,
+   "atl4_name": null
+  },
+  "14": {
+   "client": "_6205",
+   "atl4": 48,
+   "atl4_name": null
+  },
+  "15": {
+   "client": "_12176",
+   "atl4": 20,
+   "atl4_name": null
+  },
+  "16": {
+   "client": "_12142",
+   "atl4": 29,
+   "atl4_name": null
+  },
+  "17": {
+   "client": "_12132",
+   "atl4": 47,
+   "atl4_name": null
+  },
+  "18": {
+   "client": "_4203",
+   "atl4": 45,
+   "atl4_name": null
+  },
+  "19": {
+   "client": "_8487",
+   "atl4": 84,
+   "atl4_name": "move"
+  },
+  "20": {
+   "client": "_12149",
+   "atl4": 17,
+   "atl4_name": null
+  },
+  "21": {
+   "client": "_12187",
+   "atl4": 85,
+   "atl4_name": null
+  },
+  "22": {
+   "client": "_12165",
+   "atl4": 35,
+   "atl4_name": null
+  },
+  "23": {
+   "client": "_12168",
+   "atl4": 74,
+   "atl4_name": null
+  },
+  "24": {
+   "client": "_12143",
+   "atl4": 15,
+   "atl4_name": null
+  },
+  "25": {
+   "client": "_12175",
+   "atl4": 51,
+   "atl4_name": null
+  },
+  "26": {
+   "client": "_4286",
+   "atl4": 6,
+   "atl4_name": "death"
+  },
+  "27": {
+   "client": "_5660",
+   "atl4": 87,
+   "atl4_name": "remove"
+  },
+  "28": {
+   "client": "_12159",
+   "atl4": 83,
+   "atl4_name": null
+  },
+  "29": {
+   "client": "_4209",
+   "atl4": 73,
+   "atl4_name": null
+  },
+  "30": {
+   "client": "_1782",
+   "atl4": 42,
+   "atl4_name": null
+  },
+  "31": {
+   "client": "_12179",
+   "atl4": 33,
+   "atl4_name": null
+  },
+  "32": {
+   "client": "_12177",
+   "atl4": 24,
+   "atl4_name": null
+  },
+  "33": {
+   "client": "_12166",
+   "atl4": 3,
+   "atl4_name": null
+  },
+  "34": {
+   "client": "_5771",
+   "atl4": 34,
+   "atl4_name": null
+  },
+  "35": {
+   "client": "_12167",
+   "atl4": 60,
+   "atl4_name": null
+  },
+  "36": {
+   "client": "_12151",
+   "atl4": 63,
+   "atl4_name": null
+  },
+  "37": {
+   "client": "_6343",
+   "atl4": 0,
+   "atl4_name": null
+  },
+  "38": {
+   "client": "_4183",
+   "atl4": 76,
+   "atl4_name": null
+  },
+  "39": {
+   "client": "_12158",
+   "atl4": 16,
+   "atl4_name": null
+  },
+  "40": {
+   "client": "_12152",
+   "atl4": 71,
+   "atl4_name": null
+  },
+  "41": {
+   "client": "_12163",
+   "atl4": 55,
+   "atl4_name": null
+  },
+  "42": {
+   "client": "_12139",
+   "atl4": 13,
+   "atl4_name": null
+  },
+  "43": {
+   "client": "_12160",
+   "atl4": 12,
+   "atl4_name": null
+  },
+  "44": {
+   "client": "_12156",
+   "atl4": 67,
+   "atl4_name": null
+  },
+  "45": {
+   "client": "_12174",
+   "atl4": 77,
+   "atl4_name": null
+  },
+  "46": {
+   "client": "_12154",
+   "atl4": 50,
+   "atl4_name": null
+  },
+  "47": {
+   "client": "_2532",
+   "atl4": 40,
+   "atl4_name": null
+  },
+  "48": {
+   "client": "_5791",
+   "atl4": 65,
+   "atl4_name": null
+  },
+  "49": {
+   "client": "_3075",
+   "atl4": 57,
+   "atl4_name": null
+  },
+  "50": {
+   "client": "_12180",
+   "atl4": 38,
+   "atl4_name": null
+  },
+  "51": {
+   "client": "_12182",
+   "atl4": 62,
+   "atl4_name": null
+  },
+  "52": {
+   "client": "_6550",
+   "atl4": 31,
+   "atl4_name": "?31"
+  },
+  "53": {
+   "client": "_12172",
+   "atl4": 30,
+   "atl4_name": null
+  },
+  "54": {
+   "client": "_2497",
+   "atl4": 53,
+   "atl4_name": "inventory"
+  },
+  "55": {
+   "client": "_12138",
+   "atl4": 41,
+   "atl4_name": null
+  },
+  "56": {
+   "client": "_12170",
+   "atl4": 9,
+   "atl4_name": null
+  },
+  "57": {
+   "client": "_12136",
+   "atl4": 19,
+   "atl4_name": "own_id"
+  },
+  "58": {
+   "client": "_12133",
+   "atl4": 36,
+   "atl4_name": "item_count"
+  },
+  "59": {
+   "client": "_12137",
+   "atl4": 70,
+   "atl4_name": null
+  },
+  "60": {
+   "client": "_12162",
+   "atl4": 10,
+   "atl4_name": null
+  },
+  "61": {
+   "client": "_12157",
+   "atl4": 46,
+   "atl4_name": null
+  },
+  "62": {
+   "client": "_12147",
+   "atl4": 8,
+   "atl4_name": null
+  },
+  "63": {
+   "client": "_12178",
+   "atl4": 86,
+   "atl4_name": "?86"
+  },
+  "64": {
+   "client": "_12150",
+   "atl4": 26,
+   "atl4_name": null
+  },
+  "65": {
+   "client": "_12135",
+   "atl4": 59,
+   "atl4_name": "own_info"
+  },
+  "66": {
+   "client": "_3074",
+   "atl4": 44,
+   "atl4_name": null
+  },
+  "67": {
+   "client": "_3992",
+   "atl4": 28,
+   "atl4_name": null
+  },
+  "68": {
+   "client": "_12145",
+   "atl4": 1,
+   "atl4_name": null
+  },
+  "69": {
+   "client": "_12153",
+   "atl4": 61,
+   "atl4_name": null
+  },
+  "70": {
+   "client": "_12173",
+   "atl4": 11,
+   "atl4_name": "?11"
+  },
+  "71": {
+   "client": "_938",
+   "atl4": 32,
+   "atl4_name": "timer"
+  },
+  "72": {
+   "client": "_12184",
+   "atl4": 58,
+   "atl4_name": "?58"
+  },
+  "73": {
+   "client": "_12183",
+   "atl4": 69,
+   "atl4_name": null
+  },
+  "74": {
+   "client": "_8173",
+   "atl4": 37,
+   "atl4_name": null
+  },
+  "75": {
+   "client": "_8139",
+   "atl4": 27,
+   "atl4_name": "xp"
+  },
+  "76": {
+   "client": "_12144",
+   "atl4": 18,
+   "atl4_name": null
+  },
+  "77": {
+   "client": "_12185",
+   "atl4": 78,
+   "atl4_name": null
+  },
+  "78": {
+   "client": "_6223",
+   "atl4": 5,
+   "atl4_name": null
+  },
+  "79": {
+   "client": "_5780",
+   "atl4": 80,
+   "atl4_name": null
+  },
+  "80": {
+   "client": "_12141",
+   "atl4": 23,
+   "atl4_name": null
+  },
+  "81": {
+   "client": "_12186",
+   "atl4": 25,
+   "atl4_name": null
+  },
+  "82": {
+   "client": "_12161",
+   "atl4": 43,
+   "atl4_name": "?43"
+  },
+  "83": {
+   "client": "_12148",
+   "atl4": 64,
+   "atl4_name": "board"
+  },
+  "84": {
+   "client": "_12134",
+   "atl4": 22,
+   "atl4_name": null
+  },
+  "85": {
+   "client": "_12131",
+   "atl4": 81,
+   "atl4_name": null
+  },
+  "86": {
+   "client": "_12164",
+   "atl4": 21,
+   "atl4_name": null
+  },
+  "87": {
+   "client": "_4212",
+   "atl4": 82,
+   "atl4_name": null
+  }
+ },
+ "ops": {
+  "0": {
+   "client": "_1423",
+   "atl4": 0,
+   "atl4_name": "aim"
+  },
+  "1": {
+   "client": "_5373",
+   "atl4": 12,
+   "atl4_name": null
+  },
+  "2": {
+   "client": "_5635",
+   "atl4": 1,
+   "atl4_name": null
+  },
+  "3": {
+   "client": "_5321",
+   "atl4": 9,
+   "atl4_name": null
+  },
+  "4": {
+   "client": "_12195",
+   "atl4": 16,
+   "atl4_name": "rekey"
+  },
+  "5": {
+   "client": "_1445",
+   "atl4": 17,
+   "atl4_name": null
+  },
+  "6": {
+   "client": "_5467",
+   "atl4": 10,
+   "atl4_name": "select"
+  },
+  "7": {
+   "client": "_7385",
+   "atl4": 15,
+   "atl4_name": "join_b"
+  },
+  "8": {
+   "client": "_7266",
+   "atl4": 8,
+   "atl4_name": "heartbeat"
+  },
+  "9": {
+   "client": "_1521",
+   "atl4": 11,
+   "atl4_name": null
+  },
+  "10": {
+   "client": "_12197",
+   "atl4": 4,
+   "atl4_name": "attack"
+  },
+  "11": {
+   "client": "_12198",
+   "atl4": 5,
+   "atl4_name": "key"
+  },
+  "12": {
+   "client": "_5263",
+   "atl4": 6,
+   "atl4_name": null
+  },
+  "13": {
+   "client": "_12196",
+   "atl4": 2,
+   "atl4_name": null
+  },
+  "14": {
+   "client": "_6442",
+   "atl4": 3,
+   "atl4_name": "join_a"
+  },
+  "15": {
+   "client": "_1555",
+   "atl4": 14,
+   "atl4_name": null
+  },
+  "16": {
+   "client": "_5225",
+   "atl4": 7,
+   "atl4_name": null
+  },
+  "17": {
+   "client": "_5212",
+   "atl4": 13,
+   "atl4_name": null
+  }
+ },
+ "creatures": {
+  "0": {
+   "sprite": "wolf",
+   "name": "Wolf",
+   "seq_index": 0
+  },
+  "1": {
+   "sprite": "rabbit",
+   "name": "Rabbit",
+   "seq_index": 1
+  },
+  "2": {
+   "sprite": "bear",
+   "name": "Bear",
+   "seq_index": 2
+  },
+  "3": {
+   "sprite": "fox",
+   "name": "Fox",
+   "seq_index": 9
+  },
+  "4": {
+   "sprite": "polecat",
+   "name": "Polecat",
+   "seq_index": 10
+  },
+  "5": {
+   "sprite": "skunk",
+   "name": "Skunk",
+   "seq_index": 11
+  },
+  "6": {
+   "sprite": "bull",
+   "name": "Bull",
+   "seq_index": 12
+  },
+  "7": {
+   "sprite": "cow",
+   "name": "Cow",
+   "seq_index": 13
+  },
+  "8": {
+   "sprite": "horse",
+   "name": "Horse",
+   "seq_index": 16
+  },
+  "9": {
+   "sprite": "snow-wolf",
+   "name": "Snow Wolf",
+   "seq_index": 19
+  },
+  "10": {
+   "sprite": "snow-rabbit",
+   "name": "Snow Rabbit",
+   "seq_index": 20
+  },
+  "11": {
+   "sprite": "snow-bear",
+   "name": "Polar Bear",
+   "seq_index": 21
+  },
+  "12": {
+   "sprite": "snow-fox",
+   "name": "Snow Fox",
+   "seq_index": 22
+  },
+  "13": {
+   "sprite": "reindeer",
+   "name": "Reindeer",
+   "seq_index": 31
+  },
+  "14": {
+   "sprite": "lynx",
+   "name": "Lynx",
+   "seq_index": 33
+  },
+  "15": {
+   "sprite": "deer",
+   "name": "Deer",
+   "seq_index": 38
+  },
+  "16": {
+   "sprite": "boar",
+   "name": "Boar",
+   "seq_index": 39
+  },
+  "17": {
+   "sprite": "water-fairy",
+   "name": "Water Fairy",
+   "seq_index": 40
+  },
+  "18": {
+   "sprite": "fire-fairy",
+   "name": "Fire Fairy",
+   "seq_index": 41
+  },
+  "19": {
+   "sprite": "plant-fairy",
+   "name": "Plant Fairy",
+   "seq_index": 48
+  },
+  "20": {
+   "sprite": "dragon",
+   "name": "Dragon",
+   "seq_index": 58
+  },
+  "21": {
+   "sprite": "ice-golem",
+   "name": "Ice Golem",
+   "seq_index": 64
+  },
+  "22": {
+   "sprite": "iceberg",
+   "name": "Iceberg",
+   "seq_index": 65
+  },
+  "23": {
+   "sprite": "owl",
+   "name": "Barn Owl",
+   "seq_index": 70
+  },
+  "24": {
+   "sprite": "raven",
+   "name": "Raven",
+   "seq_index": 72
+  },
+  "25": {
+   "sprite": "bat",
+   "name": "Bat",
+   "seq_index": 77
+  },
+  "26": {
+   "sprite": "goldfish",
+   "name": "Goldfish",
+   "seq_index": 79
+  },
+  "27": {
+   "sprite": "easter-bunny",
+   "name": "Easter Bunny",
+   "seq_index": 80
+  },
+  "28": {
+   "sprite": "rabbat",
+   "name": "Rabbat",
+   "seq_index": 81
+  },
+  "29": {
+   "sprite": "rabbid",
+   "name": "Rabbid",
+   "seq_index": 84
+  },
+  "30": {
+   "sprite": "white-spider",
+   "name": "White Spider",
+   "seq_index": 86
+  },
+  "31": {
+   "sprite": "black-spider",
+   "name": "Black Spider",
+   "seq_index": 87
+  },
+  "32": {
+   "sprite": "living-mushroom",
+   "name": "Living Mushroom",
+   "seq_index": 88
+  },
+  "33": {
+   "sprite": "sheep",
+   "name": "Sheep",
+   "seq_index": 89
+  },
+  "34": {
+   "sprite": "unicorn",
+   "name": "Unicorn",
+   "seq_index": 18
+  },
+  "35": {
+   "sprite": "spectrum",
+   "name": "Spectrum",
+   "seq_index": 23
+  },
+  "36": {
+   "sprite": "combat-fairy",
+   "name": "Combat Fairy",
+   "seq_index": 49
+  },
+  "37": {
+   "sprite": "ice-fairy",
+   "name": "Ice Fairy",
+   "seq_index": 51
+  },
+  "38": {
+   "sprite": "normal-fairy",
+   "name": "Normal Fairy",
+   "seq_index": 50
+  },
+  "39": {
+   "sprite": "rat",
+   "name": "Rat",
+   "seq_index": 78
+  },
+  "40": {
+   "sprite": "ibex",
+   "name": "Ibex",
+   "seq_index": 90
+  },
+  "41": {
+   "sprite": "mammoth",
+   "name": "Mammoth",
+   "seq_index": 27
+  },
+  "42": {
+   "sprite": "fennec-fox",
+   "name": "Fennec Fox",
+   "seq_index": 5
+  },
+  "43": {
+   "sprite": "armadillo",
+   "name": "Armadillo",
+   "seq_index": 6
+  },
+  "44": {
+   "sprite": "yellow-scorpion",
+   "name": "Yellow Scorpion",
+   "seq_index": 8
+  },
+  "45": {
+   "sprite": "rock-fairy",
+   "name": "Rock Fairy",
+   "seq_index": 42
+  },
+  "46": {
+   "sprite": "dragon-fairy",
+   "name": "Dragon Fairy",
+   "seq_index": 43
+  },
+  "47": {
+   "sprite": "camel",
+   "name": "Camel",
+   "seq_index": 3
+  },
+  "48": {
+   "sprite": "black-cat",
+   "name": "Black Cat",
+   "seq_index": 4
+  },
+  "49": {
+   "sprite": "vulture",
+   "name": "Vulture",
+   "seq_index": 71
+  },
+  "50": {
+   "sprite": "electric-fairy",
+   "name": "Electric Fairy",
+   "seq_index": 44
+  },
+  "51": {
+   "sprite": "poison-fairy",
+   "name": "Poison Fairy",
+   "seq_index": 45
+  },
+  "52": {
+   "sprite": "spectrum-fairy",
+   "name": "Spectrum Fairy",
+   "seq_index": 47
+  },
+  "53": {
+   "sprite": "ostrich",
+   "name": "Ostrich",
+   "seq_index": 14
+  },
+  "54": {
+   "sprite": "krampus",
+   "name": "Krampus",
+   "seq_index": 32
+  },
+  "55": {
+   "sprite": "insect-fairy",
+   "name": "Insect Fairy",
+   "seq_index": 46
+  },
+  "56": {
+   "sprite": "mantis",
+   "name": "Giant Mantis",
+   "seq_index": 56
+  },
+  "57": {
+   "sprite": "giant-bee",
+   "name": "Giant Bee",
+   "seq_index": 55
+  },
+  "58": {
+   "sprite": "giant-moth",
+   "name": "Giant Moth",
+   "seq_index": 52
+  },
+  "59": {
+   "sprite": "oryx",
+   "name": "Oryx",
+   "seq_index": 15
+  },
+  "60": {
+   "sprite": "rabblow",
+   "name": "Rabblow",
+   "seq_index": 83
+  },
+  "61": {
+   "sprite": "caracal",
+   "name": "Caracal",
+   "seq_index": 36
+  },
+  "62": {
+   "sprite": "stone-golem",
+   "name": "Stone Golem",
+   "seq_index": 61
+  },
+  "63": {
+   "sprite": "menhir",
+   "name": "Menhir",
+   "seq_index": 62
+  },
+  "64": {
+   "sprite": "warg",
+   "name": "Warg",
+   "seq_index": 34
+  },
+  "65": {
+   "sprite": "grim-reaper",
+   "name": "Reaper",
+   "seq_index": 114
+  },
+  "66": {
+   "sprite": "kangaroo",
+   "name": "Kangaroo",
+   "seq_index": 37
+  },
+  "67": {
+   "sprite": "toad",
+   "name": "Toad",
+   "seq_index": 91
+  },
+  "68": {
+   "sprite": "flying-squirrel",
+   "name": "Flying Squirrel",
+   "seq_index": 57
+  },
+  "69": {
+   "sprite": "turkey",
+   "name": "Turkey",
+   "seq_index": 69
+  },
+  "70": {
+   "sprite": "normal-mask",
+   "name": "Normal Mask",
+   "seq_index": 129
+  },
+  "71": {
+   "sprite": "rock-mask",
+   "name": "Rock Mask",
+   "seq_index": 130
+  },
+  "72": {
+   "sprite": "water-mask",
+   "name": "Water Mask",
+   "seq_index": 131
+  },
+  "73": {
+   "sprite": "plant-mask",
+   "name": "Plant Mask",
+   "seq_index": 132
+  },
+  "74": {
+   "sprite": "ice-mask",
+   "name": "Ice Mask",
+   "seq_index": 133
+  },
+  "75": {
+   "sprite": "hedgehog",
+   "name": "Hedgehog",
+   "seq_index": 7
+  },
+  "76": {
+   "sprite": "ice-dragon",
+   "name": "Ice Dragon",
+   "seq_index": 59
+  },
+  "77": {
+   "sprite": "sea-crab",
+   "name": "Sea Crab",
+   "seq_index": 136
+  },
+  "78": {
+   "sprite": "squid",
+   "name": "Squid",
+   "seq_index": 137
+  },
+  "79": {
+   "sprite": "seahorse",
+   "name": "Seahorse",
+   "seq_index": 138
+  },
+  "80": {
+   "sprite": "mauve",
+   "name": "Mauve",
+   "seq_index": 139
+  },
+  "81": {
+   "sprite": "rabbyss",
+   "name": "Rabbyss",
+   "seq_index": 82
+  },
+  "82": {
+   "sprite": "stingray",
+   "name": "Stingray",
+   "seq_index": 76
+  },
+  "83": {
+   "sprite": "axolotl",
+   "name": "Axolotl",
+   "seq_index": 35
+  },
+  "84": {
+   "sprite": "shark",
+   "name": "Shark",
+   "seq_index": 17
+  },
+  "85": {
+   "sprite": "octopus",
+   "name": "Octopus",
+   "seq_index": 24
+  },
+  "86": {
+   "sprite": "genie",
+   "name": "Genie",
+   "seq_index": 29
+  },
+  "87": {
+   "sprite": "mermaid",
+   "name": "Siren",
+   "seq_index": 30
+  },
+  "88": {
+   "sprite": "plant-statue",
+   "name": "Plant Statue",
+   "seq_index": 92
+  },
+  "89": {
+   "sprite": "fire-statue",
+   "name": "Fire Statue",
+   "seq_index": 94
+  },
+  "90": {
+   "sprite": "water-statue",
+   "name": "Water Statue",
+   "seq_index": 93
+  },
+  "91": {
+   "sprite": "dog",
+   "name": "Dog",
+   "seq_index": 146
+  },
+  "92": {
+   "sprite": "acidog",
+   "name": "Acidog",
+   "seq_index": 141
+  },
+  "93": {
+   "sprite": "coldog",
+   "name": "Coldog",
+   "seq_index": 140
+  },
+  "94": {
+   "sprite": "bugdog",
+   "name": "Bugdog",
+   "seq_index": 142
+  },
+  "95": {
+   "sprite": "scrappy-shadow",
+   "name": "Scrappy Shadow",
+   "seq_index": 95
+  },
+  "96": {
+   "sprite": "digger-shadow",
+   "name": "Digger Shadow",
+   "seq_index": 96
+  },
+  "97": {
+   "sprite": "pudgy-shadow",
+   "name": "Pudgy Shadow",
+   "seq_index": 97
+  },
+  "98": {
+   "sprite": "guardian-shadow",
+   "name": "Guardian Shadow",
+   "seq_index": 99
+  },
+  "99": {
+   "sprite": "adoring-shadow",
+   "name": "Adoring Shadow",
+   "seq_index": 98
+  },
+  "100": {
+   "sprite": "savant-shadow",
+   "name": "Savant Shadow",
+   "seq_index": 100
+  },
+  "101": {
+   "sprite": "gold-golem",
+   "name": "Gold Golem",
+   "seq_index": 63
+  },
+  "102": {
+   "sprite": "penguin",
+   "name": "Penguin",
+   "seq_index": 73
+  },
+  "103": {
+   "sprite": "yeti",
+   "name": "Yeti",
+   "seq_index": 28
+  },
+  "104": {
+   "sprite": "inferno-gaze",
+   "name": "Inferno Gaze",
+   "seq_index": 101
+  },
+  "105": {
+   "sprite": "infesting-gaze",
+   "name": "Infesting Gaze",
+   "seq_index": 103
+  },
+  "106": {
+   "sprite": "punchy-gaze",
+   "name": "Punchy Gaze",
+   "seq_index": 106
+  },
+  "107": {
+   "sprite": "glacial-gaze",
+   "name": "Glacial Gaze",
+   "seq_index": 107
+  },
+  "108": {
+   "sprite": "spectral-gaze",
+   "name": "Spectral Gaze",
+   "seq_index": 105
+  },
+  "109": {
+   "sprite": "draconic-gaze",
+   "name": "Draconic Gaze",
+   "seq_index": 104
+  },
+  "110": {
+   "sprite": "enchanting-gaze",
+   "name": "Enchanting Gaze",
+   "seq_index": 102
+  },
+  "111": {
+   "sprite": "hellhound",
+   "name": "Hellhound",
+   "seq_index": 108
+  },
+  "112": {
+   "sprite": "salamander",
+   "name": "Salamander",
+   "seq_index": 109
+  },
+  "113": {
+   "sprite": "lizardman",
+   "name": "Lizardman",
+   "seq_index": 110
+  },
+  "114": {
+   "sprite": "dark-wisp",
+   "name": "Dark Wisp",
+   "seq_index": 111
+  },
+  "115": {
+   "sprite": "fire-wisp",
+   "name": "Fire Wisp",
+   "seq_index": 112
+  },
+  "116": {
+   "sprite": "cratodon",
+   "name": "Cratodon",
+   "seq_index": 113
+  },
+  "117": {
+   "sprite": "floodog",
+   "name": "Floodog",
+   "seq_index": 143
+  },
+  "118": {
+   "sprite": "rexdog",
+   "name": "Rexdog",
+   "seq_index": 144
+  },
+  "119": {
+   "sprite": "rabburn",
+   "name": "Rabburn",
+   "seq_index": 85
+  },
+  "120": {
+   "sprite": "seal",
+   "name": "Seal",
+   "seq_index": 74
+  },
+  "121": {
+   "sprite": "volcanic-golem",
+   "name": "Volcanic Golem",
+   "seq_index": 66
+  },
+  "122": {
+   "sprite": "mantle",
+   "name": "Mantle",
+   "seq_index": 67
+  },
+  "123": {
+   "sprite": "lava-golem",
+   "name": "Lava Golem",
+   "seq_index": 68
+  },
+  "124": {
+   "sprite": "slime",
+   "name": "Slime",
+   "seq_index": 153
+  },
+  "125": {
+   "sprite": "snowman",
+   "name": "Snowman",
+   "seq_index": 75
+  },
+  "126": {
+   "sprite": "snowball",
+   "name": "Snowball",
+   "seq_index": 154
+  },
+  "127": {
+   "sprite": "normal-needle",
+   "name": "Normal Boostling",
+   "seq_index": 115
+  },
+  "128": {
+   "sprite": "rock-needle",
+   "name": "Rock Boostling",
+   "seq_index": 116
+  },
+  "129": {
+   "sprite": "water-needle",
+   "name": "Water Boostling",
+   "seq_index": 117
+  },
+  "130": {
+   "sprite": "electric-needle",
+   "name": "Electric Boostling",
+   "seq_index": 118
+  },
+  "131": {
+   "sprite": "plant-needle",
+   "name": "Plant Boostling",
+   "seq_index": 119
+  },
+  "132": {
+   "sprite": "poison-needle",
+   "name": "Poison Boostling",
+   "seq_index": 120
+  },
+  "133": {
+   "sprite": "insect-needle",
+   "name": "Insect Boostling",
+   "seq_index": 121
+  },
+  "134": {
+   "sprite": "combat-needle",
+   "name": "Combat Boostling",
+   "seq_index": 122
+  },
+  "135": {
+   "sprite": "fire-needle",
+   "name": "Fire Boostling",
+   "seq_index": 123
+  },
+  "136": {
+   "sprite": "ice-needle",
+   "name": "Ice Boostling",
+   "seq_index": 124
+  },
+  "137": {
+   "sprite": "spectrum-needle",
+   "name": "Spectrum Boostling",
+   "seq_index": 125
+  },
+  "138": {
+   "sprite": "dragon-needle",
+   "name": "Dragon Boostling",
+   "seq_index": 126
+  },
+  "139": {
+   "sprite": "fairy-needle",
+   "name": "Fairy Boostling",
+   "seq_index": 127
+  },
+  "140": {
+   "sprite": "ancient-needle",
+   "name": "Ancient Boostling",
+   "seq_index": 128
+  },
+  "141": {
+   "sprite": "fire-dragon",
+   "name": "Fire Dragon",
+   "seq_index": 60
+  },
+  "142": {
+   "sprite": "giant-fly",
+   "name": "Giant Fly",
+   "seq_index": 53
+  },
+  "143": {
+   "sprite": "chicken",
+   "name": "Chicken",
+   "seq_index": 147
+  },
+  "144": {
+   "sprite": "floren",
+   "name": "Floren",
+   "seq_index": 149
+  },
+  "145": {
+   "sprite": "pyren",
+   "name": "Pyren",
+   "seq_index": 152
+  },
+  "146": {
+   "sprite": "aquen",
+   "name": "Aquen",
+   "seq_index": 150
+  },
+  "147": {
+   "sprite": "richen",
+   "name": "Richen",
+   "seq_index": 148
+  },
+  "148": {
+   "sprite": "voltdog",
+   "name": "Voltdog",
+   "seq_index": 145
+  },
+  "149": {
+   "sprite": "sparken",
+   "name": "Sparken",
+   "seq_index": 151
+  },
+  "150": {
+   "sprite": "silkworm",
+   "name": "Silkworm",
+   "seq_index": 54
+  },
+  "151": {
+   "sprite": "mimipot",
+   "name": "Mimipot",
+   "seq_index": 25
+  },
+  "152": {
+   "sprite": "foliroar",
+   "name": "Foliroar",
+   "seq_index": 26
+  },
+  "153": {
+   "sprite": "spectrum-mask",
+   "name": "Spectrum Mask",
+   "seq_index": 134
+  },
+  "154": {
+   "sprite": "poison-mask",
+   "name": "Poison Mask",
+   "seq_index": 135
+  }
+ },
+ "creatures_note": "client creature table (_3134) keyed by kind id; field 22 of a category-0 create is the kind (memory snapshot names read dust<22>-)"
+}

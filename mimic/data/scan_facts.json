@@ -1,0 +1,1350 @@
+{
+ "note": "rx-only game numbers over 514 decoded captures (tools/scan/scan_facts.py); n = samples, files = captures",
+ "tick": {
+  "median_s": 0.117,
+  "p10_s": 0.089,
+  "p90_s": 0.13,
+  "n": 301412
+ },
+ "swing": {
+  "57": {
+   "name": "Stone Hammer",
+   "period_s": 0.504,
+   "median_s": 0.631,
+   "n": 702,
+   "files": 91
+  },
+  "0": {
+   "name": "Hand",
+   "period_s": 0.637,
+   "median_s": 0.755,
+   "n": 874,
+   "files": 126
+  },
+  "58": {
+   "name": "Golden Hammer",
+   "period_s": 0.386,
+   "median_s": 0.632,
+   "n": 381,
+   "files": 44
+  },
+  "60": {
+   "name": "Amethyst Hammer",
+   "period_s": 0.625,
+   "median_s": 0.658,
+   "n": 221,
+   "files": 26
+  },
+  "72": {
+   "name": "Stone Axe",
+   "period_s": 0.466,
+   "median_s": 0.947,
+   "n": 361,
+   "files": 31
+  },
+  "73": {
+   "name": "Golden Axe",
+   "period_s": 0.425,
+   "median_s": 1.029,
+   "n": 189,
+   "files": 10
+  },
+  "95": {
+   "name": "Stone Shield",
+   "period_s": 0.38,
+   "median_s": 0.572,
+   "n": 29,
+   "files": 2
+  },
+  "74": {
+   "name": "Ruby Axe",
+   "period_s": 0.441,
+   "median_s": 1.045,
+   "n": 493,
+   "files": 10
+  },
+  "96": {
+   "name": "Golden Shield",
+   "period_s": 0.376,
+   "median_s": 0.57,
+   "n": 27,
+   "files": 2
+  },
+  "59": {
+   "name": "Ruby Hammer",
+   "period_s": 0.445,
+   "median_s": 0.661,
+   "n": 305,
+   "files": 26
+  },
+  "75": {
+   "name": "Amethyst Axe",
+   "period_s": 0.373,
+   "median_s": 1.129,
+   "n": 83,
+   "files": 5
+  },
+  "62": {
+   "name": "Diamond Hammer",
+   "period_s": 0.388,
+   "median_s": 0.756,
+   "n": 234,
+   "files": 33
+  },
+  "169": {
+   "name": "Salad",
+   "period_s": 0.379,
+   "median_s": 0.631,
+   "n": 10,
+   "files": 4
+  },
+  "81": {
+   "name": "Ruby Labrys",
+   "period_s": 0.476,
+   "median_s": 1.502,
+   "n": 9,
+   "files": 4
+  },
+  "65": {
+   "name": "Golden Pickaxe",
+   "period_s": 0.49,
+   "median_s": 0.94,
+   "n": 103,
+   "files": 4
+  },
+  "66": {
+   "name": "Ruby Pickaxe",
+   "period_s": 0.442,
+   "median_s": 0.945,
+   "n": 190,
+   "files": 2
+  },
+  "67": {
+   "name": "Amethyst Pickaxe",
+   "period_s": 0.451,
+   "median_s": 0.945,
+   "n": 127,
+   "files": 2
+  },
+  "68": {
+   "name": "Sapphire Pickaxe",
+   "period_s": 0.389,
+   "median_s": 1.041,
+   "n": 63,
+   "files": 3
+  },
+  "98": {
+   "name": "Amethyst Shield",
+   "period_s": 0.559,
+   "median_s": 0.633,
+   "n": 17,
+   "files": 4
+  },
+  "61": {
+   "name": "Sapphire Hammer",
+   "period_s": 0.536,
+   "median_s": 0.754,
+   "n": 107,
+   "files": 17
+  },
+  "47": {
+   "name": "Diamond Daggers",
+   "period_s": 0.333,
+   "median_s": 0.379,
+   "n": 1089,
+   "files": 54
+  },
+  "42": {
+   "name": "Stone Daggers",
+   "period_s": 0.37,
+   "median_s": 0.378,
+   "n": 1165,
+   "files": 68
+  },
+  "325": {
+   "name": "Raptorial Daggers Level 2",
+   "period_s": 0.375,
+   "median_s": 0.382,
+   "n": 7,
+   "files": 1
+  },
+  "167": {
+   "name": "Cookie",
+   "period_s": 0.381,
+   "median_s": 0.512,
+   "n": 15,
+   "files": 11
+  },
+  "45": {
+   "name": "Amethyst Daggers",
+   "period_s": 0.338,
+   "median_s": 0.379,
+   "n": 348,
+   "files": 28
+  },
+  "46": {
+   "name": "Sapphire Daggers",
+   "period_s": 0.37,
+   "median_s": 0.379,
+   "n": 368,
+   "files": 25
+  },
+  "158": {
+   "name": "Golden Appletor",
+   "period_s": 0.492,
+   "median_s": 1.006,
+   "n": 39,
+   "files": 7
+  },
+  "155": {
+   "name": "Appletor",
+   "period_s": 0.621,
+   "median_s": 1.001,
+   "n": 50,
+   "files": 5
+  },
+  "97": {
+   "name": "Ruby Shield",
+   "period_s": 0.501,
+   "median_s": 0.631,
+   "n": 110,
+   "files": 4
+  },
+  "64": {
+   "name": "Amber Hammer",
+   "period_s": 0.632,
+   "median_s": 0.756,
+   "n": 116,
+   "files": 13
+  },
+  "49": {
+   "name": "Amber Daggers",
+   "period_s": 0.292,
+   "median_s": 0.379,
+   "n": 332,
+   "files": 21
+  },
+  "43": {
+   "name": "Golden Daggers",
+   "period_s": 0.368,
+   "median_s": 0.378,
+   "n": 744,
+   "files": 50
+  },
+  "44": {
+   "name": "Ruby Daggers",
+   "period_s": 0.341,
+   "median_s": 0.379,
+   "n": 387,
+   "files": 34
+  },
+  "32": {
+   "name": "Diamond Sword",
+   "period_s": 0.826,
+   "median_s": 1.005,
+   "n": 36,
+   "files": 10
+  },
+  "20": {
+   "name": "Golden Naginata",
+   "period_s": 1.168,
+   "median_s": 1.262,
+   "n": 16,
+   "files": 4
+  },
+  "27": {
+   "name": "Stone Sword",
+   "period_s": 0.546,
+   "median_s": 0.882,
+   "n": 236,
+   "files": 38
+  },
+  "48": {
+   "name": "Emerald Daggers",
+   "period_s": 0.369,
+   "median_s": 0.379,
+   "n": 170,
+   "files": 7
+  },
+  "69": {
+   "name": "Diamond Pickaxe",
+   "period_s": 0.338,
+   "median_s": 1.034,
+   "n": 23,
+   "files": 4
+  },
+  "9": {
+   "name": "Stone Spear",
+   "period_s": 0.879,
+   "median_s": 0.946,
+   "n": 42,
+   "files": 9
+  },
+  "1": {
+   "name": "Stone Gloves",
+   "period_s": 0.468,
+   "median_s": 0.756,
+   "n": 156,
+   "files": 12
+  },
+  "8": {
+   "name": "Amber Gloves",
+   "period_s": 0.633,
+   "median_s": 0.759,
+   "n": 11,
+   "files": 2
+  },
+  "30": {
+   "name": "Amethyst Sword",
+   "period_s": 0.513,
+   "median_s": 0.884,
+   "n": 100,
+   "files": 14
+  },
+  "54": {
+   "name": "Diamond Cleavers",
+   "period_s": 0.368,
+   "median_s": 0.476,
+   "n": 98,
+   "files": 10
+  },
+  "29": {
+   "name": "Ruby Sword",
+   "period_s": 0.755,
+   "median_s": 0.887,
+   "n": 98,
+   "files": 19
+  },
+  "50": {
+   "name": "Golden Cleavers",
+   "period_s": 0.378,
+   "median_s": 0.499,
+   "n": 55,
+   "files": 6
+  },
+  "34": {
+   "name": "Amber Sword",
+   "period_s": 0.407,
+   "median_s": 1.495,
+   "n": 24,
+   "files": 5
+  },
+  "170": {
+   "name": "Mushroom Soup",
+   "period_s": 0.319,
+   "median_s": 0.501,
+   "n": 8,
+   "files": 8
+  },
+  "21": {
+   "name": "Ruby Naginata",
+   "period_s": 1.255,
+   "median_s": 1.265,
+   "n": 5,
+   "files": 2
+  },
+  "4": {
+   "name": "Amethyst Gloves",
+   "period_s": 0.748,
+   "median_s": 1.169,
+   "n": 10,
+   "files": 4
+  },
+  "10": {
+   "name": "Golden Spear",
+   "period_s": 0.872,
+   "median_s": 1.005,
+   "n": 12,
+   "files": 2
+  },
+  "168": {
+   "name": "Sandwich",
+   "period_s": 0.23,
+   "median_s": 0.407,
+   "n": 9,
+   "files": 6
+  },
+  "111": {
+   "name": "Ruby Crystal Shield",
+   "period_s": 0.505,
+   "median_s": 0.63,
+   "n": 21,
+   "files": 3
+  },
+  "166": {
+   "name": "Apple",
+   "period_s": 0.476,
+   "median_s": 0.559,
+   "n": 14,
+   "files": 5
+  },
+  "78": {
+   "name": "Emerald Axe",
+   "period_s": 0.445,
+   "median_s": 1.134,
+   "n": 8,
+   "files": 4
+  },
+  "63": {
+   "name": "Emerald Hammer",
+   "period_s": 0.352,
+   "median_s": 0.754,
+   "n": 22,
+   "files": 7
+  },
+  "28": {
+   "name": "Golden Sword",
+   "period_s": 0.759,
+   "median_s": 0.85,
+   "n": 66,
+   "files": 13
+  },
+  "2": {
+   "name": "Golden Gloves",
+   "period_s": 0.752,
+   "median_s": 0.755,
+   "n": 6,
+   "files": 2
+  },
+  "51": {
+   "name": "Ruby Cleavers",
+   "period_s": 0.379,
+   "median_s": 0.499,
+   "n": 5,
+   "files": 2
+  },
+  "117": {
+   "name": "Stone Bow",
+   "period_s": 1.511,
+   "median_s": 1.643,
+   "n": 7,
+   "files": 3
+  },
+  "35": {
+   "name": "Golden Katana",
+   "period_s": 0.771,
+   "median_s": 1.126,
+   "n": 5,
+   "files": 2
+  },
+  "154": {
+   "name": "Bug Net",
+   "period_s": 0.893,
+   "median_s": 1.01,
+   "n": 5,
+   "files": 2
+  },
+  "101": {
+   "name": "Emerald Shield",
+   "period_s": 0.559,
+   "median_s": 0.567,
+   "n": 5,
+   "files": 2
+  },
+  "3": {
+   "name": "Ruby Gloves",
+   "period_s": 0.227,
+   "median_s": 1.103,
+   "n": 9,
+   "files": 2
+  },
+  "77": {
+   "name": "Diamond Axe",
+   "period_s": 1.005,
+   "median_s": 1.144,
+   "n": 16,
+   "files": 4
+  },
+  "114": {
+   "name": "Diamond Crystal Shield",
+   "period_s": 0.212,
+   "median_s": 1.593,
+   "n": 11,
+   "files": 5
+  },
+  "156": {
+   "name": "Slingshot",
+   "period_s": 1.036,
+   "median_s": 1.045,
+   "n": 12,
+   "files": 3
+  },
+  "100": {
+   "name": "Diamond Shield",
+   "period_s": 0.505,
+   "median_s": 0.625,
+   "n": 27,
+   "files": 3
+  },
+  "31": {
+   "name": "Sapphire Sword",
+   "period_s": 0.351,
+   "median_s": 1.216,
+   "n": 41,
+   "files": 5
+  },
+  "120": {
+   "name": "Amethyst Bow",
+   "period_s": 1.267,
+   "median_s": 1.388,
+   "n": 9,
+   "files": 1
+  },
+  "80": {
+   "name": "Golden Labrys",
+   "period_s": 1.415,
+   "median_s": 1.501,
+   "n": 11,
+   "files": 4
+  },
+  "56": {
+   "name": "Amber Cleavers",
+   "period_s": 0.463,
+   "median_s": 0.478,
+   "n": 23,
+   "files": 2
+  },
+  "71": {
+   "name": "Amber Pickaxe",
+   "period_s": 1.031,
+   "median_s": 1.037,
+   "n": 10,
+   "files": 2
+  },
+  "6": {
+   "name": "Diamond Gloves",
+   "period_s": 0.335,
+   "median_s": 1.446,
+   "n": 69,
+   "files": 4
+  },
+  "53": {
+   "name": "Sapphire Cleavers",
+   "period_s": 0.345,
+   "median_s": 0.503,
+   "n": 18,
+   "files": 2
+  },
+  "99": {
+   "name": "Sapphire Shield",
+   "period_s": 0.502,
+   "median_s": 0.631,
+   "n": 5,
+   "files": 2
+  },
+  "84": {
+   "name": "Diamond Labrys",
+   "period_s": 0.465,
+   "median_s": 1.507,
+   "n": 5,
+   "files": 2
+  }
+ },
+ "proj": {
+  "9": {
+   "speed": 1177,
+   "life_p90_s": 1.193,
+   "range": 731,
+   "shot_period_s": 0.36,
+   "shot_n": 49,
+   "n": 184,
+   "files": 22
+  },
+  "23": {
+   "speed": 1825,
+   "life_p90_s": 1.064,
+   "range": 766,
+   "shot_period_s": 0.0,
+   "shot_n": 34,
+   "n": 38,
+   "files": 2
+  },
+  "11": {
+   "speed": 1264,
+   "life_p90_s": 0.133,
+   "range": 166,
+   "shot_period_s": 0.001,
+   "shot_n": 24,
+   "n": 76,
+   "files": 7
+  },
+  "10": {
+   "speed": 1186,
+   "life_p90_s": 0.098,
+   "range": 57,
+   "shot_period_s": 0.064,
+   "shot_n": 14,
+   "n": 22,
+   "files": 5
+  },
+  "14": {
+   "speed": null,
+   "life_p90_s": 0.12,
+   "range": 322,
+   "shot_period_s": 0.001,
+   "shot_n": 9,
+   "n": 53,
+   "files": 8
+  },
+  "33": {
+   "speed": null,
+   "life_p90_s": 0.098,
+   "range": 82,
+   "shot_period_s": null,
+   "shot_n": 0,
+   "n": 3,
+   "files": 2
+  },
+  "30": {
+   "speed": 1127,
+   "life_p90_s": 0.501,
+   "range": 635,
+   "shot_period_s": null,
+   "shot_n": 0,
+   "n": 9,
+   "files": 8
+  },
+  "34": {
+   "speed": null,
+   "life_p90_s": 0.048,
+   "range": 429,
+   "shot_period_s": null,
+   "shot_n": 0,
+   "n": 6,
+   "files": 4
+  },
+  "27": {
+   "speed": null,
+   "life_p90_s": 0.0,
+   "range": 280,
+   "shot_period_s": 0.0,
+   "shot_n": 5,
+   "n": 20,
+   "files": 1
+  },
+  "3": {
+   "speed": 1212,
+   "life_p90_s": 1.723,
+   "range": 986,
+   "shot_period_s": null,
+   "shot_n": 0,
+   "n": 5,
+   "files": 4
+  },
+  "36": {
+   "speed": 1229,
+   "life_p90_s": 0.252,
+   "range": 480,
+   "shot_period_s": null,
+   "shot_n": 0,
+   "n": 3,
+   "files": 3
+  },
+  "8": {
+   "speed": 1302,
+   "life_p90_s": 0.249,
+   "range": 966,
+   "shot_period_s": null,
+   "shot_n": 0,
+   "n": 6,
+   "files": 3
+  },
+  "6": {
+   "speed": 1273,
+   "life_p90_s": 0.755,
+   "range": 719,
+   "shot_period_s": null,
+   "shot_n": 0,
+   "n": 6,
+   "files": 3
+  },
+  "1": {
+   "speed": 1163,
+   "life_p90_s": 0.753,
+   "range": 920,
+   "shot_period_s": null,
+   "shot_n": 0,
+   "n": 12,
+   "files": 5
+  },
+  "31": {
+   "speed": 1176,
+   "life_p90_s": 0.128,
+   "range": 151,
+   "shot_period_s": null,
+   "shot_n": 0,
+   "n": 2,
+   "files": 2
+  },
+  "24": {
+   "speed": 4825,
+   "life_p90_s": 0.195,
+   "range": 178,
+   "shot_period_s": 0.101,
+   "shot_n": 4,
+   "n": 6,
+   "files": 2
+  },
+  "13": {
+   "speed": null,
+   "life_p90_s": 0.12,
+   "range": null,
+   "shot_period_s": 1.027,
+   "shot_n": 5,
+   "n": 6,
+   "files": 1
+  },
+  "4": {
+   "speed": 1246,
+   "life_p90_s": 0.627,
+   "range": 781,
+   "shot_period_s": null,
+   "shot_n": 0,
+   "n": 14,
+   "files": 1
+  },
+  "37": {
+   "speed": null,
+   "life_p90_s": 0.002,
+   "range": 498,
+   "shot_period_s": null,
+   "shot_n": 0,
+   "n": 1,
+   "files": 1
+  },
+  "32": {
+   "speed": null,
+   "life_p90_s": 0.0,
+   "range": 390,
+   "shot_period_s": null,
+   "shot_n": 0,
+   "n": 2,
+   "files": 2
+  }
+ },
+ "wild": {
+  "120": {
+   "name": "Seal",
+   "walk": 68,
+   "chase": 318,
+   "n": 4728,
+   "files": 36
+  },
+  "9": {
+   "name": "Snow Wolf",
+   "walk": 62,
+   "chase": 263,
+   "n": 7518,
+   "files": 59
+  },
+  "15": {
+   "name": "Deer",
+   "walk": 65,
+   "chase": 119,
+   "n": 4843,
+   "files": 39
+  },
+  "57": {
+   "name": "Giant Bee",
+   "walk": 58,
+   "chase": 91,
+   "n": 55105,
+   "files": 377
+  },
+  "11": {
+   "name": "Polar Bear",
+   "walk": 64,
+   "chase": 171,
+   "n": 6596,
+   "files": 49
+  },
+  "12": {
+   "name": "Snow Fox",
+   "walk": 64,
+   "chase": 243,
+   "n": 6232,
+   "files": 43
+  },
+  "102": {
+   "name": "Penguin",
+   "walk": 65,
+   "chase": 83,
+   "n": 3162,
+   "files": 38
+  },
+  "37": {
+   "name": "Ice Fairy",
+   "walk": 68,
+   "chase": 292,
+   "n": 233,
+   "files": 6
+  },
+  "40": {
+   "name": "Ibex",
+   "walk": 63,
+   "chase": 82,
+   "n": 3862,
+   "files": 45
+  },
+  "10": {
+   "name": "Snow Rabbit",
+   "walk": 64,
+   "chase": 85,
+   "n": 6037,
+   "files": 48
+  },
+  "125": {
+   "name": "Snowman",
+   "walk": 66,
+   "chase": 213,
+   "n": 4177,
+   "files": 43
+  },
+  "24": {
+   "name": "Raven",
+   "walk": 56,
+   "chase": 80,
+   "n": 4596,
+   "files": 49
+  },
+  "64": {
+   "name": "Warg",
+   "walk": 65,
+   "chase": 295,
+   "n": 2498,
+   "files": 41
+  },
+  "31": {
+   "name": "Black Spider",
+   "walk": 65,
+   "chase": 194,
+   "n": 3814,
+   "files": 45
+  },
+  "48": {
+   "name": "Black Cat",
+   "walk": 64,
+   "chase": 201,
+   "n": 3422,
+   "files": 42
+  },
+  "67": {
+   "name": "Toad",
+   "walk": 64,
+   "chase": 120,
+   "n": 2505,
+   "files": 31
+  },
+  "49": {
+   "name": "Vulture",
+   "walk": 68,
+   "chase": 173,
+   "n": 5309,
+   "files": 39
+  },
+  "66": {
+   "name": "Kangaroo",
+   "walk": 63,
+   "chase": 167,
+   "n": 4419,
+   "files": 43
+  },
+  "47": {
+   "name": "Camel",
+   "walk": 55,
+   "chase": 167,
+   "n": 3414,
+   "files": 38
+  },
+  "44": {
+   "name": "Yellow Scorpion",
+   "walk": 63,
+   "chase": 243,
+   "n": 8229,
+   "files": 55
+  },
+  "53": {
+   "name": "Ostrich",
+   "walk": 58,
+   "chase": 81,
+   "n": 4767,
+   "files": 37
+  },
+  "59": {
+   "name": "Oryx",
+   "walk": 63,
+   "chase": 133,
+   "n": 5220,
+   "files": 59
+  },
+  "77": {
+   "name": "Sea Crab",
+   "walk": 56,
+   "chase": 133,
+   "n": 14206,
+   "files": 63
+  },
+  "83": {
+   "name": "Axolotl",
+   "walk": 53,
+   "chase": 90,
+   "n": 4570,
+   "files": 42
+  },
+  "78": {
+   "name": "Squid",
+   "walk": 57,
+   "chase": 110,
+   "n": 13711,
+   "files": 72
+  },
+  "79": {
+   "name": "Seahorse",
+   "walk": 64,
+   "chase": 300,
+   "n": 12080,
+   "files": 66
+  },
+  "84": {
+   "name": "Shark",
+   "walk": 61,
+   "chase": 181,
+   "n": 4103,
+   "files": 39
+  },
+  "82": {
+   "name": "Stingray",
+   "walk": 57,
+   "chase": 85,
+   "n": 4790,
+   "files": 43
+  },
+  "112": {
+   "name": "Salamander",
+   "walk": 54,
+   "chase": 104,
+   "n": 14652,
+   "files": 73
+  },
+  "111": {
+   "name": "Hellhound",
+   "walk": 64,
+   "chase": 258,
+   "n": 11819,
+   "files": 60
+  },
+  "113": {
+   "name": "Lizardman",
+   "walk": 60,
+   "chase": 190,
+   "n": 8116,
+   "files": 58
+  },
+  "1": {
+   "name": "Rabbit",
+   "walk": 57,
+   "chase": 98,
+   "n": 10006,
+   "files": 100
+  },
+  "7": {
+   "name": "Cow",
+   "walk": 56,
+   "chase": 104,
+   "n": 9206,
+   "files": 80
+  },
+  "2": {
+   "name": "Bear",
+   "walk": 57,
+   "chase": 211,
+   "n": 16686,
+   "files": 110
+  },
+  "33": {
+   "name": "Sheep",
+   "walk": 62,
+   "chase": 109,
+   "n": 7644,
+   "files": 71
+  },
+  "91": {
+   "name": "Dog",
+   "walk": 56,
+   "chase": 98,
+   "n": 6588,
+   "files": 66
+  },
+  "3": {
+   "name": "Fox",
+   "walk": 58,
+   "chase": 271,
+   "n": 11457,
+   "files": 106
+  },
+  "75": {
+   "name": "Hedgehog",
+   "walk": 60,
+   "chase": 84,
+   "n": 4896,
+   "files": 57
+  },
+  "0": {
+   "name": "Wolf",
+   "walk": 62,
+   "chase": 268,
+   "n": 9570,
+   "files": 106
+  },
+  "8": {
+   "name": "Horse",
+   "walk": 56,
+   "chase": 128,
+   "n": 8194,
+   "files": 73
+  },
+  "20": {
+   "name": "Dragon",
+   "walk": 76,
+   "chase": 304,
+   "n": 4122,
+   "files": 33
+  },
+  "56": {
+   "name": "Giant Mantis",
+   "walk": 54,
+   "chase": 216,
+   "n": 4920,
+   "files": 53
+  },
+  "19": {
+   "name": "Plant Fairy",
+   "walk": 71,
+   "chase": 331,
+   "n": 757,
+   "files": 14
+  },
+  "17": {
+   "name": "Water Fairy",
+   "walk": 72,
+   "chase": 360,
+   "n": 757,
+   "files": 16
+  },
+  "18": {
+   "name": "Fire Fairy",
+   "walk": 74,
+   "chase": 400,
+   "n": 732,
+   "files": 22
+  },
+  "68": {
+   "name": "Flying Squirrel",
+   "walk": 54,
+   "chase": 79,
+   "n": 1771,
+   "files": 27
+  },
+  "58": {
+   "name": "Giant Moth",
+   "walk": 63,
+   "chase": 79,
+   "n": 4427,
+   "files": 42
+  },
+  "23": {
+   "name": "Barn Owl",
+   "walk": 65,
+   "chase": 140,
+   "n": 4328,
+   "files": 47
+  },
+  "34": {
+   "name": "Unicorn",
+   "walk": 64,
+   "chase": 108,
+   "n": 4155,
+   "files": 41
+  },
+  "42": {
+   "name": "Fennec Fox",
+   "walk": 60,
+   "chase": 123,
+   "n": 6661,
+   "files": 57
+  },
+  "61": {
+   "name": "Caracal",
+   "walk": 67,
+   "chase": 266,
+   "n": 3115,
+   "files": 41
+  },
+  "16": {
+   "name": "Boar",
+   "walk": 64,
+   "chase": 294,
+   "n": 4198,
+   "files": 51
+  },
+  "6": {
+   "name": "Bull",
+   "walk": 65,
+   "chase": 278,
+   "n": 6742,
+   "files": 72
+  },
+  "115": {
+   "name": "Fire Wisp",
+   "walk": 55,
+   "chase": 213,
+   "n": 4903,
+   "files": 44
+  },
+  "4": {
+   "name": "Polecat",
+   "walk": 57,
+   "chase": 91,
+   "n": 4869,
+   "files": 64
+  },
+  "5": {
+   "name": "Skunk",
+   "walk": 56,
+   "chase": 84,
+   "n": 6247,
+   "files": 74
+  },
+  "117": {
+   "name": "Floodog",
+   "walk": 206,
+   "chase": 356,
+   "n": 42,
+   "files": 1
+  },
+  "114": {
+   "name": "Dark Wisp",
+   "walk": 55,
+   "chase": 130,
+   "n": 5835,
+   "files": 39
+  },
+  "126": {
+   "name": "Snowball",
+   "walk": 56,
+   "chase": 125,
+   "n": 2535,
+   "files": 32
+  },
+  "39": {
+   "name": "Rat",
+   "walk": 62,
+   "chase": 257,
+   "n": 4060,
+   "files": 39
+  },
+  "32": {
+   "name": "Living Mushroom",
+   "walk": 69,
+   "chase": 78,
+   "n": 125,
+   "files": 2
+  },
+  "25": {
+   "name": "Bat",
+   "walk": 59,
+   "chase": 337,
+   "n": 3934,
+   "files": 54
+  },
+  "43": {
+   "name": "Armadillo",
+   "walk": 59,
+   "chase": 107,
+   "n": 6696,
+   "files": 53
+  },
+  "14": {
+   "name": "Lynx",
+   "walk": 64,
+   "chase": 258,
+   "n": 2511,
+   "files": 41
+  },
+  "21": {
+   "name": "Ice Golem",
+   "walk": 122,
+   "chase": 325,
+   "n": 952,
+   "files": 12
+  },
+  "76": {
+   "name": "Ice Dragon",
+   "walk": 70,
+   "chase": 318,
+   "n": 246,
+   "files": 9
+  },
+  "30": {
+   "name": "White Spider",
+   "walk": 63,
+   "chase": 251,
+   "n": 2610,
+   "files": 37
+  },
+  "22": {
+   "name": "Iceberg",
+   "walk": 123,
+   "chase": 290,
+   "n": 557,
+   "files": 8
+  },
+  "63": {
+   "name": "Menhir",
+   "walk": 72,
+   "chase": 240,
+   "n": 873,
+   "files": 8
+  },
+  "62": {
+   "name": "Stone Golem",
+   "walk": 84,
+   "chase": 324,
+   "n": 684,
+   "files": 7
+  },
+  "123": {
+   "name": "Lava Golem",
+   "walk": 69,
+   "chase": 355,
+   "n": 213,
+   "files": 7
+  },
+  "122": {
+   "name": "Mantle",
+   "walk": 74,
+   "chase": 269,
+   "n": 378,
+   "files": 6
+  },
+  "121": {
+   "name": "Volcanic Golem",
+   "walk": 127,
+   "chase": 380,
+   "n": 267,
+   "files": 3
+  },
+  "86": {
+   "name": "Genie",
+   "walk": 202,
+   "chase": 367,
+   "n": 81,
+   "files": 1
+  },
+  "35": {
+   "name": "Spectrum",
+   "walk": 184,
+   "chase": 358,
+   "n": 696,
+   "files": 7
+  },
+  "51": {
+   "name": "Poison Fairy",
+   "walk": 115,
+   "chase": 383,
+   "n": 164,
+   "files": 4
+  },
+  "50": {
+   "name": "Electric Fairy",
+   "walk": 119,
+   "chase": 449,
+   "n": 300,
+   "files": 5
+  },
+  "101": {
+   "name": "Gold Golem",
+   "walk": 118,
+   "chase": 291,
+   "n": 203,
+   "files": 3
+  },
+  "141": {
+   "name": "Fire Dragon",
+   "walk": 54,
+   "chase": 247,
+   "n": 850,
+   "files": 7
+  },
+  "85": {
+   "name": "Octopus",
+   "walk": 69,
+   "chase": 299,
+   "n": 1420,
+   "files": 14
+  },
+  "89": {
+   "name": "Fire Statue",
+   "walk": 55,
+   "chase": 287,
+   "n": 627,
+   "files": 7
+  },
+  "36": {
+   "name": "Combat Fairy",
+   "walk": 118,
+   "chase": 368,
+   "n": 160,
+   "files": 3
+  },
+  "93": {
+   "name": "Coldog",
+   "walk": 262,
+   "chase": 561,
+   "n": 51,
+   "files": 2
+  },
+  "52": {
+   "name": "Spectrum Fairy",
+   "walk": 72,
+   "chase": 263,
+   "n": 136,
+   "files": 3
+  },
+  "46": {
+   "name": "Dragon Fairy",
+   "walk": 72,
+   "chase": 360,
+   "n": 151,
+   "files": 2
+  },
+  "55": {
+   "name": "Insect Fairy",
+   "walk": 75,
+   "chase": 478,
+   "n": 152,
+   "files": 3
+  },
+  "90": {
+   "name": "Water Statue",
+   "walk": 67,
+   "chase": 141,
+   "n": 62,
+   "files": 2
+  },
+  "45": {
+   "name": "Rock Fairy",
+   "walk": 170,
+   "chase": 455,
+   "n": 66,
+   "files": 1
+  },
+  "38": {
+   "name": "Normal Fairy",
+   "walk": 141,
+   "chase": 373,
+   "n": 67,
+   "files": 1
+  }
+ }
+}
